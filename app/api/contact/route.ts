@@ -64,7 +64,7 @@ export async function POST(request: NextRequest) {
           </p>
         </div>
       `,
-      replyTo: email,
+      reply_to: email,
     });
 
     if (error) {
