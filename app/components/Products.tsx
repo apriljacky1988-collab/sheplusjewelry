@@ -51,6 +51,14 @@ const products = [
     price: "From $16/pc",
     image: "/images/product-6.jpg"
   }
+  {
+    name: "Floating Pearl Necklace",
+    category: "Necklaces",
+    material: "Freshwater Pearl, 14K Gold Plated",
+    moq: "10 pieces",
+    price: "From $20/pc",
+    image: "/images/product-9.jpg"
+  }
 ];
 
 export default function Products() {
