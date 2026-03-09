@@ -1,6 +1,5 @@
 "use client";
 
-import { Check } from "lucide-react";
 
 const features = [
   {
