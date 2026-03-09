@@ -95,13 +95,19 @@ export default function Hero() {
           </div>
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-tr from-teal-200 to-amber-200 rounded-full blur-3xl opacity-30"></div>
-            <div className="relative bg-white rounded-2xl shadow-2xl p-8">
-              <div className="aspect-square bg-gradient-to-br from-gray-100 to-gray-200 rounded-xl flex items-center justify-center">
-                <span className="text-gray-400 text-lg">Product Image Placeholder</span>
+            <div className="relative bg-white rounded-2xl shadow-2xl p-4">
+              <div className="relative aspect-square rounded-xl overflow-hidden">
+                <Image
+                  src="/images/hero.jpg"
+                  alt="Turquoise Cross Necklace - SheplusJewelry"
+                  fill
+                  className="object-cover"
+                  priority
+                />
               </div>
-              <div className="mt-6 text-center">
+              <div className="mt-4 text-center">
                 <h3 className="text-xl font-semibold text-gray-900">Turquoise Collection</h3>
-                <p className="text-gray-600 mt-2">Genuine stones, 14K gold plated</p>
+                <p className="text-gray-600 mt-1">Genuine stones, 14K gold plated</p>
               </div>
             </div>
           </div>
