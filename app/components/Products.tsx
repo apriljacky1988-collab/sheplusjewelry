@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useLang } from "../i18n/LangContext";
 import { t } from "../i18n/translations";
-import { products } from "../data/products";
+import { products, localizedProduct } from "../data/products";
 
 export default function Products() {
   const { lang } = useLang();
@@ -18,29 +18,32 @@ export default function Products() {
           <p className="text-lg text-gray-600">{txt.subtitle}</p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {products.map((product, index) => (
-            <Link key={index} href={`/products/${product.id}`}
-              className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition group cursor-pointer block">
-              <div className="relative aspect-square overflow-hidden">
-                <Image src={product.image} alt={product.name} fill className="object-cover group-hover:scale-105 transition duration-300" />
-              </div>
-              <div className="p-6">
-                <span className="text-xs font-semibold text-teal-600 uppercase tracking-wide">{product.category}</span>
-                <h3 className="text-lg font-semibold text-gray-900 mt-1 mb-2">{product.name}</h3>
-                <p className="text-sm text-gray-600 mb-4">{product.material}</p>
-                <div className="flex items-center justify-between text-sm">
-                  <span className="text-gray-500">MOQ: {product.moq}</span>
-                  <span className="font-semibold text-teal-600">{product.price}</span>
+          {products.map((product, index) => {
+            const p = localizedProduct(product, lang);
+            return (
+              <Link key={index} href={`/products/${p.id}`}
+                className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition group cursor-pointer block">
+                <div className="relative aspect-square overflow-hidden">
+                  <Image src={p.image} alt={p.name} fill className="object-cover group-hover:scale-105 transition duration-300" />
                 </div>
-                <div className="mt-4 text-teal-600 text-sm font-medium flex items-center gap-1 group-hover:gap-2 transition-all">
-                  {txt.viewDetails}
-                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                  </svg>
+                <div className="p-6">
+                  <span className="text-xs font-semibold text-teal-600 uppercase tracking-wide">{p.category}</span>
+                  <h3 className="text-lg font-semibold text-gray-900 mt-1 mb-2">{p.name}</h3>
+                  <p className="text-sm text-gray-600 mb-4">{p.material}</p>
+                  <div className="flex items-center justify-between text-sm">
+                    <span className="text-gray-500">MOQ: {p.moq}</span>
+                    <span className="font-semibold text-teal-600">{p.price}</span>
+                  </div>
+                  <div className="mt-4 text-teal-600 text-sm font-medium flex items-center gap-1 group-hover:gap-2 transition-all">
+                    {txt.viewDetails}
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    </svg>
+                  </div>
                 </div>
-              </div>
-            </Link>
-          ))}
+              </Link>
+            );
+          })}
         </div>
         <div className="text-center mt-12">
           <a href="#contact" className="inline-flex items-center text-teal-600 font-semibold hover:text-teal-700 transition">
