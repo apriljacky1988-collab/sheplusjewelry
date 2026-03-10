@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { LangProvider } from "./i18n/LangContext";
 
 export const metadata: Metadata = {
   title: "Sheplus Jewelry | Small Batch Custom Jewelry Manufacturer",
@@ -14,7 +15,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">
+        <LangProvider>{children}</LangProvider>
+      </body>
     </html>
   );
 }
