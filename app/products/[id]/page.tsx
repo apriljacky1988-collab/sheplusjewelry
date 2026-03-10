@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { products } from "../../components/Products";
+import { products } from "../../data/products";
 
 export function generateStaticParams() {
   return products.map((p) => ({ id: p.id }));
@@ -74,14 +74,14 @@ export default function ProductPage({ params }: { params: { id: string } }) {
                 <span className="text-teal-700 font-medium text-sm">MOQ: {product.moq}</span>
               </div>
               <div className="bg-amber-50 rounded-lg px-4 py-2">
-                <span className="text-amber-700 font-medium text-sm">Material: {product.material}</span>
+                <span className="text-amber-700 font-medium text-sm">{product.material}</span>
               </div>
             </div>
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href={`/#contact`}
+                href="/#contact"
                 className="flex-1 bg-teal-600 text-white text-center py-4 px-8 rounded-xl font-semibold hover:bg-teal-700 transition text-lg"
               >
                 Request a Sample
