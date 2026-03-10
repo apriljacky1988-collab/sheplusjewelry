@@ -123,9 +123,6 @@ export default function ProductPageClient({ params }: { params: { id: string } }
               <div className="bg-teal-50 rounded-lg px-4 py-2">
                 <span className="text-teal-700 font-medium text-sm">MOQ: {product.moq}</span>
               </div>
-              <div className="bg-amber-50 rounded-lg px-4 py-2">
-                <span className="text-amber-700 font-medium text-sm">{product.material}</span>
-              </div>
             </div>
 
             {/* CTA Buttons */}
