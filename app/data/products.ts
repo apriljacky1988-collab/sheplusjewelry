@@ -21,8 +21,8 @@ export const products: Product[] = [
     material: { en: "Genuine Turquoise, 14K Gold Plated", es: "Turquesa Genuina, Baño de Oro 14K" },
     moq: "1 piece (sample)",
     price: "From $12/pc",
-    image: "/images/product-1.jpg",
-    images: ["/images/product-1.jpg", "/images/product-7.jpg", "/images/product-8.jpg"],
+    image: "/images/earrings-real-product.jpg",
+    images: ["/images/earrings-real-product.jpg", "/images/earrings-wear-scene.jpg", "/images/earrings-gift-scene.jpg", "/images/earrings-gift-box.jpg"],
     description: {
       en: "A beautiful gift set featuring genuine turquoise earrings with 14K gold plated settings. Perfect for boutique resellers looking for eye-catching turquoise jewelry with a premium finish.",
       es: "Un hermoso set de regalo con aretes de turquesa genuina y engarces bañados en oro 14K. Perfecto para revendedores de boutique que buscan joyería de turquesa llamativa con acabado premium.",
