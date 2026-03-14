@@ -605,4 +605,118 @@ Our new buyer program:
 *Sheplus Jewelry has helped 160+ boutiques launch and grow their jewelry sections over the past 20 years. We'd love to help yours too.*
     `.trim(),
   },
+
+  {
+    slug: 'pearl-jewelry-wholesale-boutique-guide',
+    title: 'Pearl Jewelry Wholesale: A Buyer's Guide for Boutique Owners',
+    description: 'Everything boutique owners need to know about sourcing freshwater pearl jewelry wholesale — types, quality grades, pricing, and finding reliable suppliers.',
+    date: '2026-03-14',
+    readTime: '5 min read',
+    category: 'Sourcing Guide',
+    content: `
+## Why Pearl Jewelry Belongs in Every Boutique
+
+Freshwater pearl jewelry is one of the most consistently strong sellers in US boutiques — transcending trends, age demographics, and seasons. Unlike fashion jewelry that comes and goes, pearl pieces sell year-round as gifts, bridal accessories, and everyday elegance.
+
+For boutique buyers, pearls offer another advantage: customers understand the value. Unlike turquoise, where buyers may question authenticity, pearls have a clear luxury perception that justifies higher price points.
+
+## Types of Pearls in the Wholesale Market
+
+### Freshwater Pearls
+Grown in mussels in freshwater lakes and rivers, primarily in China. The most accessible and versatile option for boutique buyers.
+
+**Characteristics:**
+- Available in white, pink, lavender, and natural colors
+- Irregular to near-round shapes (all natural)
+- Size range: 4mm to 12mm+ 
+- Wholesale price: $3–$18 per strand depending on size and quality
+
+### Akoya Pearls
+Japanese saltwater pearls known for exceptional luster. The classic "strand of pearls" is usually Akoya.
+
+**Characteristics:**
+- High mirror-like luster
+- Very round shape
+- White or cream with pink overtones
+- Price: significantly higher than freshwater
+
+### South Sea and Tahitian Pearls
+The luxury tier — large, dramatic, and priced accordingly. Not typically carried by small boutiques.
+
+## Freshwater Pearl Quality Grades
+
+When sourcing, ask suppliers for their grading system. Common grades:
+
+| Grade | Characteristics | Best For |
+|-------|----------------|----------|
+| AAA | Near-perfect luster, minimal blemishes | Premium boutiques |
+| AA | High luster, few surface marks | Most boutiques |
+| A | Good luster, some surface variation | Value-priced pieces |
+
+For boutiques, **AA grade** offers the best balance of quality and price.
+
+## Best-Selling Pearl Jewelry Styles
+
+### Pearl Drop Earrings
+The single best-selling pearl jewelry item across all boutique types. Simple, elegant, works for every occasion.
+
+*Price sweet spot: $32–$55 retail*
+
+### Pearl Pendant Necklaces
+A single pearl or small cluster on a delicate chain. Works as everyday wear and gift purchase.
+
+*Price sweet spot: $38–$65 retail*
+
+### Layered Pearl + Chain Necklaces
+Pearl strands layered with gold chains — captures the trendy layering look.
+
+*Price sweet spot: $55–$95 retail*
+
+### Pearl Stud Earrings
+The classic — always in demand, especially for gift purchases.
+
+*Price sweet spot: $28–$48 retail*
+
+### Mixed Pearl + Turquoise Designs
+Increasingly popular — the combination of two natural stones creates pieces with strong visual appeal and story.
+
+*Price sweet spot: $45–$85 retail*
+
+## What to Ask Your Pearl Supplier
+
+1. **What grade are the pearls?** (AAA, AA, A, or equivalent)
+2. **Are they freshwater or saltwater?**
+3. **What's the nacre thickness?** (Thicker nacre = longer lasting luster)
+4. **Are they dyed or bleached?** (Natural color is preferred)
+5. **What metal is used with the pearls?** (925 silver or gold vermeil?)
+
+## Pricing Pearl Jewelry for Your Store
+
+Pearl jewelry commands premium pricing because customers perceive it as inherently valuable.
+
+Recommended markup: **2.8x–3.5x wholesale**
+
+| Wholesale Price | Retail Price | Notes |
+|----------------|--------------|-------|
+| $12 | $38–$42 | Simple studs |
+| $18 | $55–$62 | Drop earrings |
+| $22 | $65–$75 | Pendant necklace |
+| $35 | $95–$110 | Layered set |
+
+## How Sheplus Jewelry Sources Our Pearls
+
+We work directly with freshwater pearl farms in Zhejiang, China — one of the world's primary pearl production regions. Our selection process:
+
+- Minimum AA grade for all retail pieces
+- Natural luster, not artificially enhanced
+- Nacre thickness verified by our quality team
+- Combined with 925 sterling silver or 14K gold vermeil settings
+
+[Browse our pearl jewelry collection](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com for samples.
+
+---
+
+*Sheplus Jewelry supplies pearl and turquoise jewelry to 160+ US boutiques and Etsy sellers. MOQ 1 piece for samples.*
+    `.trim(),
+  },
 ]
