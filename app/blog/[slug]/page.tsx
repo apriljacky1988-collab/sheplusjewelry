@@ -99,9 +99,9 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
             <Link href="/products" className="bg-[#c9a84c] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#e0bf6e] transition">
               View Products
             </Link>
-            <Link href="/contact" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition">
+            <a href="mailto:anna@sheplusjewelry.com?subject=Sample%20Request%20-%20Sheplus%20Jewelry&body=Hi%20Anna%2C%0A%0AI'm%20interested%20in%20ordering%20samples.%0A%0AMy%20store%3A%20%0AProducts%20interested%20in%3A%20%0AQuantity%3A%20%0A%0AThank%20you!" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition">
               Get Samples
-            </Link>
+            </a>
           </div>
         </div>
       </section>

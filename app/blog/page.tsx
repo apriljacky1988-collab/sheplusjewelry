@@ -63,9 +63,9 @@ export default function BlogPage() {
             <Link href="/products" className="bg-[#1a1a2e] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#2a2a4e] transition">
               View Products
             </Link>
-            <Link href="/contact" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition">
-              Contact Us
-            </Link>
+            <a href="mailto:anna@sheplusjewelry.com?subject=Sample%20Request%20-%20Sheplus%20Jewelry&body=Hi%20Anna%2C%0A%0AI'm%20interested%20in%20ordering%20samples.%0A%0AMy%20store%3A%20%0AProducts%20interested%20in%3A%20%0AQuantity%3A%20%0A%0AThank%20you!" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition">
+              Get Samples
+            </a>
           </div>
         </div>
       </section>
