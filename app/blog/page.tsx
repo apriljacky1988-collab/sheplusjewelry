@@ -60,10 +60,10 @@ export default function BlogPage() {
           <h2 className="text-2xl font-bold text-[#1a1a2e] mb-3">Ready to Source Quality Jewelry?</h2>
           <p className="text-gray-600 mb-6">Browse our collection or contact us for samples. MOQ starts at 1 piece.</p>
           <div className="flex gap-4 justify-center flex-wrap">
-            <Link href="/products" className="bg-[#1a1a2e] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#2a2a4e] transition">
+            <a href="https://www.sheplusjewelry.com/#products" className="bg-[#1a1a2e] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#2a2a4e] transition">
               View Products
-            </Link>
-            <a href="mailto:anna@sheplusjewelry.com?subject=Sample%20Request%20-%20Sheplus%20Jewelry&body=Hi%20Anna%2C%0A%0AI'm%20interested%20in%20ordering%20samples.%0A%0AMy%20store%3A%20%0AProducts%20interested%20in%3A%20%0AQuantity%3A%20%0A%0AThank%20you!" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition">
+            </a>
+            <a href="https://www.sheplusjewelry.com/#contact" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition">
               Get Samples
             </a>
           </div>

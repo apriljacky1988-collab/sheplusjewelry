@@ -96,10 +96,10 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           <h3 className="text-white text-xl font-bold mb-2">Ready to Source Quality Jewelry?</h3>
           <p className="text-gray-300 mb-6">MOQ starts at 1 piece for samples. No risk to try us.</p>
           <div className="flex gap-4 justify-center flex-wrap">
-            <Link href="/products" className="bg-[#c9a84c] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#e0bf6e] transition">
+            <a href="https://www.sheplusjewelry.com/#products" className="bg-[#c9a84c] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#e0bf6e] transition">
               View Products
-            </Link>
-            <a href="mailto:anna@sheplusjewelry.com?subject=Sample%20Request%20-%20Sheplus%20Jewelry&body=Hi%20Anna%2C%0A%0AI'm%20interested%20in%20ordering%20samples.%0A%0AMy%20store%3A%20%0AProducts%20interested%20in%3A%20%0AQuantity%3A%20%0A%0AThank%20you!" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition">
+            </a>
+            <a href="https://www.sheplusjewelry.com/#contact" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition">
               Get Samples
             </a>
           </div>
