@@ -24,6 +24,7 @@ export default function Hero() {
             <a href="#products" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.products}</a>
             <a href="#process" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.process}</a>
             <a href="#about" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.about}</a>
+            <a href="/blog" className="text-gray-700 hover:text-teal-600 transition font-medium">Blog</a>
             {/* Language switcher */}
             <div className="flex items-center gap-1 border border-gray-200 rounded-full px-2 py-1">
               <button
@@ -60,6 +61,7 @@ export default function Hero() {
             <a href="#products" className="block py-2 text-gray-700">{txt.nav.products}</a>
             <a href="#process" className="block py-2 text-gray-700">{txt.nav.process}</a>
             <a href="#about" className="block py-2 text-gray-700">{txt.nav.about}</a>
+            <a href="/blog" className="block py-2 text-gray-700 font-medium">Blog</a>
             <a href="#contact" className="block py-2 text-teal-600 font-semibold">{txt.nav.quote}</a>
           </div>
         )}
