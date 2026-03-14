@@ -106,7 +106,7 @@ export default function ProductPageClient({ params }: { params: { id: string } }
               <a href="/#contact" className="flex-1 bg-teal-600 text-white text-center py-4 px-8 rounded-xl font-semibold hover:bg-teal-700 transition text-lg">
                 {copy.sample}
               </a>
-              <a href="mailto:crossborderstar@gmail.com" className="flex-1 border-2 border-teal-600 text-teal-600 text-center py-4 px-8 rounded-xl font-semibold hover:bg-teal-50 transition text-lg">
+              <a href="mailto:anna@sheplusjewelry.com" className="flex-1 border-2 border-teal-600 text-teal-600 text-center py-4 px-8 rounded-xl font-semibold hover:bg-teal-50 transition text-lg">
                 {copy.email}
               </a>
             </div>

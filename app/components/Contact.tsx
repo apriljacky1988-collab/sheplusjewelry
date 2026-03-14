@@ -23,7 +23,7 @@ export default function Contact() {
       if (!response.ok) throw new Error('Failed to send');
       setIsSubmitted(true);
     } catch {
-      alert('Failed to send message. Please email us directly at crossborderstar@gmail.com');
+      alert('Failed to send message. Please email us directly at anna@sheplusjewelry.com');
     } finally {
       setIsSubmitting(false);
     }
@@ -50,7 +50,7 @@ export default function Contact() {
                 </div>
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold text-gray-900">{txt.email}</h3>
-                  <p className="text-gray-600">crossborderstar@gmail.com</p>
+                  <p className="text-gray-600">anna@sheplusjewelry.com</p>
                 </div>
               </div>
               <div className="flex items-start">

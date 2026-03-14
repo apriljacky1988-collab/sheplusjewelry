@@ -17,7 +17,7 @@ export async function POST(request: NextRequest) {
 
     const { data, error } = await resend.emails.send({
       from: 'SheplusJewelry <onboarding@resend.dev>',
-      to: ['crossborderstar@gmail.com'],
+      to: ['anna@sheplusjewelry.com'],
       subject: `New Inquiry from ${name} - SheplusJewelry`,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
