@@ -60,10 +60,10 @@ export default function BlogPage() {
           <h2 className="text-2xl font-bold text-[#1a1a2e] mb-3">Ready to Source Quality Jewelry?</h2>
           <p className="text-gray-600 mb-6">Browse our collection or contact us for samples. MOQ starts at 1 piece.</p>
           <div className="flex gap-4 justify-center flex-wrap">
-            <a href="/" className="bg-[#1a1a2e] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#2a2a4e] transition" onClick={(e)=>{e.preventDefault();window.location.href='/#products';}}>
+            <a href="/#products" className="bg-[#1a1a2e] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#2a2a4e] transition">
               View Products
             </a>
-            <a href="/" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition" onClick={(e)=>{e.preventDefault();window.location.href='/#contact';}}>
+            <a href="/#contact" className="border-2 border-[#1a1a2e] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#1a1a2e] hover:text-white transition">
               Get Samples
             </a>
           </div>

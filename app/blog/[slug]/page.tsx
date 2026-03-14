@@ -96,10 +96,10 @@ export default function BlogPostPage({ params }: { params: { slug: string } }) {
           <h3 className="text-white text-xl font-bold mb-2">Ready to Source Quality Jewelry?</h3>
           <p className="text-gray-300 mb-6">MOQ starts at 1 piece for samples. No risk to try us.</p>
           <div className="flex gap-4 justify-center flex-wrap">
-            <a href="/" className="bg-[#c9a84c] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#e0bf6e] transition" onClick={(e)=>{e.preventDefault();window.location.href='/#products';}}>
+            <a href="/#products" className="bg-[#c9a84c] text-[#1a1a2e] px-6 py-3 rounded-lg font-semibold hover:bg-[#e0bf6e] transition">
               View Products
             </a>
-            <a href="/" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition" onClick={(e)=>{e.preventDefault();window.location.href='/#contact';}}>
+            <a href="/#contact" className="border border-white text-white px-6 py-3 rounded-lg font-semibold hover:bg-white hover:text-[#1a1a2e] transition">
               Get Samples
             </a>
           </div>
