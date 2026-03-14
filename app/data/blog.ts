@@ -608,8 +608,8 @@ Our new buyer program:
 
   {
     slug: 'pearl-jewelry-wholesale-boutique-guide',
-    title: 'Pearl Jewelry Wholesale: A Buyer's Guide for Boutique Owners',
-    description: 'Everything boutique owners need to know about sourcing freshwater pearl jewelry wholesale — types, quality grades, pricing, and finding reliable suppliers.',
+    title: "Pearl Jewelry Wholesale: A Buyer's Guide for Boutique Owners",
+    description: "Everything boutique owners need to know about sourcing freshwater pearl jewelry wholesale — types, quality grades, pricing, and finding reliable suppliers.",
     date: '2026-03-14',
     readTime: '5 min read',
     category: 'Sourcing Guide',
