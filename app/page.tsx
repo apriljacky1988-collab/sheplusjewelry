@@ -2,6 +2,7 @@ import Hero from "./components/Hero";
 import TrustBar from "./components/TrustBar";
 import Features from "./components/Features";
 import Products from "./components/Products";
+import CustomDesign from "./components/CustomDesign";
 import Process from "./components/Process";
 import About from "./components/About";
 import FAQ from "./components/FAQ";
@@ -15,6 +16,7 @@ export default function Home() {
       <TrustBar />
       <Features />
       <Products />
+      <CustomDesign />
       <Process />
       <About />
       <FAQ />
