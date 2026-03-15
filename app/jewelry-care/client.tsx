@@ -26,39 +26,37 @@ export default function JewelryCareClient() {
 
   return (
     <>
-      {/* Two Path Cards */}
+      {/* Share Your Experience */}
       {!showForm && !submitted && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-8">
-          <div className="bg-white rounded-2xl shadow-md border border-stone-100 p-6 text-center hover:shadow-lg transition-shadow">
-            <div className="text-3xl mb-3">🌟</div>
-            <h2 className="text-base font-bold text-stone-800 mb-2">Loving Your Jewelry?</h2>
-            <p className="text-stone-500 text-xs mb-5 leading-relaxed">
-              A quick review means the world to our small team — and helps others find us!
+        <div className="space-y-4 mb-8">
+          {/* Review Section */}
+          <div className="bg-white rounded-2xl shadow-sm border border-stone-100 p-6">
+            <h2 className="text-base font-bold text-stone-800 mb-1">Share Your Experience</h2>
+            <p className="text-stone-500 text-xs mb-4 leading-relaxed">
+              Your review helps other customers discover our jewelry.
             </p>
             <a
               href="https://www.amazon.com/review/create-review?asin=B0FNWV1T9Q"
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full bg-amber-500 hover:bg-amber-600 text-white font-semibold py-3 px-4 rounded-xl transition-colors text-sm"
+              className="block w-full bg-amber-500 hover:bg-amber-600 text-white font-semibold py-3 px-4 rounded-xl transition-colors text-sm text-center"
             >
-              ⭐ Leave a Review
+              ⭐ Leave a Review on Amazon
             </a>
-            <p className="text-xs text-stone-400 mt-2">Sign in to Amazon, then review directly</p>
           </div>
 
-          <div className="bg-white rounded-2xl shadow-md border border-stone-100 p-6 text-center hover:shadow-lg transition-shadow">
-            <div className="text-3xl mb-3">🤝</div>
-            <h2 className="text-base font-bold text-stone-800 mb-2">Have a Concern?</h2>
-            <p className="text-stone-500 text-xs mb-5 leading-relaxed">
-              Please contact us first — free replacement or full refund, guaranteed.
+          {/* Support Section */}
+          <div className="bg-white rounded-2xl shadow-sm border border-stone-100 p-6">
+            <h2 className="text-base font-bold text-stone-800 mb-1">Need Help?</h2>
+            <p className="text-stone-500 text-xs mb-4 leading-relaxed">
+              We&apos;re always happy to help — free replacement or full refund, guaranteed.
             </p>
             <button
               onClick={() => setShowForm(true)}
               className="w-full bg-[#1c1a2e] hover:bg-[#2d2b40] text-white font-semibold py-3 px-4 rounded-xl transition-colors text-sm"
             >
-              ✉️ Contact Us First
+              ✉️ Contact Our Support Team
             </button>
-            <p className="text-xs text-stone-400 mt-2">Reply within 24 hours</p>
           </div>
         </div>
       )}
