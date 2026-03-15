@@ -33,7 +33,7 @@ export default function CustomDesign() {
   ];
 
   return (
-    <section className="py-20 bg-stone-900 text-white">
+    <section id="custom-design" className="py-20 bg-stone-900 text-white">
       <div className="max-w-6xl mx-auto px-6">
         {/* Header */}
         <div className="text-center mb-14">
