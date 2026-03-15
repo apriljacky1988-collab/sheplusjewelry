@@ -14,7 +14,7 @@ export async function POST(req: NextRequest) {
     await resend.emails.send({
       from: "Sheplus Customer Care <anna@sheplusjewelry.com>",
       to: ["service@sheplusjewelry.com"],
-      replyTo: email,
+      reply_to: email,
       subject: `🚨 Customer Issue: ${name} - Order ${orderId || "N/A"}`,
       html: `
         <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto;">
