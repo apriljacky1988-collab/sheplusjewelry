@@ -90,7 +90,7 @@ export default function CustomDesign() {
             Ready to offer your customers something truly unique?
           </p>
           <a
-            href="#contact"
+            href="/custom-design"
             className="inline-block bg-amber-500 hover:bg-amber-400 text-stone-900 font-bold py-4 px-10 rounded-full text-sm transition-colors"
           >
             ✦ Start Your Custom Design
