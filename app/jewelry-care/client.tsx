@@ -36,7 +36,6 @@ export default function JewelryCareClient() {
           Leave your name, order number, and question — we'll make it right within 24 hours.
         </p>
 
-        {/* 初始状态：显示按钮 */}
         {!showForm && !submitted && (
           <button
             onClick={() => setShowForm(true)}
@@ -49,8 +48,7 @@ export default function JewelryCareClient() {
         {/* 表单 */}
         {showForm && !submitted && (
           <div className="bg-stone-50 rounded-2xl p-6 text-left border border-stone-100 shadow-sm mt-4">
-            <h3 className="font-bold text-stone-800 mb-1">Tell Us What Happened</h3>
-            <p className="text-stone-500 text-xs mb-5">We'll respond within 24 hours — replacement or full refund, your choice.</p>
+            <h3 className="font-bold text-stone-800 mb-5">Tell Us What Happened</h3>
             <form onSubmit={handleSubmit} className="space-y-4">
               <div>
                 <label className="block text-sm font-medium text-stone-700 mb-1">Your Name *</label>
