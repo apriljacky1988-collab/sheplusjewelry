@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import JewelryCareClient from "./client";
 
 export const metadata: Metadata = {
   title: "Jewelry Care Guide | Sheplus Jewelry",
@@ -30,26 +31,12 @@ export default function JewelryCarePage() {
           </h2>
           <div className="space-y-6">
             {[
-              {
-                icon: "💧",
-                title: "Keep It Dry",
-                desc: "Remove jewelry before swimming or showering.",
-              },
-              {
-                icon: "🧴",
-                title: "Avoid Chemicals",
-                desc: "Perfume, lotion, and cleaning agents may damage jewelry.",
-              },
-              {
-                icon: "✨",
-                title: "Clean Gently",
-                desc: "Use a soft jewelry cloth to keep your jewelry shining.",
-              },
-              {
-                icon: "📦",
-                title: "Store Properly",
-                desc: "Store jewelry separately in a soft pouch or jewelry box.",
-              },
+              { icon: "💧", title: "Keep It Dry", desc: "Remove jewelry before swimming or showering." },
+              { icon: "🧴", title: "Avoid Chemicals", desc: "Perfume, lotion, and cleaning agents may damage jewelry." },
+              { icon: "✨", title: "Clean Gently", desc: "Use a soft jewelry cloth to keep your jewelry shining." },
+              { icon: "📦", title: "Store Properly", desc: "Store jewelry separately in a soft pouch or jewelry box." },
+              { icon: "🪨", title: "Care for Turquoise", desc: "Turquoise is porous — avoid prolonged water exposure and direct sunlight. Wipe clean with a dry cloth only." },
+              { icon: "🌊", title: "Care for Pearls", desc: "Pearls are delicate — put them on last, take them off first. Wipe with a damp cloth after wearing. Store flat." },
             ].map((tip, i) => (
               <div key={i} className="flex items-start gap-4 bg-white rounded-2xl p-5 shadow-sm border border-stone-100">
                 <div className="text-2xl mt-0.5">{tip.icon}</div>
@@ -63,25 +50,8 @@ export default function JewelryCarePage() {
         </div>
       </div>
 
-      {/* 第三屏 — 客服 */}
-      <div className="bg-white px-6 py-16 text-center">
-        <div className="max-w-sm mx-auto">
-          <div className="text-4xl mb-4">🤝</div>
-          <h2 className="text-xl font-bold text-stone-800 mb-3">Need Help?</h2>
-          <p className="text-stone-500 text-sm mb-6 leading-relaxed">
-            Our customer care team is here for you.
-          </p>
-          <a
-            href="mailto:service@sheplusjewelry.com"
-            className="inline-flex items-center gap-2 bg-[#1c1a2e] text-white font-semibold py-3 px-8 rounded-full text-sm hover:bg-[#2d2b40] transition-colors"
-          >
-            📧 service@sheplusjewelry.com
-          </a>
-          <p className="text-stone-400 text-xs mt-5">
-            We are happy to assist you with any questions.
-          </p>
-        </div>
-      </div>
+      {/* 第三屏 — 客服表单 (Client Component) */}
+      <JewelryCareClient />
 
       {/* Footer */}
       <div className="bg-[#1c1a2e] py-5 text-center">
