@@ -29,8 +29,11 @@ export default function JewelryCareClient() {
       <div className="max-w-sm mx-auto text-center">
         <div className="text-4xl mb-4">🤝</div>
         <h2 className="text-xl font-bold text-stone-800 mb-2">Need Help?</h2>
-        <p className="text-stone-500 text-sm mb-8 leading-relaxed">
-          Our customer care team is here for you.
+        <p className="text-stone-500 text-sm mb-1 leading-relaxed">
+          👇 Click here to reach our support team.
+        </p>
+        <p className="text-stone-400 text-xs mb-8 leading-relaxed">
+          Leave your name, order number, and question — we'll make it right within 24 hours.
         </p>
 
         {/* 初始状态：显示按钮 */}
