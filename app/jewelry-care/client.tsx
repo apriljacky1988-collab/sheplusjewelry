@@ -33,7 +33,7 @@ export default function JewelryCareClient() {
           👇 Click here to reach our support team.
         </p>
         <p className="text-stone-400 text-xs mb-8 leading-relaxed">
-          Leave your name, order number, and question — we'll make it right within 24 hours.
+          Leave your name, order number, and question — we'll respond within 24 hours.
         </p>
 
         {!showForm && !submitted && (
