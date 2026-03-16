@@ -90,7 +90,7 @@ export default function CustomDesign() {
             Ready to offer your customers something truly unique?
           </p>
           <a
-            href="mailto:anna@sheplusjewelry.com?subject=Custom Design Inquiry&body=Hi Anna,%0A%0AI'm interested in creating custom jewelry designs for my store.%0A%0AStore name:%0AStyle/Aesthetic:%0ATarget price range:%0A%0ALooking forward to hearing from you!"
+            href="#contact"
             className="inline-block bg-amber-500 hover:bg-amber-400 text-stone-900 font-bold py-4 px-10 rounded-full text-sm transition-colors"
           >
             ✦ Start Your Custom Design
