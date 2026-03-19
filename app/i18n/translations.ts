@@ -4,6 +4,9 @@ export const t = {
   en: {
     nav: {
       products: "Products",
+      necklaces: "Necklaces",
+      earrings: "Earrings",
+      bracelets: "Bracelets",
       process: "Process",
       about: "About",
       quote: "Get Quote",
@@ -120,6 +123,9 @@ export const t = {
   es: {
     nav: {
       products: "Productos",
+      necklaces: "Collares",
+      earrings: "Aretes",
+      bracelets: "Pulseras",
       process: "Proceso",
       about: "Nosotros",
       quote: "Cotizar",

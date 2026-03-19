@@ -7,6 +7,7 @@ import { t } from "../i18n/translations";
 
 export default function Hero() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isProductsOpen, setIsProductsOpen] = useState(false);
   const { lang, setLang } = useLang();
   const txt = t[lang];
 
@@ -21,7 +22,31 @@ export default function Hero() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#products" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.products}</a>
+            {/* Products 下拉菜单 */}
+            <div className="relative"
+              onMouseEnter={() => setIsProductsOpen(true)}
+              onMouseLeave={() => setIsProductsOpen(false)}
+            >
+              <a href="#products" className="flex items-center gap-1 text-gray-700 hover:text-teal-600 transition">
+                {txt.nav.products}
+                <svg className="w-3 h-3 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </a>
+              {isProductsOpen && (
+                <div className="absolute top-full left-0 mt-1 w-44 bg-white rounded-xl shadow-lg border border-gray-100 py-2 z-50">
+                  <a href="#necklaces" className="block px-4 py-2 text-sm text-gray-700 hover:text-teal-600 hover:bg-teal-50 transition">
+                    💎 {txt.nav.necklaces}
+                  </a>
+                  <a href="#earrings" className="block px-4 py-2 text-sm text-gray-700 hover:text-teal-600 hover:bg-teal-50 transition">
+                    ✨ {txt.nav.earrings}
+                  </a>
+                  <a href="#bracelets" className="block px-4 py-2 text-sm text-gray-700 hover:text-teal-600 hover:bg-teal-50 transition">
+                    🪬 {txt.nav.bracelets}
+                  </a>
+                </div>
+              )}
+            </div>
             <a href="#custom-design" className="text-amber-600 hover:text-amber-500 transition font-semibold">Custom Design</a>
             <a href="#process" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.process}</a>
             <a href="#about" className="text-gray-700 hover:text-teal-600 transition">{txt.nav.about}</a>
@@ -60,6 +85,9 @@ export default function Hero() {
         {isMenuOpen && (
           <div className="md:hidden absolute top-full left-0 right-0 bg-white shadow-lg py-4 px-4">
             <a href="#products" className="block py-2 text-gray-700">{txt.nav.products}</a>
+            <a href="#necklaces" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">💎 {txt.nav.necklaces}</a>
+            <a href="#earrings" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">✨ {txt.nav.earrings}</a>
+            <a href="#bracelets" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">🪬 {txt.nav.bracelets}</a>
             <a href="#custom-design" className="block py-2 text-amber-600 font-semibold">Custom Design</a>
             <a href="#process" className="block py-2 text-gray-700">{txt.nav.process}</a>
             <a href="#about" className="block py-2 text-gray-700">{txt.nav.about}</a>
