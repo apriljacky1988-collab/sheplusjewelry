@@ -42,7 +42,7 @@ export default function Hero() {
                     ✨ {txt.nav.earrings}
                   </a>
                   <a href="#bracelets" className="block px-4 py-2 text-sm text-gray-700 hover:text-teal-600 hover:bg-teal-50 transition">
-                    🪬 {txt.nav.bracelets}
+                    📿 {txt.nav.bracelets}
                   </a>
                 </div>
               )}
@@ -87,7 +87,7 @@ export default function Hero() {
             <a href="#products" className="block py-2 text-gray-700">{txt.nav.products}</a>
             <a href="#necklaces" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">💎 {txt.nav.necklaces}</a>
             <a href="#earrings" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">✨ {txt.nav.earrings}</a>
-            <a href="#bracelets" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">🪬 {txt.nav.bracelets}</a>
+            <a href="#bracelets" className="block py-1.5 pl-4 text-sm text-gray-500 hover:text-teal-600">📿 {txt.nav.bracelets}</a>
             <a href="#custom-design" className="block py-2 text-amber-600 font-semibold">Custom Design</a>
             <a href="#process" className="block py-2 text-gray-700">{txt.nav.process}</a>
             <a href="#about" className="block py-2 text-gray-700">{txt.nav.about}</a>
