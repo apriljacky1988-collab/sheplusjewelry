@@ -1103,4 +1103,68 @@ At Sheplus Jewelry, we've spent 20 years developing wholesale relationships with
 *Questions? Email anna@sheplusjewelry.com — we respond within 24 hours.*
     `.trim(),
   },
+
+  {
+    slug: 'boho-jewelry-supplier-usa-boutiques',
+    title: 'Finding the Best Boho Jewelry Supplier for Your US Boutique',
+    description: 'How to source authentic boho and southwestern jewelry for your boutique — key styles, materials, MOQ expectations, and supplier red flags.',
+    date: '2026-03-21',
+    readTime: '5 min read',
+    category: 'Sourcing Guide',
+    content: `
+## Introduction
+
+For US boutique owners and Etsy sellers, finding the right boho jewelry wholesale supplier for boutiques is one of the most important business decisions you'll make. The quality of your jewelry directly impacts customer satisfaction, repeat purchases, and your store's reputation.
+
+## Why This Matters for Your Business
+
+Independent boutiques and Etsy sellers have a unique advantage over big-box retailers: **curation and authenticity**. Your customers come to you because they trust your taste and knowledge. That's why the sourcing decisions you make matter enormously.
+
+## Key Considerations
+
+### Quality First
+When evaluating any jewelry wholesale purchase, start with quality:
+- Request physical samples before placing any bulk order
+- Check materials, finish, and durability in person
+- Ask for material certifications when relevant
+
+### MOQ and Flexibility
+Small boutiques need suppliers who understand their reality:
+- Starting inventory of 5–20 pieces per style is reasonable
+- Avoid suppliers who require 100+ piece minimums when you're testing
+- Look for manufacturers offering 1-piece sample orders
+
+### Pricing and Margins
+Target a 2.5–3x markup from wholesale to retail:
+- This covers your costs (platform fees, packaging, returns)
+- Leaves room for occasional sales without losing money
+- Positions your pieces as quality items, not discount products
+
+## What the Best Suppliers Offer
+
+The wholesale jewelry suppliers worth working with share these traits:
+
+1. **Transparent materials** — they tell you exactly what's in each piece
+2. **Sample-friendly** — they'll sell you 1–5 pieces before any bulk commitment
+3. **Responsive communication** — answers within 24 hours
+4. **US market experience** — they understand American boutique expectations
+5. **Customization options** — white-label packaging, custom designs available
+
+## Working with Sheplus Jewelry
+
+At Sheplus Jewelry, we've spent 20 years developing wholesale relationships with US boutiques and Etsy sellers. Our approach:
+
+- **MOQ 1 piece** for samples — test before you commit
+- Genuine materials — turquoise, freshwater pearl, 925 sterling silver
+- White-label packaging with your branding
+- 7–10 day sample turnaround
+- Currently supplying 160+ boutiques across the US, UK, and Europe
+
+[View our wholesale collection](https://www.sheplusjewelry.com/products) or [contact us](https://www.sheplusjewelry.com/contact) for a custom quote.
+
+---
+
+*Questions? Email anna@sheplusjewelry.com — we respond within 24 hours.*
+    `.trim(),
+  },
 ]
