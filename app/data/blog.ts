@@ -1898,4 +1898,155 @@ Cross necklace searches up 340%, crucifix up 280% this week.
 [Browse collection](https://www.sheplusjewelry.com/products)
     `.trim(),
   },
+
+  {
+    slug: 'spring-inventory-turnover-boutique-guide',
+    title: 'Spring Inventory Turnover: How to Clear Winter Stock and Prep for Summer Sales',
+    description: 'Smart strategies for boutique owners to liquidate slow-moving winter jewelry and position your store for peak summer selling season.',
+    date: '2026-04-06',
+    readTime: '6 min read',
+    category: 'Business Guide',
+    content: `
+## Why April Is Inventory Make-or-Break Month
+
+For US boutique owners, April sits at a critical junction. Winter inventory is still taking up shelf space and tying up cash, while summer buying season is just 6-8 weeks away.
+
+The boutiques that win in Q2 are the ones that move decisively now: clearing slow stock, freeing up capital, and placing strategic orders for summer's bestsellers.
+
+This guide shows you exactly how to execute a profitable spring inventory turnover.
+
+## Step 1: Run the Numbers on Winter Stock
+
+Before making any decisions, know exactly what you're dealing with.
+
+**Calculate these metrics:**
+
+| Metric | How to Calculate | Action Threshold |
+|--------|------------------|------------------|
+| Days in inventory | Current stock ÷ Average daily sales | >90 days = urgent |
+| Sell-through rate | Units sold ÷ Units received | <50% = markdown candidate |
+| Gross margin return | Gross profit ÷ Average inventory cost | <1.0 = discontinue |
+
+**Review each jewelry category:**
+- Heavy winter pieces (chunky metal, dark stones)
+- Holiday-specific items (red/green, snowflakes, Christmas themes)
+- Slow movers that haven't sold in 60+ days
+
+## Step 2: Execute Strategic Markdowns
+
+Don't slash everything at once. Use a tiered approach to maximize recovery.
+
+**Week 1-2: Selective Promotions (20-30% off)**
+- Target pieces with 60-90 days in inventory
+- Market as "Spring Refresh Sale"
+- Bundle slow movers with fast sellers
+
+**Week 3-4: Aggressive Clearance (40-50% off)**
+- Items with 90+ days in inventory
+- Position as "Last Chance" or "Winter Clearance"
+- Still profitable at these margins? Move them.
+
+**Week 5+: Liquidation (60%+ off or cost)**
+- Anything left that hasn't moved
+- Consider flash sales, email-only offers, or wholesale liquidators
+- Goal: convert to cash, not margin
+
+## Step 3: Identify Summer Winners Early
+
+While clearing winter stock, research what's coming next.
+
+**Summer 2026 Jewelry Trends to Stock:**
+
+**Coastal & Nautical**
+- Shell jewelry (natural and metal interpretations)
+- Turquoise (always strong for summer)
+- Rope-textured metals and anchor motifs
+
+**Festival & Boho**
+- Layered necklaces with mixed materials
+- Anklets (major comeback)
+- Body chains and statement earrings
+
+**Minimalist Summer**
+- Delicate gold chains
+- Single pearl pendants
+- Thin stacking rings
+
+**Bold Color**
+- Coral and orange stones
+- Bright enamel
+- Mixed metal pieces
+
+## Step 4: Place Strategic Reorders
+
+With cash freed up from winter clearance, invest in proven winners and summer trends.
+
+**The 70-20-10 Buying Rule:**
+- 70% proven sellers (reorder what worked last summer)
+- 20% trending new styles (test with small quantities)
+- 10% experimental/bold bets (unique pieces for differentiation)
+
+**Summer Order Timeline:**
+- **Now (Early April):** Place orders for May delivery
+- **Mid-April:** Finalize June/July bestseller reorders
+- **May:** Order August back-to-school transition pieces
+
+## Step 5: Refresh Your Displays
+
+Physical merchandising matters as much as inventory selection.
+
+**Spring Display Updates:**
+- Replace dark velvet with light linen or natural wood
+- Add greenery (succulents work well)
+- Use brighter lighting to highlight summer stones
+- Create "New Arrivals" sections for summer pieces
+
+**Cross-Merchandising:**
+- Pair jewelry with spring clothing (sundresses, white tops)
+- Create gift sets for Mother's Day, graduations, weddings
+- Display layered looks on mannequins or busts
+
+## Cash Flow Tips for the Transition
+
+Inventory turnover isn't just about products—it's about cash management.
+
+**DO:**
+- Negotiate Net 30 terms with suppliers for summer orders
+- Use winter clearance cash to fund summer inventory
+- Start conservative on new trend pieces (5-10 units max)
+
+**DON'T:**
+- Order summer stock before winter is cleared
+- Overcommit to single styles (spread your bets)
+- Ignore the data (if it didn't sell last summer, don't reorder it)
+
+## How Sheplus Jewelry Supports Spring Turnover
+
+We understand the April crunch. That's why we structure our wholesale program for flexibility:
+
+**Low-Risk Testing:**
+- 1-piece samples for any summer style
+- 5-piece minimums on production orders
+- Mix-and-match styles to hit minimums
+
+**Fast Turnaround:**
+- 7-10 day sample delivery
+- 2-3 week production for in-stock designs
+- Rush options available for urgent needs
+
+**Summer 2026 Collection Ready:**
+- Turquoise statement pieces (always a summer hit)
+- Freshwater pearl essentials
+- New layered necklace sets
+- Boho anklets and body chains
+
+**Current lead time:** Orders placed this week deliver by early May—perfect for summer season prep.
+
+[Browse summer collection](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com for a summer lookbook.
+
+---
+
+*Sheplus Jewelry supplies 160+ US boutiques with small-batch turquoise, pearl, and sterling silver jewelry. MOQ 1 piece for samples.*
+    `.trim(),
+  },
 ]
