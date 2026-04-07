@@ -2226,4 +2226,218 @@ We've supplied turquoise jewelry through 20 summer seasons. We know what sells.
 *Sheplus Jewelry is a wholesale turquoise and pearl jewelry manufacturer supplying 160+ US boutiques. 20 years of experience. MOQ 1 piece for samples.*
     `.trim(),
   },
+
+  {
+    slug: 'mother-day-jewelry-2026-early-ordering',
+    title: "Mother's Day 2026: Why Smart Boutique Owners Are Ordering Jewelry Now",
+    description: "Mother's Day is May 10th. Here's why ordering jewelry wholesale in early April is crucial—and what styles are selling out first.",
+    date: '2026-04-08',
+    readTime: '6 min read',
+    category: 'Seasonal Guide',
+    content: `
+## The Mother's Day Timeline Most Boutiques Get Wrong
+
+Mother's Day 2026 is Sunday, May 10th. That feels far away—until you realize customers start shopping 3-4 weeks early.
+
+**The typical boutique timeline (the wrong way):**
+- April 20th: Realize Mother's Day is coming
+- April 25th: Contact suppliers for inventory
+- May 5th: Receive stock (if lucky)
+- May 6-9th: Rush to sell
+- May 10th: Holiday over, leftover inventory
+
+**The winning boutique timeline:**
+- Early April: Place wholesale orders
+- Late April: Receive and merchandise stock
+- Early May: Full selection ready for peak shopping
+- May 4-9th: Capture peak demand
+- May 10th: Sell out at full margin
+
+The difference? Boutiques who order early capture 40-60% more Mother's Day revenue.
+
+## Why April Ordering Is Non-Negotiable
+
+### Supply Chain Reality
+Wholesale jewelry manufacturers have lead times:
+- Samples: 7-10 days
+- Small production (5-20 pieces): 2-3 weeks
+- Larger orders: 3-4 weeks
+
+Order April 8th → Receive late April → Ready for early May shoppers.
+
+Order April 22nd → Receive mid-May → Miss the first two weeks of sales.
+
+### Customer Behavior
+Google Trends data for "Mother's Day gifts":
+- April 15-21: Search volume starts climbing
+- April 22-28: +150% increase
+- April 29-May 5: Peak search period
+- May 6-9: Last-minute panic buying
+
+**Key insight:** Most customers don't wait until the last minute. They browse early and decide by early May.
+
+### Inventory Risk
+Late ordering forces rushed decisions:
+- Less time to evaluate samples
+- Fewer style options available
+- Higher shipping costs for rush delivery
+- No time for reorders if something sells fast
+
+## Mother's Day 2026: Jewelry Categories Driving Sales
+
+Based on 2025 data and early 2026 signals, here are the categories to prioritize:
+
+### 1. Birthstone Jewelry
+**Conversion rate: 3x higher than generic jewelry during Mother's Day season**
+
+Mothers love jewelry representing their children's birth months. Popular configurations:
+- Single birthstone pendants (for one child)
+- Multiple stone family necklaces (2-4 stones)
+- Stackable birthstone rings
+
+**Price sweet spot:** $45-$85 retail for necklaces, $55-$120 for multi-stone pieces
+
+### 2. Matching Mother-Daughter Sets
+**Emotional connection drives purchase decisions**
+
+Two-piece sets designed for mothers and daughters to wear together:
+- Matching necklaces with complementary designs
+- "Two halves of one heart" styles
+- Same design, different sizes
+
+**Why it works:** Customers aren't just buying jewelry—they're buying a shared experience.
+
+**Price sweet spot:** $85-$145 retail for two-piece sets
+
+### 3. Pearl Jewelry
+**Classic, elegant, universally appealing**
+
+Pearls never go out of style for Mother's Day. Top sellers:
+- Single pearl pendant necklaces
+- Pearl stud earrings
+- Freshwater pearl bracelets
+- Pearl + gold combinations
+
+**Why it works:** Perceived as "real" and valuable. Easy for customers to justify as a "special" gift.
+
+**Price sweet spot:** $38-$75 retail
+
+### 4. Turquoise Statement Pieces
+**For the mom who loves color and Southwest style**
+
+Growing trend among 45-65 demographic:
+- Chunky turquoise necklaces
+- Turquoise + silver statement earrings
+- Western-inspired designs
+
+**Why it works:** Appeals to empty-nester moms with established personal style.
+
+**Price sweet spot:** $65-$125 retail
+
+### 5. Grandma/Multi-Generation Jewelry
+**The fastest-growing Mother's Day category**
+
+Jewelry representing grandchildren:
+- Multiple small birthstones (4-8 stones)
+- "Grandmother" inscribed pieces
+- Family tree pendants with birthstones
+
+**Why it works:** Grandmothers are a huge, often overlooked Mother's Day segment.
+
+**Price sweet spot:** $95-$165 retail
+
+## How Much Inventory to Order
+
+**Rule of thumb:** Mother's Day jewelry sales = 15-25% of annual jewelry revenue for most boutiques.
+
+**Suggested order quantities by category:**
+
+| Category | Initial Order | Reorder Trigger |
+|----------|---------------|-----------------|
+| Birthstone necklaces | 10-15 units | 5 units remaining |
+| Mother-daughter sets | 5-8 sets | 2 sets remaining |
+| Pearl earrings | 12-20 pairs | 6 pairs remaining |
+| Turquoise pieces | 8-12 units | 4 units remaining |
+| Grandma jewelry | 5-10 units | 3 units remaining |
+
+**Key strategy:** Order conservatively, but plan for a fast reorder. Better to sell out and restock than over-order and markdown.
+
+## Marketing Timing for Mother's Day
+
+**April 10-20: Tease the collection**
+- Social media: "Mother's Day exclusives coming soon"
+- Email: "Be the first to see our Mother's Day edit"
+- Goal: Build anticipation
+
+**April 21-30: Early bird promotion**
+- "Order by April 30th for guaranteed Mother's Day delivery"
+- 10-15% early bird discount
+- Goal: Capture planners and avoid last-minute shipping stress
+
+**May 1-5: Peak selling period**
+- Full price, full marketing push
+- Daily social posts featuring different categories
+- Email every other day with gift guides
+- Goal: Maximum revenue at full margin
+
+**May 6-9: Last-minute buyers**
+- "Still need a Mother's Day gift?"
+- Offer gift wrapping and express shipping
+- Bundle deals for undecided customers
+- Goal: Convert procrastinators
+
+## Mother's Day Display Tips
+
+**In-store merchandising:**
+- Dedicate a full display to Mother's Day by April 25th
+- Use soft pink, cream, and gold display elements
+- Include gift boxes and gift wrapping supplies
+- Create "Under $50" and "Splurge Worthy" sections
+
+**Online presentation:**
+- Mother's Day landing page live by April 20th
+- Gift guide blog post or lookbook
+- "Shop by price" filtering ($25-50, $50-100, $100+)
+- Clear delivery deadline messaging
+
+## What to Avoid
+
+**Don't wait for samples to place your main order.**
+If you trust your supplier, place the bulk order now. Order samples of new styles separately.
+
+**Don't assume you can reorder fast.**
+By late April, manufacturers are slammed. Reorders that normally take 2 weeks might take 4.
+
+**Don't forget about packaging.**
+Mother's Day gifts need to feel special. Ensure you have gift boxes, bags, and tissue paper ready.
+
+**Don't neglect the card message.**
+Include a blank Mother's Day card or offer custom message printing. It's a small touch that drives conversions.
+
+## Sheplus Jewelry Mother's Day 2026 Collection
+
+We've curated our best Mother's Day sellers based on 20 years of wholesale data:
+
+**Available now for April ordering:**
+- Birthstone pendant necklaces (all 12 months)
+- Freshwater pearl essentials
+- Turquoise statement pieces
+- Mother-daughter matching sets
+- Grandma/multi-stone family necklaces
+
+**All pieces:**
+- Genuine materials (turquoise, pearl, 925 sterling silver)
+- Gift-ready packaging available
+- 1-piece sample orders
+- 5-piece minimum production
+
+**Critical deadline:** Orders placed by April 15th deliver by April 25th—perfect timing for early May merchandising.
+
+[Browse Mother's Day collection](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com with your target price points—we'll recommend specific pieces.
+
+---
+
+*Sheplus Jewelry supplies 160+ US boutiques with wholesale turquoise, pearl, and sterling silver jewelry. 20+ years specializing in small-batch production for independent retailers.*
+    `.trim(),
+  },
 ]
