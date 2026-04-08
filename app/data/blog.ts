@@ -2440,4 +2440,273 @@ We've curated our best Mother's Day sellers based on 20 years of wholesale data:
 *Sheplus Jewelry supplies 160+ US boutiques with wholesale turquoise, pearl, and sterling silver jewelry. 20+ years specializing in small-batch production for independent retailers.*
     `.trim(),
   },
+
+  {
+    slug: 'small-boutique-email-marketing-jewelry-sales',
+    title: 'Email Marketing for Jewelry Boutiques: Turning Subscribers into Buyers',
+    description: 'How independent jewelry boutiques can use email marketing to drive repeat sales, launch new collections, and build customer loyalty without expensive ad spend.',
+    date: '2026-04-09',
+    readTime: '7 min read',
+    category: 'Marketing',
+    content: `
+## Why Email Marketing Is Essential for Jewelry Boutiques
+
+Social media algorithms change constantly. Ad costs keep rising. But email? Email is the marketing channel you actually own.
+
+For jewelry boutiques, email marketing delivers:
+- **Highest ROI:** $42 return for every $1 spent (DMA study)
+- **Direct access:** No algorithm between you and your customers
+- **Repeat sales:** Past buyers are 5x more likely to purchase again
+- **Low cost:** Most platforms free until 500-1000 subscribers
+
+Yet most small boutiques underuse email—or use it poorly. This guide shows you how to build an email system that drives consistent jewelry sales.
+
+## Building Your Email List (The Right Way)
+
+### Start With In-Store Signups
+Your best subscribers are people who already shop with you.
+
+**Tactics that work:**
+- iPad at checkout: "Want 10% off your next visit? Enter your email"
+- Receipt prompts: "Text EMAIL to [number] for exclusive offers"
+- Business card bowl: Monthly drawing for $50 store credit
+
+**The key:** Make it about value, not just "join our newsletter." Nobody wants another newsletter. Everyone wants a discount or chance to win.
+
+### Online List Building
+- Website popup: 10-15% discount for first purchase
+- Social media: "Link in bio for VIP early access"
+- Events: QR codes at pop-ups and markets
+
+### What Not to Do
+- **Buy email lists:** Violates anti-spam laws, destroys deliverability
+- **Add people without permission:** Unethical and illegal in most countries
+- **Make signup complicated:** Name and email only. Skip phone, address, birthday fields.
+
+## Email Platform Recommendations for Boutiques
+
+| Platform | Free Tier | Best For | Starting Cost |
+|----------|-----------|----------|---------------|
+| Mailchimp | 500 contacts | Beginners, simple needs | $13/month |
+| Klaviyo | 250 contacts | E-commerce integration | $20/month |
+| Flodesk | Unlimited | Beautiful design focus | $38/month |
+| ConvertKit | 1,000 contacts | Content creators | $9/month |
+
+**Recommendation:** Start with Mailchimp or Klaviyo. Both integrate with Shopify, Square, and most boutique POS systems.
+
+## The 5 Email Types Every Jewelry Boutique Needs
+
+### 1. Welcome Series (Automated)
+**Trigger:** New subscriber signs up
+**Timing:** 3-5 emails over 2 weeks
+
+**Email 1 (Immediate):** Welcome + promised discount
+- Subject: "Welcome to [Boutique]—here's your 10% off"
+- Include: Discount code, brand story, what to expect
+
+**Email 2 (Day 3):** Bestsellers showcase
+- Subject: "Our 5 most-loved pieces"
+- Include: Photos of top sellers, why customers love them
+
+**Email 3 (Day 7):** Education/value
+- Subject: "How to care for your [stone] jewelry"
+- Include: Care tips, storage advice, cleaning instructions
+
+**Email 4 (Day 10):** Social proof
+- Subject: "What our customers are saying"
+- Include: Reviews, customer photos, testimonials
+
+**Email 5 (Day 14):** Final nudge
+- Subject: "Your welcome discount expires soon"
+- Include: Urgency, reminder of code, popular items
+
+### 2. New Arrival Announcements
+**Frequency:** Weekly or bi-weekly when you have new stock
+**Best send time:** Tuesday-Thursday, 10am or 2pm
+
+**Structure:**
+- Hero image of standout new piece
+- 3-5 new items with photos and prices
+- "Shop the collection" button
+- Brief story about the pieces (sourcing, inspiration, materials)
+
+**Subject line formulas:**
+- "Just arrived: [description of piece]"
+- "New in: The pieces everyone's asking about"
+- "First look: Our latest [stone] collection"
+
+### 3. Promotional Emails
+**Frequency:** 1-2x per month maximum
+**Purpose:** Drive sales during slow periods or holidays
+
+**When to send:**
+- Slow inventory turnover
+- Pre-holiday (2-3 weeks before)
+- End of season clearance
+- Birthday/anniversary of customer
+
+**What works:**
+- Percentage discounts (20% off)
+- Dollar-off ($15 off $75+)
+- Free shipping thresholds
+- Gift with purchase
+
+**What doesn't:**
+- Constant sales (trains customers to wait for discounts)
+- Vague "storewide sale" without specifics
+- No urgency or deadline
+
+### 4. Educational Content
+**Frequency:** Monthly
+**Purpose:** Build authority and stay top-of-mind
+
+**Topic ideas:**
+- "How to style turquoise for work"
+- "The difference between freshwater and Akoya pearls"
+- "3 jewelry trends for [season]"
+- "How to layer necklaces like a pro"
+
+**Why it works:** Provides value without asking for money. Builds trust. Positions you as an expert.
+
+### 5. Re-engagement Campaigns
+**Trigger:** Subscriber hasn't opened email in 60+ days
+**Purpose:** Win back inactive subscribers or clean your list
+
+**Email 1:** "We miss you" + special offer
+**Email 2 (1 week later):** "Last chance" + bigger offer
+**Email 3 (1 week later):** Unsubscribe confirmation
+
+**Why this matters:** Inactive subscribers hurt deliverability. Better to have 300 engaged subscribers than 1,000 who ignore you.
+
+## Subject Lines That Get Opens
+
+**For jewelry boutiques specifically:**
+
+| Type | Example | Typical Open Rate |
+|------|---------|-------------------|
+| Curiosity | "The piece that sold out twice" | 28-32% |
+| Benefit | "How to wear turquoise to the office" | 24-28% |
+| Urgency | "24 hours left: 20% off ends tonight" | 30-35% |
+| Personal | "Your perfect summer necklace is here" | 26-30% |
+| Question | "Is your jewelry collection summer-ready?" | 25-29% |
+
+**General rules:**
+- Keep under 50 characters (mobile-friendly)
+- Avoid ALL CAPS and excessive punctuation!!!
+- Test emojis sparingly (💎✨ work for jewelry)
+- Personalize when possible: "[Name], new pearls just arrived"
+
+## Email Design Tips for Jewelry
+
+### Visual Priority
+Jewelry is visual. Your emails should be too.
+
+**Must-haves:**
+- High-quality product photos (lifestyle shots outperform white background)
+- Single-column layout (mobile-first)
+- Large, tappable buttons
+- Minimal text—let images sell
+
+**Mobile stats:** 60-70% of email opens happen on phones. Design for mobile first, desktop second.
+
+### Template Structure
+```
+[Logo/header]
+[Hero image: one standout piece]
+[Headline: 6-8 words]
+[2-3 lines of text]
+[CTA button: Shop Now]
+[3-4 product grid: images only]
+[Footer: social links, address, unsubscribe]
+```
+
+**Keep it simple.** Fancy templates often perform worse than clean, minimal designs.
+
+## Automation Sequences That Drive Revenue
+
+Beyond the welcome series, set up these automations:
+
+### Post-Purchase Sequence
+**Email 1 (Day 3):** Care instructions for their purchase
+**Email 2 (Day 14):** "How are you loving your [piece]?"
+**Email 3 (Day 30):** Complementary pieces ("Complete the look")
+**Email 4 (Day 60):** Review request with incentive
+**Email 5 (Day 90):** "We picked these for you" (personalized recommendations)
+
+**Revenue impact:** 15-25% of customers make second purchase within 90 days with this sequence.
+
+### Abandoned Cart (for online sales)
+**Email 1 (1 hour):** "Forgot something?"
+**Email 2 (24 hours):** "Still thinking it over?"
+**Email 3 (48 hours):** "Last chance—10% off your cart"
+
+**Recovery rate:** 10-15% of abandoned carts convert with this sequence.
+
+### Birthday/Anniversary
+**Trigger:** Customer's birthday or purchase anniversary
+**Offer:** Special discount or free gift
+
+**Why it works:** Personal touch drives loyalty. Customers remember boutiques that remember them.
+
+## Measuring Email Success
+
+**Key metrics to track:**
+
+| Metric | Good | Excellent | Action if Low |
+|--------|------|-----------|---------------|
+| Open rate | 20%+ | 25%+ | Test subject lines, send times |
+| Click rate | 2.5%+ | 4%+ | Improve CTAs, reduce content |
+| Conversion | 1%+ | 2%+ | Better targeting, offers |
+| Unsubscribe | <0.5% | <0.3% | Reduce frequency, improve relevance |
+
+**Review monthly:** What's working? What's not? Double down on winners.
+
+## Common Email Mistakes Boutiques Make
+
+**Mistake 1: Sending too often**
+Quality over quantity. One great email beats three mediocre ones.
+
+**Mistake 2: No clear call-to-action**
+Every email should have one goal: shop, read, reply. Don't confuse subscribers with multiple asks.
+
+**Mistake 3: Ignoring mobile**
+If your email looks bad on phones, you're losing 60%+ of readers.
+
+**Mistake 4: No segmentation**
+Don't send pearl emails to customers who only buy turquoise. Segment by purchase history when possible.
+
+**Mistake 5: Buying instead of earning attention**
+No trick subject lines. No clickbait. Build trust with consistent value.
+
+## Getting Started This Week
+
+**Day 1-2:** Choose platform, set up account
+**Day 3:** Create signup form for website and in-store
+**Day 4:** Write welcome email series (3 emails minimum)
+**Day 5:** Set up automation in platform
+**Day 6:** Test everything—send yourself test emails
+**Day 7:** Launch—announce to existing customers, add signup to all touchpoints
+
+**First month goals:**
+- 50 email subscribers
+- Welcome series active
+- One promotional email sent
+- Track open and click rates
+
+## Email Marketing for Sheplus Jewelry Wholesale Clients
+
+We support our boutique partners with:
+
+**Product images:** High-res photos for your emails
+**Copy support:** Product descriptions and selling points
+**Trend insights:** What's selling, what's trending
+**Seasonal calendars:** When to send Mother's Day, summer, holiday campaigns
+
+**Need content for your next email?** Email anna@sheplusjewelry.com with your theme—we'll send product shots and copy ideas.
+
+---
+
+*Sheplus Jewelry supplies 160+ US boutiques with wholesale turquoise, pearl, and sterling silver jewelry. Email marketing support included for all wholesale partners.*
+    `.trim(),
+  },
 ]
