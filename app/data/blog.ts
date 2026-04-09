@@ -2709,4 +2709,265 @@ We support our boutique partners with:
 *Sheplus Jewelry supplies 160+ US boutiques with wholesale turquoise, pearl, and sterling silver jewelry. Email marketing support included for all wholesale partners.*
     `.trim(),
   },
+
+  {
+    slug: 'layered-necklaces-styling-guide-boutique-owners',
+    title: 'Layered Necklaces: The Styling Guide Your Customers Are Asking For',
+    description: 'How to help customers style layered necklaces—and why boutiques that educate customers sell 40% more jewelry.',
+    date: '2026-04-10',
+    readTime: '6 min read',
+    category: 'Trends',
+    content: `
+## The Layering Trend Is Everywhere
+
+Scroll through Instagram, browse Pinterest, or walk into any trendy boutique—layered necklaces are dominating jewelry fashion in 2026.
+
+But here's what most boutique owners miss: customers love the look, but they're intimidated to try it themselves. They don't know:
+- Which necklaces work together
+- How many layers look right
+- What lengths to choose
+- How to keep chains from tangling
+
+**The opportunity:** Boutiques that teach customers how to layer sell 40% more necklaces than those that don't. Education removes the friction of "I don't know how to wear this."
+
+This guide shows you how to become the layering expert your customers trust—and how to merchandise layered necklaces for maximum sales.
+
+## Why Layered Necklaces Are a Retail Goldmine
+
+### Higher Average Order Value
+A customer buying one necklace spends $45. A customer buying three necklaces for a layered look spends $120+.
+
+**The math:**
+- Single necklace purchase: $45 AOV
+- Layered set purchase: $125 AOV (3 necklaces)
+- **Difference: +178% per transaction**
+
+### Repeat Visits
+Customers who learn layering from you come back for:
+- New pieces to add to their collection
+- Seasonal updates (summer vs. winter layering)
+- Gift advice for friends
+
+### Social Media Gold
+Layered looks photograph beautifully. Customers tag your boutique when showing off their styled necklaces—free marketing.
+
+## The 4 Rules of Perfect Necklace Layering
+
+Teach these rules to every customer. Make them simple enough to remember.
+
+### Rule 1: Vary the Lengths
+**The foundation of layering.** Each necklace should sit at a different point on the chest.
+
+**Standard layering lengths:**
+- Choker: 14-16 inches (sits at base of neck)
+- Princess: 18 inches (sits at collarbone)
+- Matinee: 20-24 inches (sits at bust line)
+- Opera: 28-34 inches (sits below bust)
+
+**The magic formula:** 16" + 18" + 22"
+This combination creates visual separation without awkward gaps.
+
+### Rule 2: Mix Weights and Textures
+**Create contrast.** Layering three identical chains looks messy. Layering different textures creates intentional style.
+
+**Winning combinations:**
+- Delicate chain + medium pendant + chunky statement
+- All gold, but: rope chain + snake chain + cable chain
+- Mixed metals: silver base + gold accent + rose gold detail
+
+**Pro tip:** One "hero" piece per layer. Don't compete for attention.
+
+### Rule 3: One Focal Point
+**Every layered look needs a star.** The eye needs somewhere to rest.
+
+**How to create focus:**
+- Bottom layer: Large pendant or statement piece
+- Middle layer: Medium charm or gemstone
+- Top layer: Simple chain or small pendant
+
+**Common mistake:** Three competing statement pieces = visual chaos.
+
+### Rule 4: Consider the Neckline
+**The necklace should complement the outfit, not fight it.**
+
+| Neckline | Best Layering Strategy |
+|----------|------------------------|
+| V-neck | Follow the V shape with graduated lengths |
+| Crew neck | Shorter layers, 16-20 inches |
+| Off-shoulder | Longer layers, 20-28 inches |
+| Turtleneck | Longest layers over fabric, 24-34 inches |
+| Button-down | Unbuttoned with mid-length layers |
+
+## How to Merchandise Layered Necklaces
+
+### The "Complete the Look" Display
+Instead of displaying necklaces individually, create styled combinations:
+
+**Visual merchandising:**
+- Mannequin busts showing 3-piece layers
+- Photo cards: "How our stylist wears it"
+- Signage: "Buy 2, get 1 half off" (encourages layering)
+
+**Online presentation:**
+- Product photos showing necklaces styled together
+- "Shop the look" buttons linking multiple products
+- Layering guide blog post linked from product pages
+
+### Pre-Styled Sets
+Remove decision fatigue entirely by selling pre-layered sets.
+
+**Set structures that sell:**
+- "The Essential Trio": Simple chain + small pendant + medium pendant
+- "The Boho Stack": Turquoise + coin pendant + long chain
+- "The Office Edit": Pearl + gold bar + delicate chain
+
+**Pricing strategy:**
+- Individual pieces: $38, $42, $48
+- Set price: $108 (10% discount vs. individual)
+- Perceived value: Higher because it's "styled by experts"
+
+### The Layering Station
+Create an in-store experience:
+
+**Setup:**
+- Mirror with good lighting
+- Necklace displays organized by length
+- "Try before you buy" cards with styling tips
+- Staff trained to offer layering advice
+
+**Why it works:** Customers who try multiple pieces buy more. The mirror removes purchase anxiety.
+
+## Teaching Customers: 5 Ways to Educate
+
+### 1. In-Store Signage
+Simple, scannable cards near necklace displays:
+
+```
+HOW TO LAYER LIKE A PRO
+1. Start with a 16" choker
+2. Add an 18" pendant
+3. Finish with a 22" statement
+→ Mix textures, keep metals consistent
+```
+
+### 2. Social Media Tutorials
+Short-form video content (Reels, TikTok):
+- "3 ways to layer necklaces"
+- "Before and after: one necklace vs. three"
+- "Styling for different necklines"
+
+### 3. Email Styling Guides
+Send monthly "How to wear it" emails:
+- Photo of layered look
+- Links to each piece
+- Occasion suggestions ("Perfect for brunch")
+
+### 4. Personal Styling Appointments
+Offer 15-minute necklace styling sessions:
+- Free with any purchase
+- Customers try combinations
+- Staff creates personalized recommendations
+- Results in higher conversion and larger baskets
+
+### 5. Packaging Inserts
+Include a small card with every necklace purchase:
+- "Thank you for your purchase"
+- "Here's how to style your new necklace"
+- "Visit our layering guide: [link]"
+
+## The Best Necklace Types for Layering
+
+**For your boutique inventory, prioritize these layering-friendly styles:**
+
+### Essential Base Layers (Top)
+- Simple chains (gold, silver, rose gold)
+- Delicate pendants (small stone, initial, bar)
+- Chokers (velvet, thin metal, simple design)
+
+### Statement Pieces (Bottom)
+- Large gemstone pendants (turquoise, pearl)
+- Long chains with substantial charms
+- Tassel or Y-necklaces
+- Coin or medallion pendants
+
+### Versatile Middles
+- Medium-sized gemstones
+- Lockets
+- Crosses or spiritual symbols
+- Geometric shapes
+
+**Inventory ratio:** 40% base layers, 35% statement pieces, 25% versatile middles.
+
+## Common Layering Mistakes (And How to Fix Them)
+
+**Mistake 1: Too many statement pieces**
+→ Solution: One statement piece maximum per look
+
+**Mistake 2: Same lengths tangling**
+→ Solution: Ensure 2-inch minimum difference between layers
+
+**Mistake 3: Competing metals**
+→ Solution: Choose one dominant metal, use others as accents
+
+**Mistake 4: Ignoring neckline**
+→ Solution: Match necklace lengths to neckline depth
+
+**Mistake 5: Over-accessorizing**
+→ Solution: If layering necklaces, keep earrings simple
+
+## Layering Trends for 2026
+
+**What's selling now:**
+
+**The "Quiet Luxury" Layer**
+- Thin gold chains
+- Minimal pendants
+- 2-3 delicate layers
+- Appeals to: Office workers, 30-50 demographic
+
+**The "Boho Goddess" Stack**
+- Mixed textures (beads, chains, leather)
+- Natural stones (turquoise, coral)
+- 4+ layers
+- Appeals to: Festival-goers, free spirits, 20-40 demographic
+
+**The "Pearl Modern"**
+- Freshwater pearls mixed with gold chains
+- Single pearl + chain + pendant
+- Sophisticated but wearable
+- Appeals to: Classic style, gift buyers, 35-60 demographic
+
+**The "Mixed Metal"**
+- Gold, silver, and rose gold combined
+- Intentional mixing (not accidental)
+- Modern, fashion-forward
+- Appeals to: Trend-conscious, 25-45 demographic
+
+## Sheplus Jewelry Layering Collection
+
+We've curated our collection specifically for layering:
+
+**Perfect for building layered looks:**
+- 16", 18", 20", 24" chain options
+- Coordinated turquoise sets
+- Pearl + gold combinations
+- Mix-and-match sterling silver pieces
+
+**Boutique-friendly ordering:**
+- 1-piece samples to test layering combinations
+- 5-piece minimums per style
+- Consistent materials across collections (all pieces work together)
+
+**Visual merchandising support:**
+- High-res styling photos
+- Layering guide content
+- "Shop the look" product groupings
+
+[Browse layering-ready necklaces](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com for curated layering sets.
+
+---
+
+*Sheplus Jewelry specializes in wholesale turquoise, pearl, and sterling silver jewelry designed for layering. 160+ US boutiques. MOQ 1 piece for samples.*
+    `.trim(),
+  },
 ]
