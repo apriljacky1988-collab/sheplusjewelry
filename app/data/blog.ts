@@ -4095,4 +4095,280 @@ We help our wholesale partners succeed on Instagram:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry to 160+ US boutiques. We help our partners create content that converts.*
     `.trim(),
   },
+
+  {
+    slug: 'last-minute-mothers-day-jewelry-prep',
+    title: "Last-Minute Mother's Day Prep: What to Do When It's April 15th and You Haven't Ordered",
+    description: "Mother's Day is 3.5 weeks away. If you haven't ordered inventory yet, here's your emergency action plan to still capture holiday sales.",
+    date: '2026-04-15',
+    readTime: '6 min read',
+    category: 'Seasonal Guide',
+    content: `
+## The Reality Check
+
+It's April 15th. Mother's Day is May 10th—exactly 25 days away. If you haven't ordered inventory yet, you're behind schedule.
+
+But behind doesn't mean out. You can still capture significant Mother's Day sales if you act decisively in the next 48 hours.
+
+This guide is your emergency action plan. Follow it step by step to salvage the holiday and potentially have your best Mother's Day yet.
+
+## The 48-Hour Sprint (Days 1-2)
+
+### Hour 1-4: Assess Your Current Situation
+
+**What you have:**
+- Current inventory that could work for Mother's Day
+- Budget available for emergency orders
+- Supplier relationships and lead times
+
+**Quick inventory audit:**
+1. Go through your current stock
+2. Identify anything that could be positioned as Mother's Day appropriate
+3. Look for: pearls, birthstone pieces, classic designs, matching sets
+4. Count quantities—you might have more than you think
+
+**Set your budget:**
+- How much can you invest immediately?
+- Remember: you'll sell through by May 10th (3.5 weeks)
+- Target 2.5-3x markup to ensure profitability
+
+### Hour 5-8: Contact Suppliers With Rush Options
+
+**Email template for suppliers:**
+
+Subject: URGENT: Mother's Day Rush Order Needed
+
+Hi [Name],
+
+I need to place a Mother's Day order with rush delivery. Can you confirm:
+
+1. What's the fastest you can deliver [specific pieces] to [your location]?
+2. Is rush production available? At what cost?
+3. What quantities do you have in stock for immediate ship?
+4. Can you guarantee delivery by April 25-28?
+
+I'm ready to order immediately upon confirmation.
+
+Thanks,
+[Your name]
+
+**Who to contact (in order):**
+1. Your current reliable suppliers (fastest relationship leverage)
+2. Suppliers with US-based inventory (shorter shipping)
+3. Domestic wholesalers (higher cost but faster)
+
+**Key question:** "What do you have in stock that can ship today?"
+
+### Hour 9-12: Place Emergency Orders
+
+**Order priorities:**
+
+1. **In-stock items only** (skip custom production)
+2. **Fastest shipping option** (pay for express if needed)
+3. **Proven sellers** (don't experiment with new styles now)
+4. **Broad appeal** (classic over trendy)
+
+**Categories to prioritize:**
+- Birthstone jewelry (highest Mother's Day demand)
+- Pearl pieces (classic, universally loved)
+- Matching mother-daughter sets (emotional hook)
+- Mid-range price points ($45-85 retail)
+
+**Quantities for last-minute orders:**
+- Start conservative: 5-8 pieces per style
+- You can reorder if something sells fast
+- Better to sell out than get stuck with post-holiday inventory
+
+### Hour 13-24: Plan Your Marketing Blitz
+
+**Marketing timeline:**
+
+**April 16-20 (Pre-launch):**
+- Tease "Mother's Day collection coming soon"
+- Build anticipation on social media
+- Email list: "Get ready for our Mother's Day edit"
+
+**April 21-30 (Peak selling):**
+- Daily social media posts
+- Email every other day
+- In-store displays up and prominent
+
+**May 1-9 (Final push):**
+- "Last chance" messaging
+- Gift wrapping emphasized
+- Extended hours if possible
+
+**Quick marketing assets needed:**
+- Product photos (use what you have, edit if needed)
+- One compelling Mother's Day email
+- Social media templates
+- In-store signage
+
+### Hour 25-48: Execute and Optimize
+
+**As inventory arrives:**
+- Photograph immediately
+- List online same day
+- Create displays in-store
+- Start soft launch to email list
+
+**Monitor closely:**
+- What's getting attention?
+- What price points are moving?
+- What sizes/styles need replenishment?
+
+## Alternative: The "Local Maker" Pivot
+
+If traditional wholesale won't deliver in time, pivot strategy:
+
+**Source locally:**
+- Local jewelry makers (often have inventory ready)
+- Craft fairs and artisan markets
+- Etsy sellers willing to wholesale
+- Consignment arrangements
+
+**Benefits:**
+- Immediate availability
+- Unique, not-found-elsewhere pieces
+- Local angle for marketing
+- Supporting community narrative
+
+**Where to find local makers:**
+- Facebook groups: "[Your city] makers" "[Your city] artisans"
+- Local craft fairs and markets
+- Instagram hashtags: #[yourcity]maker #[yourcity]jewelry
+- Etsy filtered by location
+
+## Maximizing What You Already Have
+
+### Reposition Existing Inventory
+
+Look at your current stock with "Mother's Day eyes":
+
+**Pearl anything:** Classic Mother's Day gift
+**Gold pieces:** Sophisticated, gift-worthy
+**Matching sets:** "For you and mom"
+**Birthstone items:** Personal and meaningful
+**Lockets:** Hold family photos
+
+**Marketing repositioning:**
+- Change displays to group "giftable" items
+- Create Mother's Day bundles from existing pieces
+- Add gift boxes to elevate presentation
+- Write new product descriptions emphasizing gifting
+
+### Create Mother's Day Bundles
+
+Combine existing inventory into gift sets:
+
+**Bundle ideas:**
+- "The Classic Mom": Pearl studs + pendant necklace
+- "The Boho Mom": Turquoise bracelet + earrings
+- "The Minimalist Mom": Simple gold chain + stud earrings
+- "The Statement Mom": Bold necklace + matching earrings
+
+**Pricing strategy:**
+- Bundle price = 10-15% discount vs. individual pieces
+- Perceived value increases
+- Average order value increases
+- Moves more inventory
+
+### Gift-Ready Everything
+
+Presentation matters for gifts. Upgrade your packaging immediately:
+
+**Essential additions:**
+- Gift boxes (buy in bulk from Amazon/Uline)
+- Tissue paper
+- Ribbon or twine
+- Gift tags
+- Care cards
+
+**Cost:** ~$2-5 per gift
+**Value:** Transforms any piece into a gift-worthy presentation
+
+## Marketing Messages That Work (Even Last Minute)
+
+### Subject Lines for Email
+
+- "Mother's Day is coming—are you ready?"
+- "Last chance to find the perfect gift"
+- "For the mom who has everything (almost)"
+- "Your mom deserves something real"
+- "Skip the flowers, give her something that lasts"
+
+### Social Media Captions
+
+- "Mother's Day is 3 weeks away. Our edit of pieces mom will actually love is now live."
+- "Real jewelry for real moms. No costume, no compromises."
+- "The gift she'll wear every day—not just Sunday."
+- "Mother's Day pro tip: Order now, relax later."
+
+### In-Store Signage
+
+- "Mother's Day: May 10th"
+- "Real jewelry for real moms"
+- "Gift wrapping included"
+- "Last minute? We can help."
+
+## The Timeline From Here
+
+**April 15-16:** Emergency orders placed, marketing planned
+**April 17-25:** Inventory arrives, displayed, marketed
+**April 26-May 5:** Peak selling period (50% of sales)
+**May 6-9:** Final push, last-minute buyers
+**May 10:** Mother's Day
+**May 11-15:** Post-holiday clearance (if needed)
+
+## What NOT to Do
+
+**Don't panic order:**
+Buying everything you can find leads to mismatched inventory and cash flow problems.
+
+**Don't ignore your existing stock:**
+You probably have more giftable inventory than you think. Reposition before reordering.
+
+**Don't skip the marketing:**
+Even perfect inventory won't sell if customers don't know about it.
+
+**Don't overprice:**
+Last-minute doesn't mean desperate pricing. Stick to your markup strategy.
+
+**Don't forget about dads/children buying:**
+Many Mother's Day purchases are made by people who don't normally shop for jewelry. Make it easy for them: clear pricing, gift receipts, easy returns.
+
+## Sheplus Jewelry Emergency Support
+
+We understand the April 15th crunch. Here's how we help:
+
+**In-stock inventory:**
+- Birthstone pendants (all 12 months)
+- Freshwater pearl essentials
+- Turquoise statement pieces
+- Matching mother-daughter sets
+
+**Rush options:**
+- In-stock items ship within 48 hours
+- Express shipping available
+- 1-piece samples for immediate photography
+
+**Last-minute ordering:**
+- 5-piece minimum (mix styles to hit it)
+- Orders placed by April 17th deliver by April 24-25
+- April 18-20 orders deliver by April 27-29 (still viable)
+
+**Marketing support:**
+- Product photos you can use immediately
+- Email copy templates
+- Social media caption suggestions
+
+**The reality:** After April 20th, delivery becomes risky for Mother's Day. Order this week if you need inventory.
+
+[View in-stock Mother's Day collection](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com with "URGENT" in the subject for fastest response.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We help you succeed—even when you're behind schedule.*
+    `.trim(),
+  },
 ]
