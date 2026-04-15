@@ -2610,15 +2610,13 @@ Jewelry is visual. Your emails should be too.
 **Mobile stats:** 60-70% of email opens happen on phones. Design for mobile first, desktop second.
 
 ### Template Structure
-```
-[Logo/header]
-[Hero image: one standout piece]
-[Headline: 6-8 words]
-[2-3 lines of text]
-[CTA button: Shop Now]
-[3-4 product grid: images only]
+[Logo/header]  
+[Hero image: one standout piece]  
+[Headline: 6-8 words]  
+[2-3 lines of text]  
+[CTA button: Shop Now]  
+[3-4 product grid: images only]  
 [Footer: social links, address, unsubscribe]
-```
 
 **Keep it simple.** Fancy templates often perform worse than clean, minimal designs.
 
@@ -2842,13 +2840,11 @@ Create an in-store experience:
 ### 1. In-Store Signage
 Simple, scannable cards near necklace displays:
 
-```
-HOW TO LAYER LIKE A PRO
-1. Start with a 16" choker
-2. Add an 18" pendant
-3. Finish with a 22" statement
+**HOW TO LAYER LIKE A PRO**  
+1. Start with a 16" choker  
+2. Add an 18" pendant  
+3. Finish with a 22" statement  
 → Mix textures, keep metals consistent
-```
 
 ### 2. Social Media Tutorials
 Short-form video content (Reels, TikTok):
