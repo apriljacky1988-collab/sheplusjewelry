@@ -4367,4 +4367,311 @@ We understand the April 15th crunch. Here's how we help:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We help you succeed—even when you're behind schedule.*
     `.trim(),
   },
+
+  {
+    slug: 'summer-jewelry-essentials-boutique-inventory',
+    title: 'Summer Jewelry Essentials: The 10 Pieces Every Boutique Should Stock',
+    description: 'The must-have jewelry styles for summer 2026—what customers are searching for, what sells through August, and how to curate a profitable summer collection.',
+    date: '2026-04-16',
+    readTime: '7 min read',
+    category: 'Trends',
+    content: `
+## Summer Is Prime Jewelry Season
+
+Memorial Day to Labor Day is the longest uninterrupted selling period of the year. No holidays interrupting buying patterns. No weather keeping customers indoors. Just three solid months of people dressing up, going out, and buying jewelry.
+
+But summer jewelry is different from holiday or winter pieces. Customers want:
+- Lightweight, comfortable pieces for hot weather
+- Colors that pop against tanned skin and white clothes
+- Styles that work at the beach, the office, and the rooftop bar
+- Materials that can handle sweat, sunscreen, and swimming
+
+The boutiques that nail summer curation see 30-40% of annual jewelry revenue in these three months.
+
+Here are the 10 essential pieces every boutique should have in stock by Memorial Day.
+
+## The 10 Summer Essentials
+
+### 1. Turquoise Statement Necklaces
+**Why it sells:** Turquoise is the definitive summer stone. The blue-green color evokes ocean, sky, and Southwest sunsets.
+
+**What to stock:**
+- Chunky beaded strands (8-12mm beads)
+- Single large pendant on leather or cord
+- Western-inspired squash blossom styles
+
+**Price points:** $65-$145 retail
+
+**Why it works:** Customers buy turquoise in summer even if they never wear it other seasons. It's vacation jewelry that feels like a treat.
+
+### 2. Gold Hoops (Multiple Sizes)
+**Why it sells:** Hoops are the ultimate versatile summer earring. They work with everything from sundresses to swimsuits.
+
+**What to stock:**
+- Small huggies (12-15mm) for everyday
+- Medium classics (25-30mm) for versatility
+- Large statement (45-55mm) for nights out
+
+**Price points:** $35-$85 retail depending on size and material
+
+**Pro tip:** Stock multiples of each size. Customers often buy 2-3 pairs after trying them on.
+
+### 3. Layered Necklace Sets
+**Why it sells:** The "neck mess" trend is still going strong. Customers want the curated, layered look without figuring out what works together.
+
+**What to stock:**
+- Pre-layered 2-3 piece sets
+- Individual chains at varying lengths (16", 18", 22")
+- Mix of textures: cable, snake, box chains
+
+**Price points:** $75-$145 retail for sets, $35-$65 for individual pieces
+
+**Why it works:** AOV increases 40% when customers buy sets vs. single necklaces.
+
+### 4. Pearl Drop Earrings
+**Why it sells:** Pearls are having a renaissance. Modern, wearable pearl styles appeal to customers who thought pearls were "old."
+
+**What to stock:**
+- Single pearl drops on gold chain
+- Asymmetrical pearl studs
+- Pearl + gold bar combinations
+
+**Price points:** $45-$85 retail
+
+**The angle:** "Not your grandmother's pearls." Position as fresh and modern.
+
+### 5. Anklets
+**Why it sells:** Anklets are back in a major way. The '90s revival plus open-toe shoe season makes these a summer staple.
+
+**What to stock:**
+- Delicate chains with small charms
+- Beaded styles (turquoise, pearls, mixed beads)
+- Adjustable designs (one size fits most)
+
+**Price points:** $25-$55 retail
+
+**Why it works:** Low price point makes them impulse buys. Customers buy multiples.
+
+### 6. Cuff Bracelets (Adjustable)
+**Why it sells:** Cuffs are easy on/off, size-adjustable, and make a statement without being heavy.
+
+**What to stock:**
+- Gold or silver simple cuffs
+- Hammered or textured finishes
+- Turquoise or gemstone accents
+
+**Price points:** $45-$95 retail
+
+**The selling point:** No clasps to fumble with. Summer convenience.
+
+### 7. Shell Jewelry
+**Why it sells:** Coastal grandmother aesthetic + beach vacation season = shell jewelry demand.
+
+**What to stock:**
+- Puka shell necklaces (single strand and layered)
+- Cowrie shell accents
+- Shell + gold combinations (more sophisticated than all-shell)
+
+**Price points:** $35-$75 retail
+
+**Important:** Avoid cheap plastic shells. Go for genuine shells or quality metal interpretations.
+
+### 8. Chain Link Bracelets
+**Why it sells:** The chunky chain trend continues. These are substantial without being costume-y.
+
+**What to stock:**
+- Cuban link styles
+- Paperclip chains
+- Mixed metal options
+
+**Price points:** $55-$125 retail
+
+**Stacking angle:** These layer beautifully with cuffs and delicate chains.
+
+### 9. Colorful Gemstone Rings
+**Why it sells:** Summer is when customers embrace color. Statement rings are low-commitment ways to try trends.
+
+**What to stock:**
+- Stackable birthstone rings
+- Turquoise cabochon rings
+- Coral or carnelian statement pieces
+
+**Price points:** $35-$75 retail
+
+**Display tip:** Show styled stacks on ring cones, not individually.
+
+### 10. Y-Necklaces
+**Why it sells:** The lariat/Y-necklace silhouette is universally flattering and works with summer's lower necklines.
+
+**What to stock:**
+- Simple chain Y-necklaces
+- Drop pendant styles
+- Pearl or gemstone accents at the drop
+
+**Price points:** $45-$85 retail
+
+**Why it works:** Customers who don't know how to layer can get the layered look with one piece.
+
+## Summer Jewelry Buying Guidelines
+
+### Materials That Work
+
+**Best for summer:**
+- Sterling silver (tarnishes but cleans easily)
+- Gold vermeil (holds up better than plating)
+- Stainless steel (sweat-proof, affordable)
+- Genuine stones (turquoise, pearls, coral)
+
+**Avoid for summer:**
+- Base metals that turn skin green
+- Cheap plating that wears off with sweat
+- Fabric or thread (gets grimy)
+- Heavy pieces (uncomfortable in heat)
+
+### Price Strategy
+
+**Summer price sweet spots:**
+
+| Category | Wholesale | Retail | Margin |
+|----------|-----------|--------|--------|
+| Anklets | $10-18 | $35-55 | 65%+ |
+| Earrings | $12-25 | $45-75 | 65%+ |
+| Bracelets | $18-35 | $65-95 | 65%+ |
+| Necklaces | $22-45 | $75-125 | 65%+ |
+| Sets | $35-60 | $110-165 | 65%+ |
+
+**Why margins matter:** Summer requires frequent reordering. Healthy margins fund quick restocks of bestsellers.
+
+### Inventory Mix
+
+**Recommended summer allocation:**
+
+| Category | % of summer inventory | Key pieces |
+|----------|----------------------|------------|
+| Necklaces | 35% | Turquoise, layered sets, Y-necklaces |
+| Earrings | 25% | Hoops, drops, studs |
+| Bracelets | 20% | Cuffs, chains, anklets |
+| Rings | 15% | Gemstone, stackable |
+| Anklets | 5% | Various styles |
+
+## When to Order for Summer
+
+**Critical dates:**
+
+| Order Deadline | Delivery | Ready For |
+|----------------|----------|-----------|
+| April 20 | May 1-5 | Early birds, Memorial Day prep |
+| May 1 | May 12-15 | Memorial Day weekend sales |
+| May 15 | May 26-30 | Peak season start |
+| June 1 | June 12-15 | Mid-season restock |
+| June 15 | June 26-30 | July 4th weekend |
+
+**The rule:** Order 2-3 weeks before you need it. Summer bestsellers sell out fast—plan a restock strategy.
+
+## Merchandising Summer Jewelry
+
+### In-Store Display
+
+**Color palette:**
+- White, cream, and natural wood backgrounds
+- Turquoise and coral accent colors
+- Gold and silver mixed (not separated)
+
+**Props:**
+- Shells, driftwood, sea glass (authentic, not plastic)
+- Linen and natural fiber textures
+- Green plants (succulents work well)
+
+**Lighting:**
+- Bright, natural-feeling light
+- Avoid yellow tones (feels dated)
+
+### Photography
+
+**Must-have shots:**
+- On model with summer clothing
+- Lifestyle contexts (beach, patio, cafe)
+- Styled stacks and layers
+- Close-ups showing material quality
+
+**Backgrounds:**
+- White linen or natural textures
+- Outdoor settings
+- Avoid black (feels heavy for summer)
+
+## Marketing Summer Jewelry
+
+### Key Messaging
+
+**Phrases that work:**
+- "Summer essentials"
+- "Vacation-ready"
+- "From beach to dinner"
+- "Lightweight luxury"
+- "Your summer uniform"
+
+### Content Calendar
+
+**May:** Memorial Day prep, "Get ready for summer"
+**June:** Peak season, "Summer staples"
+**July:** Mid-season, "New arrivals"
+**August:** Transition, "End of summer, last chance"
+
+### Email Campaigns
+
+**Subject line formulas:**
+- "The 10 pieces you need this summer"
+- "New summer arrivals are here"
+- "Your summer jewelry wardrobe"
+- "Last chance: summer bestsellers"
+
+## Common Summer Mistakes
+
+**Mistake 1: Ordering too late**
+By June 1st, suppliers are backlogged. Order in April/May.
+
+**Mistake 2: Ignoring material quality**
+Summer pieces get heavy wear. Cheap materials = returns.
+
+**Mistake 3: Not planning restocks**
+Bestsellers sell out by June. Have a reorder plan.
+
+**Mistake 4: Heavy, dark pieces**
+Customers want lightweight and bright. Leave the statement metal cuffs for fall.
+
+**Mistake 5: Forgetting about men**
+Men buy jewelry in summer too—gifts, self-purchase. Don't ignore 40% of the market.
+
+## Sheplus Jewelry Summer Collection
+
+We've curated our summer line based on 20 years of wholesale data:
+
+**Ready now:**
+- Turquoise statement necklaces (our #1 summer SKU)
+- Freshwater pearl essentials
+- Gold vermeil hoops (3 sizes)
+- Layering chains (16", 18", 20", 24")
+- Adjustable cuff bracelets
+
+**New for 2026:**
+- Shell + gold combinations
+- Anklet collection (beaded and chain)
+- Y-necklace styles
+- Stackable birthstone rings
+
+**Summer ordering:**
+- 1-piece samples to test
+- 5-piece minimums
+- In-stock items ship within 48 hours
+- 2-3 week production for custom orders
+
+**Deadline:** Order by May 1st for guaranteed Memorial Day readiness.
+
+[Browse summer collection](https://www.sheplusjewelry.com/products) or email anna@sheplusjewelry.com for a summer lookbook with wholesale pricing.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry designed for summer. 20 years. 160+ US boutiques. MOQ 1 piece for samples.*
+    `.trim(),
+  },
 ]
