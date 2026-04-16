@@ -5016,4 +5016,348 @@ We help our wholesale partners build retention into their business:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We believe retention is the foundation of sustainable jewelry businesses.*
     `.trim(),
   },
+
+  {
+    slug: 'visual-merchandising-jewelry-boutiques',
+    title: 'Visual Merchandising for Jewelry Boutiques: Displays That Drive Sales',
+    description: 'How to design jewelry displays that catch attention, tell stories, and convert browsers into buyers—practical tips for boutique owners.',
+    date: '2026-04-18',
+    readTime: '7 min read',
+    category: 'Business Guide',
+    content: `
+## Why Visual Merchandising Matters for Jewelry
+
+Jewelry is different from other retail. You can't just stack it on shelves and expect it to sell.
+
+Each piece is small, detailed, and often expensive. Customers need to see it up close, imagine wearing it, and understand its value before they'll buy.
+
+**The data:**
+- 70% of purchase decisions are made at the point of display
+- Proper merchandising increases sales by 20-40%
+- Poor displays can devalue jewelry by 30% or more
+
+The boutiques that master visual merchandising don't just sell more—they sell at higher margins. When pieces look valuable, customers expect to pay more.
+
+This guide covers everything from display basics to advanced techniques that turn your boutique into a destination.
+
+## The Fundamentals of Jewelry Display
+
+### Lighting: The Non-Negotiable
+
+Jewelry without proper lighting is invisible.
+
+**The requirements:**
+- 3000-4000K color temperature (warm white, not yellow)
+- 800-1000 lumens per display case
+- LED preferred (no heat damage to pieces)
+- Positioned to eliminate glare and shadows
+
+**Common lighting mistakes:**
+- Yellow bulbs (makes silver look cheap, gold look brassy)
+- Overhead only (creates shadows under pieces)
+- Too dim (customers can't see details)
+- Too bright (washes out gemstones)
+
+**Pro tip:** Use adjustable spotlights or track lighting. You can highlight different pieces throughout the day or season.
+
+### Display Cases: Security Meets Style
+
+**Glass quality:**
+- Non-reflective glass reduces glare
+- UV-protective glass prevents fading
+- Tempered glass for security
+
+**Case design:**
+- Height: 36-42 inches (comfortable viewing while standing)
+- Depth: 20-24 inches (allows layering without crowding)
+- Interior: Neutral colors (white, cream, gray) that don't compete with jewelry
+
+**Accessibility:**
+- Staff-accessible from behind
+- Some open displays for try-on (higher risk, higher reward)
+
+### Props and Backgrounds
+
+**Materials that work:**
+- Velvet (luxurious, classic)
+- Linen (natural, modern)
+- Leather (sophisticated, masculine)
+- Acrylic (minimalist, lets jewelry shine)
+- Natural elements (driftwood, stone, moss for bohemian styles)
+
+**Colors to use:**
+- Neutrals: white, cream, gray, beige
+- Navy (makes silver pop, gold glow)
+- Black (dramatic, but can make jewelry look small)
+- Blush pink (complements rose gold and pearls)
+
+**Colors to avoid:**
+- Bright colors (compete with jewelry)
+- Busy patterns (distract from pieces)
+- Yellow/beige with silver (makes it look tarnished)
+
+## Display Techniques by Jewelry Type
+
+### Necklaces: The Vertical Challenge
+
+**The problem:** Necklaces tangle, chains kink, and they don't display well flat.
+
+**Solutions:**
+
+**Bust forms:**
+- Classic choice, shows how necklace sits on body
+- Use different necklines (crew, V-neck, strapless)
+- Vary heights for visual interest
+
+**Hanging displays:**
+- Wall-mounted hooks or branches
+- Creates height and draws eye upward
+- Layer multiple lengths together
+
+**Flat displays:**
+- Only for statement pieces that need full visibility
+- Use sparingly—takes up lots of space
+
+**Pro tip:** Display necklaces at eye level or slightly above. Customers look up more than they look down.
+
+### Earrings: Volume Without Chaos
+
+**The challenge:** You have dozens of pairs but limited space.
+
+**Display options:**
+
+**Earring cards:**
+- Standardize on one size/shape for consistency
+- Vertical cards show pairs clearly
+- Can be hung on grids or placed in trays
+
+**Earring stands:**
+- Metal trees or acrylic towers
+- Good for showcasing featured pieces
+- Limit to 12-16 pairs per stand
+
+**Drawer inserts:**
+- Customers can browse like at home
+- Organize by color, style, or price
+- Include mirrors nearby
+
+**Organization strategies:**
+- By metal (gold, silver, mixed)
+- By style (studs, drops, hoops, statement)
+- By color (gemstones coordinated)
+- By price (budget section, splurge section)
+
+### Bracelets and Rings: The Touch Factor
+
+These pieces sell better when customers can try them on.
+
+**Bracelet displays:**
+- Stacked on bracelet bars or T-stands
+- Grouped by style (bangles, cuffs, chains)
+- Include mirrors at display height
+
+**Ring displays:**
+- Ring trays with slots (organized by size)
+- Ring cones or fingers for featured pieces
+- Ring bars for stacking/midi rings
+
+**Try-on strategy:**
+- Keep sanitizing wipes nearby
+- Have ring sizers available
+- Train staff to assist with try-ons
+
+## Advanced Merchandising Strategies
+
+### Storytelling Displays
+
+Don't just display jewelry—tell a story.
+
+**Theme-based displays:**
+- "Summer Escape": turquoise, shells, gold
+- "Office to Evening": versatile pieces that transition
+- "Boho Goddess": layered necklaces, mixed textures
+- "Classic Elegance": pearls, diamonds, gold
+
+**Lifestyle vignettes:**
+- Include props that suggest occasions
+- Coffee cup + simple studs = morning routine
+- Wine glass + statement earrings = night out
+- Yoga mat + minimal jewelry = active lifestyle
+
+**The goal:** Help customers imagine themselves wearing the jewelry in their actual lives.
+
+### The Pyramid Principle
+
+Arrange displays in visual pyramids:
+- **Top:** One hero piece (highest price or newest arrival)
+- **Middle:** 3-5 supporting pieces (varied styles, complementary)
+- **Base:** 5-8 entry-level pieces (lower price, broader appeal)
+
+**Why it works:**
+- Eye travels naturally to the top
+- Creates hierarchy and focus
+- Shows range without overwhelming
+
+### Color Blocking
+
+Group pieces by color for visual impact:
+- All turquoise together (creates a "wow" moment)
+- Gold section, silver section, rose gold section
+- Rainbow gradient (red to purple)
+
+**Psychology:** Color blocking:
+- Makes displays Instagram-worthy
+- Helps customers find what they're looking for
+- Creates an organized, premium feel
+
+### The Rule of Three
+
+Display pieces in groups of three:
+- Three necklaces at graduated lengths
+- Three bracelets stacked
+- Three rings on one display
+
+**Why three:**
+- More visually interesting than one or two
+- Not as cluttered as four or five
+- Suggests coordination without requiring purchase of all three
+
+## Seasonal Merchandising
+
+### Spring (March-May)
+**Themes:** Renewal, pastels, lightness
+**Colors:** Soft pink, mint, lavender, white
+**Props:** Fresh flowers, branches, bird nests
+**Focus:** Mother's Day, graduation gifts, wedding season
+
+### Summer (June-August)
+**Themes:** Beach, vacation, brightness
+**Colors:** Turquoise, coral, white, gold
+**Props:** Shells, driftwood, sand, lemons
+**Focus:** Travel jewelry, lightweight pieces, anklets
+
+### Fall (September-November)
+**Themes:** Warmth, layers, richness
+**Colors:** Burgundy, mustard, forest green, bronze
+**Props:** Pinecones, leaves, candles, books
+**Focus:** Statement pieces, layering, holiday prep
+
+### Winter/Holiday (December-February)
+**Themes:** Glamour, sparkle, gifting
+**Colors:** Red, green, silver, gold, black
+**Props:** Ornaments, velvet, candles, gift boxes
+**Focus:** Gift sets, occasion jewelry, Valentine's Day
+
+## Digital Merchandising (Online Sales)
+
+### Photography Standards
+
+**Must-haves:**
+- White or neutral background for main image
+- Lifestyle/context shots showing scale
+- Close-ups of details and craftsmanship
+- Multiple angles (front, side, back, on model)
+
+**Lighting:**
+- Natural light or softbox setup
+- No harsh shadows
+- True-to-life color representation
+
+**Consistency:**
+- Same background across all products
+- Same lighting style
+- Same model if using lifestyle shots
+
+### Product Descriptions
+
+**Structure:**
+1. Hook: Emotional benefit ("The necklace you'll reach for every morning")
+2. Details: Materials, measurements, features
+3. Styling: How to wear it, what it pairs with
+4. Care: How to maintain it
+5. Story: Origin, maker, inspiration (if relevant)
+
+**What to include:**
+- Exact measurements (chain length, pendant size)
+- Materials (sterling silver, 14K gold, genuine turquoise)
+- Weight (heavy vs. lightweight)
+- Closure type (lobster clasp, hook, etc.)
+- Model info ("Shown on 5'8" model")
+
+## Common Merchandising Mistakes
+
+**Mistake 1: Overcrowding**
+Too many pieces in one space = visual noise. Give each piece room to breathe.
+
+**Mistake 2: Neglecting maintenance**
+Dusty displays, tarnished silver, wrinkled fabric = your jewelry looks cheap.
+
+**Mistake 3: Static displays**
+Same arrangement for months = customers stop noticing. Rotate every 2-4 weeks.
+
+**Mistake 4: Ignoring the price spread**
+All high-end = intimidates new customers. All budget = trains customers to expect cheap. Mix price points.
+
+**Mistake 5: No focal point**
+Every display needs a hero piece that draws the eye first.
+
+**Mistake 6: Poor signage**
+No prices = customers won't ask. No labels = customers don't understand what they're looking at.
+
+**Mistake 7: Forgetting about men**
+If you sell men's jewelry, don't bury it in a corner. Give it dedicated, masculine-themed space.
+
+## Measuring Merchandising Success
+
+### Metrics to Track
+
+| Metric | How to Measure | Target |
+|--------|----------------|--------|
+| Conversion rate | Sales ÷ Store visitors | >20% |
+| Average transaction value | Total sales ÷ Number of transactions | Growing |
+| Items per transaction | Total items ÷ Number of transactions | >1.5 |
+| Time in store | Average minutes spent | 10+ minutes |
+| Display piece sell-through | Pieces sold ÷ Pieces displayed | >30% per month |
+
+### A/B Testing Displays
+
+Test different approaches:
+- Color-blocked vs. metal-grouped
+- Vertical vs. horizontal necklace displays
+- Lifestyle props vs. minimal styling
+- High-price-first vs. low-price-first
+
+**Run each test for 2 weeks minimum.** Track which displays drive more sales, higher AOV, and longer browsing time.
+
+## Sheplus Jewelry Merchandising Support
+
+We help our wholesale partners create displays that sell:
+
+**Product photography:**
+- High-res images for your website
+- Lifestyle shots showing styling
+- Detail shots for close-up views
+
+**Display props:**
+- Bust forms and stands
+- Ring cones and bracelet bars
+- Jewelry boxes and packaging
+
+**Product information:**
+- Detailed specs for accurate descriptions
+- Styling suggestions for displays
+- Material stories for signage
+
+**Trend guidance:**
+- What's selling in different regions
+- Seasonal merchandising tips
+- Color and style forecasts
+
+**Need display ideas?** Email anna@sheplusjewelry.com with photos of your current setup—we'll suggest improvements based on what works for our 160+ boutique partners.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We believe beautiful jewelry deserves beautiful displays.*
+    `.trim(),
+  },
 ]
