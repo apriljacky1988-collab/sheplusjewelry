@@ -5736,4 +5736,346 @@ We understand packaging is part of the product:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We believe the experience matters as much as the piece.*
     `.trim(),
   },
+
+  {
+    slug: 'pricing-psychology-jewelry-boutiques',
+    title: 'Pricing Psychology for Jewelry Boutiques: How to Price for Profit Without Losing Customers',
+    description: 'The science behind jewelry pricing—how to use charm pricing, anchoring, and perceived value to maximize margins while keeping customers happy.',
+    date: '2026-04-20',
+    readTime: '7 min read',
+    category: 'Business Guide',
+    content: `
+## The Psychology Behind Every Price Tag
+
+Here's a truth most boutique owners learn the hard way: pricing isn't math. It's psychology.
+
+The same necklace can sell faster at $68 than at $55. A $120 bracelet can feel like a bargain next to a $280 option. And that $39 pair of earrings? It might actually hurt sales of your $65 version.
+
+Understanding pricing psychology doesn't just increase profits—it creates a better customer experience. When prices feel right, customers feel smart about their purchase. When prices feel wrong, they feel confused, manipulated, or suspicious.
+
+This guide shows you how to price strategically using proven psychological principles that work specifically for jewelry retail.
+
+## The 9 Pricing Psychology Principles for Jewelry
+
+### 1. Charm Pricing (The 9 Effect)
+**The principle:** Prices ending in 9 feel significantly lower than rounded numbers.
+
+**The data:**
+- $68 outsells $65 by 15-20%
+- $99 outsells $95 by 10-15%
+- $149 outsells $140 by 8-12%
+
+**Why it works:**
+Customers read left to right. They see "sixty-something" not "$68.00". The 9 creates the perception of a deal.
+
+**Jewelry application:**
+- Use .00 endings for luxury/premium positioning ($150, $200)
+- Use 9 endings for accessible/fashion positioning ($68, $95, $149)
+- Never use random endings ($67.43) unless that's your brand
+
+### 2. Price Anchoring
+**The principle:** The first price a customer sees becomes their reference point for everything else.
+
+**How to use it:**
+- Display your highest-priced item at eye level
+- Place it first in collections or lookbooks
+- Use it as a "compare at" price
+
+**Example:**
+Customer sees $280 necklace first. Then sees $120 bracelet. The bracelet feels like a bargain—even if $120 is actually your target price.
+
+**The science:** Without an anchor, customers have no reference. With an anchor, you control the comparison.
+
+### 3. The Decoy Effect
+**The principle:** Adding a third option changes how customers evaluate the other two.
+
+**Classic example:**
+- Option A: $45 earrings (basic)
+- Option B: $95 earrings (premium)
+- Add Option C: $85 earrings (middle)
+
+**Result:** Most customers choose Option B ($95) because it feels like the "smart" middle ground. Without Option C, they'd choose Option A.
+
+**Jewelry application:**
+- Always offer 3 price tiers
+- Make the middle option attractive but slightly less value
+- Price the premium option 20-30% above middle
+
+### 4. Bundle Pricing
+**The principle:** Customers perceive bundled items as better value, even when the math is identical.
+
+**Examples:**
+- "Necklace + Earrings Set: $95" (vs. $55 + $45 = $100 separately)
+- "Build Your Stack: 3 bracelets for $120" (vs. $45 each)
+- "Complete the Look: $150" (vs. individual pieces totaling $165)
+
+**Why it works:**
+- Reduces decision fatigue (one decision vs. multiple)
+- Increases perceived value
+- Raises average order value
+
+**The key:** The discount should be modest (10-15%). Too big feels desperate; too small feels meaningless.
+
+### 5. Prestige Pricing
+**The principle:** For luxury items, round numbers signal quality and exclusivity.
+
+**When to use:**
+- Fine jewelry (diamonds, precious gems)
+- Limited editions
+- Designer collaborations
+- Pieces positioned as investments
+
+**Examples:**
+- $500 (not $499)
+- $1,200 (not $1,195)
+- $2,000 (not $1,999)
+
+**Why it works:** Round numbers feel intentional, not calculated. They suggest the price is based on value, not psychology.
+
+### 6. The Left-Digit Effect
+**The principle:** Customers focus disproportionately on the leftmost digit.
+
+**Example:**
+$99 feels much cheaper than $100—even though it's only $1 difference. The "9" vs. "1" in the first position creates a categorical difference ("ninety-something" vs. "one hundred").
+
+**Jewelry application:**
+- Price at $79 instead of $80
+- Price at $149 instead of $150
+- Price at $199 instead of $200
+
+**Exception:** Don't use this for luxury positioning where round numbers feel more premium.
+
+### 7. Payment Framing
+**The principle:** How you describe the price changes perception.
+
+**Examples:**
+- "$75" vs. "Less than $10 per month" (affordable)
+- "$150" vs. "The price of two nice dinners" (context)
+- "$200" vs. "Under $7 per wear if you wear it 30 times" (value)
+
+**Jewelry application:**
+- For expensive pieces, break into "cost per wear"
+- Compare to everyday expenses (coffee, lunch, gas)
+- Offer payment plans ("4 payments of $25")
+
+**Why it works:** Large numbers feel intimidating. Reframed numbers feel manageable.
+
+### 8. Scarcity and Urgency
+**The principle:** Limited availability increases perceived value.
+
+**Tactics:**
+- "Only 3 left in stock"
+- "Limited edition—won't be restocked"
+- "Sale ends Sunday at midnight"
+- "Exclusive to our boutique"
+
+**Why it works:** Scarcity triggers FOMO (fear of missing out). Customers buy now instead of "thinking about it."
+
+**Important:** Scarcity must be genuine. Fake scarcity destroys trust.
+
+### 9. The Power of "Free"
+**The principle:** Customers overvalue free items relative to their actual cost.
+
+**Examples:**
+- "Free gift with $75 purchase" (gift costs you $5)
+- "Free shipping on orders over $100" (shipping costs you $8)
+- "Free jewelry cleaning for life" (costs you minimal time)
+
+**Why it works:** "Free" triggers an emotional response that overrides rational calculation.
+
+**Jewelry application:**
+- Free gift box (builds perceived value)
+- Free cleaning/maintenance (creates return visits)
+- Free sizing adjustment (removes purchase barrier)
+
+## Creating Your Pricing Strategy
+
+### Step 1: Know Your Costs
+Before psychology, know your numbers.
+
+**Calculate:**
+- Wholesale cost per piece
+- Shipping/freight costs
+- Packaging costs
+- Labor costs (your time)
+- Overhead allocation (rent, utilities, etc.)
+- Payment processing fees
+
+**Your minimum price:** Total costs ÷ (1 - desired margin)
+
+Example: Costs = $25, desired margin = 60%
+Minimum price = $25 ÷ (1 - 0.60) = $62.50
+
+### Step 2: Research the Market
+Understand your positioning relative to competitors.
+
+**Questions:**
+- What do similar pieces sell for at comparable boutiques?
+- What's the Amazon/department store price for similar items?
+- What price points feel "too cheap" vs. "too expensive" to your target customer?
+
+**Positioning options:**
+- **Budget:** 20-30% below market (volume play)
+- **Parity:** Match market (compete on selection/service)
+- **Premium:** 20-40% above market (quality/experience play)
+
+### Step 3: Apply Psychological Pricing
+Use the principles above to set final prices.
+
+**Example workflow:**
+1. Cost analysis says minimum is $62
+2. Market research suggests $75-85 range
+3. Positioning as accessible premium = $78
+4. Apply charm pricing = $79
+5. Create anchor piece at $149
+6. Create middle option at $95
+7. Bundle option: $79 + $95 = $149 (save $25)
+
+### Step 4: Test and Adjust
+Pricing isn't set in stone. Test different approaches.
+
+**A/B testing ideas:**
+- $68 vs. $72 for same piece
+- Bundle discount of 10% vs. 15%
+- Round numbers vs. charm pricing for different collections
+
+**What to track:**
+- Conversion rate by price point
+- Average order value
+- Units sold
+- Customer feedback ("Is this worth it?")
+
+**Review quarterly:** What's working? What's not? Adjust based on data.
+
+## Pricing by Category
+
+### Everyday Jewelry (Under $75)
+**Strategy:** Volume, accessibility
+**Pricing:** Charm pricing ($29, $45, $68)
+**Tactics:**
+- Bundle for "3 for $100" deals
+- Free shipping thresholds
+- Entry point for new customers
+
+### Bridge Jewelry ($75-$200)
+**Strategy:** Quality perception, gift market
+**Pricing:** Charm pricing for fashion ($89, $149), round for classic ($150, $200)
+**Tactics:**
+- Strong anchoring with higher-priced pieces
+- Gift packaging included
+- Emphasize materials and craftsmanship
+
+### Fine Jewelry ($200+)
+**Strategy:** Luxury, investment
+**Pricing:** Round numbers ($250, $500, $1,000)
+**Tactics:**
+- Prestige pricing
+- Limited availability messaging
+- Payment plans for higher prices
+
+## Common Pricing Mistakes
+
+**Mistake 1: Cost-plus pricing only**
+Pricing based solely on cost ignores value and psychology. You might undercharge or overcharge.
+
+**Mistake 2: Race to the bottom**
+Competing on price destroys margins and trains customers to expect cheap. Compete on value instead.
+
+**Mistake 3: Inconsistent pricing**
+Similar items at wildly different prices confuse customers. Develop a pricing structure.
+
+**Mistake 4: No premium options**
+Without high-priced anchors, everything feels cheap. Offer at least one "splurge" piece.
+
+**Mistake 5: Hiding prices**
+Making customers ask for prices creates friction. Display clearly.
+
+**Mistake 6: Frequent discounting**
+Constant sales train customers to wait for discounts. Use strategically, not habitually.
+
+**Mistake 7: Ignoring perceived value**
+A $50 piece can feel like $150 with the right presentation and story.
+
+## Communicating Value (Not Just Price)
+
+Price is only part of the equation. Customers need to understand value.
+
+### What to Emphasize
+
+**Materials:**
+- "Genuine stabilized turquoise"
+- "925 sterling silver, nickel-free"
+- "Freshwater pearls, AA grade"
+
+**Craftsmanship:**
+- "Hand-finished details"
+- "20 years of jewelry-making expertise"
+- "Quality you can feel"
+
+**Exclusivity:**
+- "Limited quantities available"
+- "Only at [boutique name]"
+- "Curated selection"
+
+**Service:**
+- "Complimentary cleaning for life"
+- "Free resizing"
+- "Gift packaging included"
+
+### The Value Equation
+**Perceived Value = (Quality + Story + Service) ÷ Price**
+
+Increase numerator (quality, story, service) or decrease denominator (price) to improve value perception.
+
+## Seasonal Pricing Strategies
+
+### Holiday Seasons (Nov-Dec, Mother's Day, Valentine's Day)
+- Full price on gifts
+- Bundle deals for multiple purchases
+- Gift-with-purchase offers
+- Limited editions at premium prices
+
+### Slow Seasons (Jan-Feb, July-Aug)
+- Strategic markdowns (20-30%)
+- Clearance of old inventory
+- "Last chance" messaging
+- Build-your-own-bundle deals
+
+### Peak Seasons (May-June, Sept-Oct)
+- Maintain full margins
+- Focus on new arrivals
+- Limited-time exclusives
+- Pre-order opportunities
+
+## Sheplus Jewelry Pricing Support
+
+We help our wholesale partners price profitably:
+
+**Competitive wholesale pricing:**
+- Healthy margins for your retail markup
+- Volume discounts for larger orders
+- Consistent pricing you can depend on
+
+**Product positioning:**
+- Clear material descriptions for value communication
+- Quality that justifies premium pricing
+- Packaging and presentation that elevates perception
+
+**Market insights:**
+- Price points selling in different regions
+- Category trends and demand
+- Seasonal recommendations
+
+**Margin calculations:**
+- Suggested retail prices
+- Bundle pricing strategies
+- Markup guidance by category
+
+**Questions about pricing strategy?** Email anna@sheplusjewelry.com—we'll share pricing frameworks used by successful boutiques in our network.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We believe smart pricing is the foundation of sustainable retail.*
+    `.trim(),
+  },
 ]
