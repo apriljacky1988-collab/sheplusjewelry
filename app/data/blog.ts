@@ -6078,4 +6078,389 @@ We help our wholesale partners price profitably:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We believe smart pricing is the foundation of sustainable retail.*
     `.trim(),
   },
+
+  {
+    slug: 'tiktok-marketing-jewelry-boutiques-2026',
+    title: 'TikTok Marketing for Jewelry Boutiques: Reaching Gen Z and Millennial Buyers',
+    description: 'How jewelry boutiques can leverage TikTok to reach younger customers, go viral, and drive sales—content ideas, posting strategies, and trends for 2026.',
+    date: '2026-04-21',
+    readTime: '7 min read',
+    category: 'Marketing',
+    content: `
+## Why TikTok Matters for Jewelry Boutiques
+
+TikTok isn't just for dance trends and Gen Z anymore. In 2026, it's a serious marketing channel for jewelry boutiques—and if you're not there, you're missing a massive opportunity.
+
+**The numbers:**
+- 1.5 billion monthly active users globally
+- Average user spends 95 minutes per day on the app
+- 60% of users are 16-34 years old (prime jewelry-buying demographic)
+- 47% of users have bought something they saw on TikTok
+- TikTok's algorithm favors small businesses over big brands
+
+**Why jewelry works on TikTok:**
+- Visual, satisfying content (unboxing, styling, ASMR)
+- Emotional purchases (gifts, self-love, milestones)
+- Storytelling potential (maker stories, customer transformations)
+- Trend-friendly (jewelry trends spread fast)
+
+The boutiques winning on TikTok aren't spending money on ads. They're creating authentic content that the algorithm amplifies to thousands—even millions—of potential customers.
+
+This guide shows you exactly how to build a TikTok presence that drives real sales for your jewelry boutique.
+
+## TikTok vs. Instagram: Understanding the Difference
+
+Before diving in, understand that TikTok is not Instagram Reels. The platforms have different cultures, algorithms, and user expectations.
+
+| Factor | Instagram | TikTok |
+|--------|-----------|--------|
+| Aesthetic | Polished, curated | Raw, authentic |
+| Content lifespan | 24-48 hours | Days to weeks (algorithm resurfaces old hits) |
+| Sound | Optional, trending audio helps | Essential, audio drives discovery |
+| Hashtags | 3-5 strategic | 3-5 broad, don't overthink |
+| Posting frequency | 3-5x/week | 1-3x/day for growth |
+| Follower importance | High (followers see content) | Low (algorithm shows content to non-followers) |
+| Ad culture | Established, expected | Less tolerated, organic preferred |
+
+**The key insight:** On TikTok, you can go viral with zero followers. The algorithm prioritizes content quality and engagement over account size.
+
+## Content Pillars for Jewelry Boutiques
+
+Build your content strategy around these five pillars. Mix them throughout the week.
+
+### Pillar 1: Satisfying/Unboxing Content (30%)
+**What:** ASMR-style unboxing, packaging orders, revealing new inventory
+**Why it works:** Satisfying content gets high watch time, which the algorithm rewards
+
+**Content ideas:**
+- "Pack an order with me" (show customer name, items, packaging process)
+- "Unboxing new inventory" (reveal pieces one by one with reactions)
+- "Making a custom order" (behind-the-scenes of design/assembly)
+- ASMR content (tapping on boxes, crinkling tissue paper, clinking jewelry)
+
+**The formula:**
+- Hook in first 1-2 seconds (show the product or text overlay)
+- Satisfying middle (the process)
+- Reveal at end (finished package or styled piece)
+
+### Pillar 2: Educational Content (25%)
+**What:** Teaching viewers about jewelry, styling, or care
+**Why it works:** Educational content gets saved and shared, increasing reach
+
+**Content ideas:**
+- "3 ways to tell if turquoise is real"
+- "How to layer necklaces like a pro"
+- "Jewelry mistakes that age you"
+- "What your jewelry says about you"
+- "How to style [specific piece] for work/weekend/date night"
+
+**The formula:**
+- Problem or question in hook
+- Quick, valuable information
+- Call-to-action ("Follow for more jewelry tips")
+
+### Pillar 3: Trending Audio/Format (25%)
+**What:** Participating in trending sounds, dances, or formats
+**Why it works:** Trending content gets boosted by the algorithm
+
+**How to find trends:**
+- Scroll your For You Page (FYP) for repeated sounds/formats
+- Check TikTok Creative Center for trending sounds
+- Follow other jewelry boutiques to see what's working
+
+**Jewelry-adapted trends:**
+- "Get Ready With Me" (GRWM) featuring your jewelry
+- "POV: You're shopping at my boutique"
+- "Things I wish I knew before..." (buying jewelry, starting a boutique)
+- Outfit transitions showing jewelry styling
+
+**Important:** Adapt trends to fit your brand. Don't just copy—make it jewelry-relevant.
+
+### Pillar 4: Storytelling/Personality (15%)
+**What:** Your story, opinions, behind-the-scenes
+**Why it works:** People buy from people. Personality builds connection.
+
+**Content ideas:**
+- "Why I started this boutique"
+- "Day in the life of a jewelry boutique owner"
+- "Unpopular opinion: [jewelry take]"
+- "The truth about [industry topic]"
+- Customer interactions (with permission)
+
+**The formula:**
+- Personal hook ("I need to tell you something...")
+- Story or opinion
+- Connection to your business
+
+### Pillar 5: Product Showcases (5%)
+**What:** Direct product features, new arrivals, styling
+**Why only 5%:** TikTok users are ad-averse. Too much selling hurts reach.
+
+**Content ideas:**
+- "New arrivals just dropped"
+- "This piece is going viral"
+- "Customer favorite restock"
+- Styling videos featuring your pieces
+
+**The rule:** For every 1 sales-focused video, post 4 value-driven videos.
+
+## The TikTok Algorithm: How It Works
+
+Understanding the algorithm helps you create content that gets seen.
+
+### The Ranking Factors
+
+1. **Watch time** (most important)
+   - Goal: Keep viewers watching until the end
+   - Short videos (15-30 seconds) perform better
+   - Loop-worthy content gets multiple views
+
+2. **Engagement**
+   - Likes, comments, shares, saves
+   - Comments matter most (start conversations)
+   - Shares signal high value
+
+3. **Completion rate**
+   - Percentage of viewers who watch to the end
+   - 80%+ completion = algorithm boost
+
+4. **Rewatches**
+   - Viewers watching multiple times
+   - ASMR and satisfying content excels here
+
+### The Distribution Pattern
+
+**Phase 1: Testing (0-200 views)**
+TikTok shows your video to a small group. If they engage, you move to Phase 2.
+
+**Phase 2: Expansion (200-1,000 views)**
+Wider distribution. If engagement stays high, you move to Phase 3.
+
+**Phase 3: Viral potential (1,000+ views)**
+Algorithm pushes to For You Pages globally. This is where virality happens.
+
+**The key:** Create content that passes Phase 1 consistently. Virality is unpredictable, but consistent quality leads to growth.
+
+## Posting Strategy for Growth
+
+### Frequency
+- **Minimum:** 1 video per day
+- **Optimal:** 2-3 videos per day
+- **Maximum:** Don't sacrifice quality for quantity
+
+**Why frequency matters:** More videos = more chances to hit the algorithm lottery. Plus, TikTok favors active accounts.
+
+### Timing
+**Best times for jewelry content:**
+- 7-9 AM (morning scroll, coffee time)
+- 12-2 PM (lunch break)
+- 7-10 PM (evening wind-down)
+
+**Your best times:** Check TikTok Analytics after 30 days to see when your audience is most active.
+
+### The First 3 Seconds
+Hook viewers immediately or lose them.
+
+**Strong hooks:**
+- "This necklace changed everything for me..."
+- "POV: You found the perfect summer jewelry"
+- Text overlay showing the product immediately
+- Unexpected visual (reveal, transformation)
+
+**Weak hooks:**
+- "Hey guys, welcome back to my channel..."
+- Slow intros with no visual interest
+- Generic greetings
+
+## Hashtag Strategy
+
+**The myth:** You need 30 hashtags.
+**The truth:** 3-5 relevant hashtags beat 30 irrelevant ones.
+
+### Effective Hashtag Mix
+
+1. **Broad (1-2):** #jewelry #jewelrytiktok #fyp
+2. **Niche (1-2):** #turquoisejewelry #bohojewelry #handmadejewelry
+3. **Branded (1):** #[yourboutiquename]
+
+**Why this works:**
+- Broad hashtags = maximum reach potential
+- Niche hashtags = targeted audience
+- Branded hashtag = tracks your content ecosystem
+
+### Trending Sounds
+Using trending audio is more important than hashtags.
+
+**How to find trending sounds:**
+- Scroll FYP and note repeated sounds
+- Check TikTok Creative Center's trending sounds
+- Save sounds when you hear them multiple times
+
+**How to use sounds:**
+- Original audio for educational content (your voice = authority)
+- Trending sounds for entertainment content (rides the algorithm wave)
+
+## Building a TikTok Sales Funnel
+
+TikTok doesn't allow direct linking in posts (except ads). You need a funnel.
+
+### The TikTok to Sale Journey
+
+1. **Discovery:** Viewer sees your content on FYP
+2. **Interest:** They watch, engage, or follow
+3. **Profile visit:** They click to learn more
+4. **Link click:** They click link in bio
+5. **Website:** They browse and purchase
+
+### Optimizing Each Step
+
+**Profile optimization:**
+- Clear boutique name
+- Brief description (what you sell, who you serve)
+- Link to website or Linktree
+- Profile photo (logo or you)
+
+**Link in bio:**
+- Use Linktree or similar for multiple links
+- Include: Shop, Bestsellers, New Arrivals, Contact
+- Update regularly based on trending content
+
+**Website readiness:**
+- Mobile-optimized (90%+ of TikTok traffic is mobile)
+- Fast loading
+- Clear product photos
+- Easy checkout
+
+### The "Link in Bio" CTA
+Every video should tell viewers what to do next.
+
+**Strong CTAs:**
+- "Link in bio to shop"
+- "Tap my profile for the necklace"
+- "Website in bio—limited stock"
+- "Comment 'LINK' and I'll DM you"
+
+**Pinned comment strategy:**
+- Post video
+- Immediately comment with link/info
+- Pin that comment
+- Engage with replies to boost comment section
+
+## TikTok Content Ideas for Jewelry Boutiques
+
+### Daily Content Calendar
+
+**Monday:** Educational ("How to...")
+**Tuesday:** Behind-the-scenes (packing, sourcing)
+**Wednesday:** Trending audio/format
+**Thursday:** Customer feature or review
+**Friday:** New arrivals or restock
+**Saturday:** Personal/story content
+**Sunday:** ASMR or satisfying content
+
+### 30 Content Ideas
+
+1. Pack an order with me (ASMR)
+2. Unboxing new inventory
+3. How to tell real turquoise from fake
+4. 3 ways to layer necklaces
+5. Jewelry mistakes you're making
+6. POV: Shopping at my boutique
+7. Day in the life of a boutique owner
+8. Customer unboxing reaction (with permission)
+9. This piece is going viral
+10. How to style [specific piece]
+11. The truth about [industry topic]
+12. Restock day (satisfying organization)
+13. Before/after: Cleaning tarnished jewelry
+14. Why I started this business
+15. My most popular piece and why
+16. Jewels for every zodiac sign
+17. Gift guide for [occasion]
+18. Unpopular opinion: [jewelry take]
+19. Packing a $500 order
+20. This color is trending for summer
+21. How to measure your ring size
+22. What I wear every day (jewelry edition)
+23. The story behind [piece/material]
+24. Jewelry organization ideas
+25. This customer bought 10 pieces
+26. Trending transition with jewelry
+27. Rate my jewelry collection
+28. Answering your jewelry questions
+29. Small business check (monthly update)
+30. Thank you to my customers
+
+## Measuring TikTok Success
+
+### Metrics to Track
+
+| Metric | Why It Matters | Target |
+|--------|----------------|--------|
+| Views | Reach and algorithm favor | Growing weekly |
+| Watch time % | Content quality indicator | >80% |
+| Followers | Audience building | 5-10% weekly growth |
+| Profile visits | Purchase intent | 2-5% of viewers |
+| Link clicks | Conversion action | Track via Linktree |
+| Sales attributed | Actual revenue | Calculate ROI |
+
+### Red Flags
+- Views under 200 (algorithm isn't picking up content)
+- High views, low follows (content entertaining but not building audience)
+- High follows, low sales (wrong audience or poor funnel)
+
+## Common TikTok Mistakes
+
+**Mistake 1: Treating it like Instagram**
+Polished, perfect content performs worse than raw, authentic content.
+
+**Mistake 2: Selling too hard**
+Constant product pitches turn viewers off. Lead with value.
+
+**Mistake 3: Ignoring trends**
+Trends are the algorithm's signal. Participate authentically.
+
+**Mistake 4: Inconsistent posting**
+Sporadic posting kills momentum. Daily is the minimum for growth.
+
+**Mistake 5: No personality**
+Faceless brand accounts struggle. Show your face, tell your story.
+
+**Mistake 6: Giving up too soon**
+TikTok growth takes 30-90 days of consistent posting. Don't quit at week 2.
+
+**Mistake 7: Buying followers/views**
+Fake engagement destroys algorithm performance and credibility.
+
+## Sheplus Jewelry TikTok Support
+
+We help our wholesale partners win on TikTok:
+
+**Content resources:**
+- Product photos and videos you can use
+- Trending sound suggestions
+- Content ideas based on what's working
+
+**Product information:**
+- Material stories perfect for educational content
+- Behind-the-scenes production photos
+- Detailed specs for styling videos
+
+**Trend insights:**
+- What's selling on TikTok
+- Content formats performing best
+- Hashtag and sound recommendations
+
+**Wholesale benefits:**
+- Fast samples for content creation
+- Consistent restocking of viral pieces
+- White-label (your brand is the star)
+
+**Questions about TikTok strategy?** Email anna@sheplusjewelry.com with your TikTok handle—we'll review your account and suggest content based on what's working for jewelry boutiques.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We help our partners reach customers wherever they are—including TikTok.*
+    `.trim(),
+  },
 ]
