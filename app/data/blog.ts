@@ -6904,4 +6904,357 @@ We help our wholesale partners optimize their online presence:
 *Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We help our partners succeed online and in-store.*
     `.trim(),
   },
+
+  {
+    slug: 'wholesale-jewelry-trade-shows-2026',
+    title: 'Navigating Jewelry Trade Shows in 2026: A Buyer\'s Guide',
+    description: 'How to make the most of jewelry trade shows—from preparation and booth navigation to supplier evaluation and order placement.',
+    date: '2026-04-23',
+    readTime: '7 min read',
+    category: 'Sourcing Guide',
+    content: `
+## The Return of In-Person Trade Shows
+
+After years of virtual events and supply chain disruptions, jewelry trade shows are back in full force for 2026. For boutique owners, these events represent unparalleled opportunities:
+
+- See thousands of products in person
+- Meet suppliers face-to-face
+- Discover trends before they hit the mainstream
+- Negotiate better terms through personal connections
+- Network with other boutique owners
+
+But trade shows can also be overwhelming. Hundreds of booths. Tight schedules. Pressure to make decisions quickly. Without a strategy, you'll leave with a headache, sore feet, and a bag of business cards you'll never follow up on.
+
+This guide shows you how to navigate jewelry trade shows like a pro—from preparation through follow-up.
+
+## Major Jewelry Trade Shows in 2026
+
+### United States
+
+**JCK Las Vegas (June)**
+- Location: Las Vegas Convention Center
+- Scale: 2,300+ exhibitors, 20,000+ attendees
+- Focus: Fine jewelry, bridal, watches
+- Best for: Established boutiques, higher price points
+
+**NY NOW (February & August)**
+- Location: Javits Center, New York
+- Scale: 1,000+ exhibitors
+- Focus: Fashion jewelry, home accessories, gifts
+- Best for: Trend-focused boutiques, fashion jewelry
+
+**Atlanta Jewelry Show (March)**
+- Location: Cobb Galleria, Atlanta
+- Scale: 500+ exhibitors
+- Focus: Fashion and bridge jewelry
+- Best for: Southeast region boutiques, mid-range price points
+
+**Metal + Smith (September)**
+- Location: New York
+- Scale: 150+ curated designers
+- Focus: Independent designers, artisan jewelry
+- Best for: Boutiques seeking unique, handcrafted pieces
+
+### International
+
+**Baselworld (March)**
+- Location: Basel, Switzerland
+- Scale: Premium watch and jewelry show
+- Focus: Luxury, high-end pieces
+- Best for: High-end boutiques, investment pieces
+
+**Hong Kong Jewellery & Gem Fair (March & September)**
+- Location: Hong Kong Convention Centre
+- Scale: 3,800+ exhibitors
+- Focus: Gemstones, pearls, manufacturing
+- Best for: Direct sourcing, wholesale manufacturing relationships
+
+## Pre-Show Preparation
+
+### 4-6 Weeks Before
+
+**Set your budget:**
+- Travel: Flight, hotel, meals, transportation
+- Show registration: $50-500 depending on show
+- Sample purchases: $500-2,000 for testing
+- Initial orders: Know your maximum commitment
+
+**Research exhibitors:**
+- Download the show app or exhibitor list
+- Mark booths you definitely want to visit
+- Note booth numbers for efficient routing
+- Research unfamiliar suppliers online first
+
+**Prepare your materials:**
+- Business cards (bring 200+)
+- Boutique lookbook or line sheet
+- Current inventory list (avoid duplicates)
+- Past sales data (know what sells)
+- Measuring tools (ring sizer, caliper)
+- Notebook and pens
+- Phone charger
+- Comfortable shoes (you'll walk miles)
+
+### 1 Week Before
+
+**Schedule appointments:**
+- Reach out to priority suppliers
+- Book meetings with reps
+- Allow buffer time between appointments
+
+**Set your buying goals:**
+- Specific categories needed
+- Price points to fill gaps
+- Seasonal requirements (Mother's Day, summer, holiday)
+- Styles that complement existing inventory
+
+**Plan your route:**
+- Map the show floor
+- Group nearby booths
+- Prioritize must-see exhibitors
+- Schedule breaks (trade shows are exhausting)
+
+## At the Show: Day-of Strategy
+
+### Arrival and First Hour
+
+**Check in early:**
+- Arrive 30 minutes before opening
+- Pick up badge and show materials
+- Review any schedule changes
+- Check the show app for updates
+
+**Start with your priority list:**
+- Visit must-see booths first (fresh energy)
+- Take photos with permission
+- Note booth numbers for return visits
+
+### Booth Evaluation
+
+**First impressions (30 seconds):**
+- Does the display look professional?
+- Is the staff engaged and knowledgeable?
+- Does the aesthetic match your boutique?
+- Are prices displayed or available?
+
+**Product evaluation (5-10 minutes):**
+- Pick up pieces—feel the weight and quality
+- Examine craftsmanship (clasps, settings, finishes)
+- Check materials and stamps
+- Ask about minimum orders and lead times
+- Request line sheets or catalogs
+
+**Supplier assessment:**
+- How long have they been in business?
+- Who are their typical customers?
+- What's their sample policy?
+- What are payment terms?
+- Where are they based?
+- Can they provide references?
+
+### Taking Notes
+
+**System for each booth:**
+- Booth number and company name
+- Contact person's name and title
+- Products of interest (take photos)
+- Wholesale prices
+- Minimum order quantities
+- Lead times
+- Special show offers
+- Follow-up actions needed
+
+**Use your phone:**
+- Photo of booth display
+- Photo of specific pieces
+- Photo of business card
+- Voice memo with immediate impressions
+
+### The Art of Sampling
+
+**Sample strategy:**
+- Order samples of pieces you're seriously considering
+- Prioritize new styles you can't evaluate from photos
+- Limit samples to 3-5 pieces per supplier maximum
+- Ask about sample credit toward future orders
+
+**Sample etiquette:**
+- Don't sample from every booth (wastes everyone's time)
+- Pay for samples promptly
+- Get clear delivery timelines
+- Follow up after evaluating
+
+## Negotiating at Trade Shows
+
+### What You Can Negotiate
+
+**Order minimums:**
+- Ask: "Can I mix styles to hit your minimum?"
+- First-time buyer discounts are common
+- Trade show specials often available
+
+**Payment terms:**
+- Standard: 50% deposit, 50% on delivery
+- Better: Net 30 for established relationships
+- Credit card acceptance (important for smaller orders)
+
+**Shipping:**
+- Free shipping thresholds
+- Consolidated shipping for multiple orders
+- Delivery timing to meet your needs
+
+**Exclusivity:**
+- Territorial exclusivity (your city/region)
+- Online exclusivity (if you're primarily e-commerce)
+- Timeline exclusivity (first to market)
+
+### Negotiation Tactics
+
+**Bundle multiple pieces:**
+- "If I order 3 styles at 10 pieces each, what's my best price?"
+- Volume discounts are standard in wholesale
+
+**Commit to future orders:**
+- "I'll place a larger reorder in 60 days if these sell well"
+- Shows you're a serious partner, not a one-time buyer
+
+**Reference your market:**
+- "I sell to [demographic] at [price point]—what works in that market?"
+- Demonstrates you know your business
+
+**Know when to walk away:**
+- If terms don't work for your business, don't force it
+- Better suppliers exist; don't compromise your margins
+
+## Red Flags at Trade Shows
+
+**Booth red flags:**
+- Disorganized or unprofessional display
+- No prices or vague about pricing
+- Pushy sales tactics
+- Can't answer basic questions about materials
+- No business cards or literature
+- Reluctant to provide references
+
+**Product red flags:**
+- Lightweight or flimsy construction
+- Sharp edges or poor finishing
+- Stones that look synthetic when claimed natural
+- Tarnished or discolored display pieces
+- No material stamps or markings
+
+**Business red flags:**
+- Won't provide samples
+- Unwilling to put terms in writing
+- No website or online presence
+- Can't explain production timeline
+- Vague about shipping and logistics
+
+## Post-Show Follow-Up
+
+### Within 48 Hours
+
+**Organize your notes:**
+- Compile contact information
+- Sort photos by supplier
+- Review your notes while memory is fresh
+- Rate suppliers (A, B, C priority)
+
+**Immediate follow-ups:**
+- Email suppliers you promised to contact
+- Request formal quotes for orders you're considering
+- Clarify any questions that arose
+- Confirm sample orders
+
+### Within 2 Weeks
+
+**Evaluate samples:**
+- Test quality and durability
+- Check customer appeal (show to staff/friends)
+- Photograph for your records
+- Make final purchase decisions
+
+**Place orders:**
+- Prioritize A-list suppliers
+- Start with smaller test orders
+- Confirm delivery timelines
+- Get everything in writing
+
+**Update your systems:**
+- Add new suppliers to your contact database
+- Update inventory planning with new products
+- Schedule follow-up communications
+- Plan for reorder timing
+
+## Trade Show ROI: Measuring Success
+
+### Immediate Metrics
+
+- **Suppliers contacted:** Target 20-30 meaningful conversations
+- **Samples ordered:** Track cost and conversion to orders
+- **Initial orders placed:** Track volume and value
+- **Appointments kept:** Measure preparation effectiveness
+
+### 90-Day Metrics
+
+- **Sample-to-order conversion:** What percentage of samples became orders?
+- **Sell-through rate:** How did trade show purchases perform?
+- **Supplier relationship quality:** Communication, reliability, quality consistency
+- **Customer response:** Did new products resonate?
+
+### Annual Review
+
+- **Total trade show spend:** Travel, samples, orders, time
+- **Revenue from trade show relationships:** Track for full year
+- **ROI calculation:** (Revenue - Cost) ÷ Cost
+- **Strategic value:** New trends discovered, relationships built, knowledge gained
+
+## Virtual Trade Show Alternatives
+
+For shows you can't attend in person:
+
+**Virtual booth tours:**
+- Many shows now offer virtual access
+- Schedule video calls with exhibitors
+- Request samples by mail
+
+**Digital line sheets:**
+- Most suppliers provide PDF catalogs
+- Virtual appointments to review collections
+- Email negotiations and ordering
+
+**Regional shows:**
+- Smaller regional shows may be more accessible
+- Local artisan markets and maker fairs
+- Wholesale platforms (Faire, Abound)
+
+## Sheplus Jewelry at Trade Shows
+
+We exhibit at select trade shows throughout the year:
+
+**Where to find us:**
+- JCK Las Vegas (June)
+- NY NOW (February & August)
+- Atlanta Jewelry Show (March)
+
+**What to expect at our booth:**
+- Full collection on display
+- Samples available for immediate purchase
+- Reps available for consultation
+- Special show pricing
+- New collection previews
+
+**Can't make the show?**
+- Virtual appointments available
+- Digital line sheets on request
+- Sample orders ship within 48 hours
+- Same terms as show pricing
+
+**Schedule a meeting:** Email anna@sheplusjewelry.com with the show you're attending—we'll reserve time to discuss your needs.
+
+---
+
+*Sheplus Jewelry exhibits at major US trade shows. Can't attend? We offer virtual appointments and the same wholesale terms online. 20 years. 160+ boutique partners.*
+    `.trim(),
+  },
 ]
