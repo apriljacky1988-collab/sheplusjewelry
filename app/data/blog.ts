@@ -7257,4 +7257,500 @@ We exhibit at select trade shows throughout the year:
 *Sheplus Jewelry exhibits at major US trade shows. Can't attend? We offer virtual appointments and the same wholesale terms online. 20 years. 160+ boutique partners.*
     `.trim(),
   },
+
+  {
+    slug: 'holiday-marketing-calendar-jewelry-boutiques',
+    title: 'The Complete Holiday Marketing Calendar for Jewelry Boutiques',
+    description: 'Plan your entire year of holiday marketing—from Valentine\'s Day to Christmas—with timelines, inventory needs, and campaign ideas for every major jewelry-buying occasion.',
+    date: '2026-04-24',
+    readTime: '8 min read',
+    category: 'Business Guide',
+    content: `
+## Why Holiday Marketing Matters for Jewelry
+
+Jewelry is the ultimate gift. Birthdays, anniversaries, holidays, graduations, Mother's Day, Valentine's Day—every occasion is a jewelry-buying opportunity.
+
+For boutique owners, holidays aren't just sales spikes. They're predictable revenue cycles that can make or break your year.
+
+**The data:**
+- 40-50% of annual jewelry sales happen in November-December
+- Mother's Day represents 15-20% of spring revenue
+- Valentine's Day can generate 2-3x normal monthly sales
+- Miss a major holiday, and you're chasing revenue all year
+
+The difference between boutiques that thrive and those that struggle? Planning. The successful ones know what's coming, prepare inventory months ahead, and execute marketing campaigns that capture demand.
+
+This guide gives you a complete holiday marketing calendar for the entire year—when to order, when to market, and how to maximize each opportunity.
+
+## Q1 Holidays: New Year to Spring
+
+### Valentine's Day (February 14)
+**Planning timeline:**
+- **Order by:** December 15
+- **Receive by:** January 15
+- **Launch marketing:** January 20
+- **Peak sales:** February 1-13
+
+**What sells:**
+- Heart-shaped pendants and charms
+- Lockets (romantic, holds photos)
+- Red gemstones (garnet, ruby)
+- Rose gold pieces
+- Matching couples' jewelry
+- Personalized items (initials, dates)
+
+**Marketing angles:**
+- "For the one who has your heart"
+- "Gift guides for every relationship stage"
+- "Last-minute gifts that don't look last-minute"
+- Self-love messaging ("Treat yourself")
+
+**Price points:** $45-$150 (sweet spot for romantic gifts)
+
+**Inventory strategy:**
+- 40% necklaces/pendants
+- 25% earrings
+- 20% bracelets
+- 15% rings
+
+**Key dates:**
+- Feb 1: Marketing launch
+- Feb 7: "One week left" push
+- Feb 10: "Order by today for guaranteed delivery"
+- Feb 13: Last-chance in-store buyers
+
+---
+
+### Mother's Day (Second Sunday in May)
+**Planning timeline:**
+- **Order by:** March 15
+- **Receive by:** April 15
+- **Launch marketing:** April 1
+- **Peak sales:** April 20-May 9
+
+**What sells:**
+- Birthstone jewelry (highly personal)
+- Pearl pieces (classic, elegant)
+- Matching mother-daughter sets
+- "Grandmother" jewelry (multiple birthstones)
+- Lockets with family photos
+- Initial necklaces
+
+**Marketing angles:**
+- "For the woman who gave you everything"
+- "Birthstone jewelry: every child represented"
+- "Because she deserves something real"
+- "Gifts that say what words can't"
+
+**Price points:** $55-$200 (customers spend more on moms)
+
+**Inventory strategy:**
+- 30% birthstone pieces
+- 25% pearls
+- 20% matching sets
+- 15% lockets
+- 10% other
+
+**Key dates:**
+- April 1: Collection reveal
+- April 15: "Order now for Mother's Day"
+- May 1: Peak marketing push
+- May 5: "One week left"
+- May 9: Last-minute buyers
+
+---
+
+## Q2 Holidays: Spring to Summer
+
+### Graduation Season (May-June)
+**Planning timeline:**
+- **Order by:** April 1
+- **Receive by:** May 1
+- **Launch marketing:** May 1
+- **Peak sales:** May 15-June 15
+
+**What sells:**
+- Class rings (traditional)
+- Initial pendants
+- "2026" charms or jewelry
+- Inspirational quote pieces
+- Watches (practical graduation gift)
+- Pearl studs (classic first job jewelry)
+
+**Marketing angles:**
+- "For the next chapter"
+- "Celebrate the achievement"
+- "From student to professional"
+- Gift guides by graduate type (high school, college, grad school)
+
+**Price points:** $50-$150 (gifts from family)
+
+**Inventory strategy:**
+Focus on classic, career-appropriate pieces that transition from student to professional.
+
+---
+
+### Father's Day (Third Sunday in June)
+**Planning timeline:**
+- **Order by:** April 15
+- **Receive by:** May 15
+- **Launch marketing:** May 20
+- **Peak sales:** June 1-20
+
+**What sells:**
+- Watches
+- Cufflinks
+- Leather bracelets
+- Signet rings
+- Dog tag pendants
+- Money clips
+
+**Marketing angles:**
+- "For the man who has everything"
+- "Timeless gifts for timeless dads"
+- Don't forget male customers year-round
+
+**Price points:** $75-$250 (higher than Mother's Day)
+
+**Note:** Many jewelry boutiques under-serve male customers. Father's Day is an opportunity to build that segment.
+
+---
+
+## Q3 Holidays: Summer to Fall
+
+### Summer Wedding Season (June-August)
+**Planning timeline:**
+- **Bridal jewelry:** Order by March 1
+- **Bridesmaid gifts:** Order by April 1
+- **Launch marketing:** April 15
+- **Peak sales:** May-July
+
+**What sells:**
+- Bridal jewelry (something blue, pearls)
+- Bridesmaid gift sets
+- Mother-of-bride jewelry
+- Wedding day earrings
+- Honeymoon jewelry (travel-friendly)
+
+**Marketing angles:**
+- "Bridal party gift guides"
+- "Something borrowed, something blue"
+- Wedding day jewelry checklist
+
+**Price points:**
+- Bridesmaid gifts: $35-$75 each
+- Bridal jewelry: $100-$500
+
+---
+
+### Back to School (August-September)
+**Planning timeline:**
+- **Order by:** June 15
+- **Receive by:** July 15
+- **Launch marketing:** August 1
+- **Peak sales:** August 15-September 15
+
+**What sells:**
+- Simple studs for everyday
+- Minimalist necklaces
+- Stackable rings
+- Affordable pieces for college students
+- Sorority jewelry (if applicable to your market)
+
+**Marketing angles:**
+- "Back to campus style"
+- "Dorm room to classroom"
+- Student discounts
+
+**Price points:** $25-$75 (student budget-friendly)
+
+---
+
+### Halloween/Fall (October)
+**Planning timeline:**
+- **Order by:** August 1
+- **Receive by:** September 1
+- **Launch marketing:** September 15
+- **Peak sales:** October 1-31
+
+**What sells:**
+- Halloween-themed pieces (subtle, not costume)
+- Fall colors (amber, topaz, garnet)
+- Pumpkin spice palette jewelry
+- Costume jewelry for Halloween parties
+
+**Marketing angles:**
+- "Fall fashion essentials"
+- Halloween styling
+- Seasonal color trends
+
+**Note:** Smaller holiday, but good for building fall momentum toward Q4.
+
+---
+
+## Q4 Holidays: The Big Season
+
+### Holiday/Gift Season (November-December)
+**This is your make-or-break quarter.**
+
+**Planning timeline:**
+- **Order by:** September 1
+- **Receive by:** October 15
+- **Launch marketing:** November 1
+- **Peak sales:** November 15-December 24
+
+**What sells:**
+- Everything, but especially:
+- Gift sets (boxed and ready)
+- Classic pieces (pearls, diamonds, gold)
+- Personalized jewelry
+- Stocking stuffers (under $50)
+- Statement pieces for holiday parties
+- Religious jewelry (Christmas, Hanukkah)
+
+**Marketing angles:**
+- Gift guides by recipient (mom, wife, sister, friend)
+- Gift guides by price point ($25, $50, $100, $200+)
+- "The gift they'll remember"
+- Last-minute gift solutions
+- Extended return policies for gifts
+
+**Price points:** Full range, but focus on:
+- $35-$75 (stocking stuffers, coworkers)
+- $75-$150 (significant others, family)
+- $150+ (special gifts, spouses)
+
+**Inventory strategy:**
+- Order 2-3x normal quantities
+- Focus on gift-ready packaging
+- Stock bestsellers from earlier in year
+- Include lower price points for add-on sales
+
+**Key dates:**
+- Nov 1: Holiday collection launch
+- Nov 15: Black Friday prep
+- Nov 28: Black Friday
+- Dec 2: Cyber Monday
+- Dec 10: "Order by today for Christmas delivery"
+- Dec 15: Last day for standard shipping
+- Dec 20: Last day for express shipping
+- Dec 24: Christmas Eve (in-store rush)
+
+---
+
+### Black Friday/Cyber Monday (Late November)
+**Planning timeline:**
+- **Inventory ready:** November 1
+- **Marketing plan finalized:** November 1
+- **Launch:** Thanksgiving/Black Friday
+
+**Strategy options:**
+- Percentage discount (20-30% off)
+- Dollar-off deals ($25 off $100)
+- Gift with purchase
+- Free shipping thresholds
+- Bundle deals
+
+**Important:** Don't discount so heavily you destroy margins. Jewelry should maintain perceived value.
+
+---
+
+### Small Business Saturday (Saturday after Thanksgiving)
+**Your day.**
+
+**Strategy:**
+- Emphasize local/artisan/small business angle
+- Tell your story
+- Offer exclusive Small Business Saturday deals
+- Partner with other local businesses
+- Social media push highlighting "shop small"
+
+---
+
+## Year-Round Occasions
+
+### Birthdays (Year-round)
+Birthstones are your secret weapon.
+
+**Strategy:**
+- Monthly birthstone promotions
+- "Birthday month" discounts for email subscribers
+- Birthstone education content
+
+### Anniversaries (Year-round)
+Traditional anniversary gifts include jewelry for many years.
+
+**Key anniversaries with jewelry:**
+- 1st: Gold
+- 3rd: Pearl
+- 5th: Sapphire
+- 10th: Diamond
+- 25th: Silver
+- 30th: Pearl
+- 50th: Gold
+
+**Marketing:** Anniversary gift guides, traditional vs. modern gifts.
+
+---
+
+## The Marketing Calendar Template
+
+Use this template for each holiday:
+
+### 8 Weeks Before
+- [ ] Finalize inventory order
+- [ ] Plan marketing campaign
+- [ ] Create promotional materials
+- [ ] Schedule email campaigns
+- [ ] Plan social media content
+
+### 6 Weeks Before
+- [ ] Receive inventory
+- [ ] Photograph new pieces
+- [ ] Update website
+- [ ] Train staff on new products
+
+### 4 Weeks Before
+- [ ] Launch marketing
+- [ ] Send first email
+- [ ] Begin social media push
+- [ ] Set up in-store displays
+
+### 2 Weeks Before
+- [ ] Peak marketing period
+- [ ] Daily social posts
+- [ ] Email every 2-3 days
+- [ ] Monitor inventory levels
+
+### Holiday Week
+- [ ] Last-chance messaging
+- [ ] Extended hours (if applicable)
+- [ ] Gift wrapping services
+- [ ] Final push marketing
+
+### Post-Holiday
+- [ ] Thank customers
+- [ ] Analyze what sold
+- [ ] Plan markdowns for leftovers
+- [ ] Capture data for next year
+
+## Inventory Planning by Month
+
+### January
+- Focus: Valentine's Day inventory arrives
+- Order: Mother's Day inventory
+
+### February
+- Focus: Valentine's Day sales
+- Order: Spring/summer, Father's Day
+
+### March
+- Focus: Post-Valentine's analysis
+- Order: Mother's Day restock, graduation
+
+### April
+- Focus: Mother's Day prep
+- Order: Summer, Father's Day
+
+### May
+- Focus: Mother's Day, graduation
+- Order: Fall, holiday
+
+### June
+- Focus: Father's Day, weddings
+- Order: Holiday (early start)
+
+### July
+- Focus: Summer sales
+- Order: Holiday inventory
+
+### August
+- Focus: Back to school
+- Order: Holiday restock
+
+### September
+- Focus: Fall transition
+- Order: Holiday final orders
+
+### October
+- Focus: Halloween/fall
+- Order: Last-minute holiday
+
+### November
+- Focus: Black Friday, holiday launch
+- Order: Emergency restocks only
+
+### December
+- Focus: Holiday sales, peak season
+- Order: Begin planning next year
+
+## Measuring Holiday Success
+
+### Key Metrics
+
+**Sales metrics:**
+- Total holiday revenue
+- Revenue vs. goal
+- Average order value
+- Conversion rate
+
+**Inventory metrics:**
+- Sell-through rate by category
+- Markdown rate (leftovers)
+- Stockout rate (missed sales)
+
+**Marketing metrics:**
+- Email open/click rates
+- Social engagement
+- Traffic sources
+- Customer acquisition cost
+
+**Customer metrics:**
+- New vs. returning customers
+- Gift recipient conversion
+- Post-holiday return rate
+
+### Post-Holiday Review
+
+After every major holiday, answer:
+- What sold out? (Order more next year)
+- What didn't move? (Reduce or eliminate)
+- What price points performed best?
+- What marketing channels drove sales?
+- What would you do differently?
+
+**Document everything.** Next year's planning starts now.
+
+## Sheplus Jewelry Holiday Support
+
+We understand holiday inventory is critical:
+
+**Planning assistance:**
+- Holiday trend forecasts
+- Recommended quantities
+- Fast reorder turnaround
+
+**Popular holiday pieces:**
+- Birthstone pendants (all 12 months)
+- Freshwater pearl sets
+- Matching mother-daughter designs
+- Gift-ready packaging
+
+**Holiday timing:**
+- September orders: Deliver October 15
+- October orders: Deliver November 1
+- November orders: Rush options available
+
+**Marketing support:**
+- Product photos for your campaigns
+- Email copy suggestions
+- Social media content ideas
+
+**Questions about holiday planning?** Email anna@sheplusjewelry.com—we'll help you build a holiday calendar that maximizes your entire year.
+
+---
+
+*Sheplus Jewelry helps 160+ boutiques plan and execute holiday strategies. 20 years of wholesale experience. MOQ 1 piece for samples.*
+    `.trim(),
+  },
 ]
