@@ -7753,4 +7753,526 @@ We understand holiday inventory is critical:
 *Sheplus Jewelry helps 160+ boutiques plan and execute holiday strategies. 20 years of wholesale experience. MOQ 1 piece for samples.*
     `.trim(),
   },
+
+  {
+    slug: 'inventory-management-jewelry-boutiques',
+    title: 'Inventory Management for Jewelry Boutiques: A Complete System',
+    description: 'How to track, manage, and optimize your jewelry inventory—from receiving and storage to sales analysis and reordering decisions.',
+    date: '2026-04-25',
+    readTime: '8 min read',
+    category: 'Business Guide',
+    content: `
+## Why Inventory Management Matters
+
+Inventory is your biggest investment and your biggest risk. Too little, and you miss sales. Too much, and you tie up cash in dead stock.
+
+For jewelry boutiques, inventory management is especially critical:
+- High-value items require careful tracking
+- Seasonal trends demand strategic planning
+- Materials need proper storage conditions
+- Theft and loss prevention is essential
+
+The boutiques that master inventory management see:
+- 20-30% higher profit margins
+- Fewer stockouts and missed sales
+- Reduced markdowns and waste
+- Better cash flow
+- More confident buying decisions
+
+This guide gives you a complete inventory management system—from receiving to reordering.
+
+## Setting Up Your Inventory System
+
+### Choose Your Method
+
+**Manual (Spreadsheet):**
+- Best for: Startups, <100 SKUs, tight budgets
+- Tools: Google Sheets, Excel
+- Cost: Free
+- Time: 2-3 hours/week
+
+**POS System:**
+- Best for: Growing boutiques, 100-500 SKUs
+- Tools: Square, Shopify POS, Lightspeed
+- Cost: $50-150/month
+- Time: 30 minutes/week
+
+**Inventory Management Software:**
+- Best for: Established boutiques, 500+ SKUs, multiple locations
+- Tools: Cin7, inFlow, Brightpearl
+- Cost: $200-500/month
+- Time: 1 hour/week
+
+**Recommendation:** Start with a POS system. It handles sales tracking, inventory management, and customer data in one place.
+
+### Essential Data Points
+
+For every piece of jewelry, track:
+
+**Product information:**
+- SKU (unique identifier)
+- Product name
+- Category (necklace, earrings, etc.)
+- Materials (sterling silver, turquoise, etc.)
+- Cost (wholesale price paid)
+- Retail price
+- Supplier
+- Date received
+
+**Inventory levels:**
+- Quantity on hand
+- Quantity reserved (pending orders)
+- Quantity available
+- Reorder point
+- Reorder quantity
+
+**Performance metrics:**
+- Units sold (month/quarter/year)
+- Days in inventory
+- Sell-through rate
+- Gross margin
+
+### SKU Naming Convention
+
+Create a consistent system:
+
+**Format:** [Category]-[Material]-[Number]
+
+Examples:
+- NK-SLV-001 (Necklace, Silver, #1)
+- ER-TRQ-045 (Earrings, Turquoise, #45)
+- BR-PRl-012 (Bracelet, Pearl, #12)
+
+**Benefits:**
+- Easy identification
+- Quick sorting
+- Prevents duplicates
+- Simplifies reporting
+
+## Receiving and Storage
+
+### Receiving Process
+
+**When inventory arrives:**
+
+1. **Verify shipment:**
+   - Check packing list against order
+   - Count pieces
+   - Inspect for damage
+   - Note discrepancies immediately
+
+2. **Enter into system:**
+   - Add to inventory count
+   - Update receiving date
+   - Record any quality issues
+
+3. **Tag and label:**
+   - Attach price tags
+   - Add security tags if used
+   - Label with SKU
+
+4. **Photograph:**
+   - Take product photos
+   - Consistent background and lighting
+   - Multiple angles
+
+5. **Store properly:**
+   - Follow material-specific storage
+   - Update location in system
+
+### Storage Best Practices
+
+**General storage:**
+- Clean, dry environment
+- Consistent temperature (65-75°F)
+- Low humidity (40-50%)
+- Away from direct sunlight
+- Secure (locked when unattended)
+
+**Material-specific storage:**
+
+**Sterling silver:**
+- Anti-tarnish strips in storage
+- Cloth pouches or bags
+- Separate from rubber (causes tarnish)
+
+**Gold:**
+- Soft cloth or pouches
+- Separate from other metals
+- Individual compartments
+
+**Pearls:**
+- Breathable storage (not airtight)
+- Lay flat (hanging stretches silk thread)
+- Away from heat and chemicals
+
+**Turquoise and gemstones:**
+- Soft padding
+- Prevent scratching
+- Avoid extreme temperature changes
+
+**Organization systems:**
+- By category (necklaces together, earrings together)
+- By material (all silver together)
+- By price point (budget section, premium section)
+- By collection or style
+
+## Tracking Sales and Movement
+
+### Daily Tracking
+
+**What to record:**
+- Every sale (automatic with POS)
+- Any damage or loss
+- Returns and exchanges
+- Transfers between locations (if applicable)
+
+**Why daily:**
+- Catch discrepancies early
+- Accurate reorder timing
+- Theft detection
+- Trend identification
+
+### Weekly Review
+
+**Metrics to check:**
+- Top sellers (what's moving)
+- Slow movers (what's sitting)
+- Low stock alerts
+- Margin analysis
+
+**Action items:**
+- Reorder bestsellers
+- Plan promotions for slow movers
+- Investigate discrepancies
+- Update displays
+
+### Monthly Analysis
+
+**Comprehensive review:**
+
+**Sell-through rate:**
+Formula: Units sold ÷ Units received
+Target: >70% for fashion jewelry, >50% for fine jewelry
+
+**Days in inventory:**
+Formula: Average inventory ÷ Average daily sales
+Target: <60 days for fashion, <90 days for fine
+
+**Gross margin:**
+Formula: (Revenue - Cost) ÷ Revenue
+Target: 60-70% for jewelry
+
+**Inventory turnover:**
+Formula: Cost of goods sold ÷ Average inventory
+Target: 4-6x per year
+
+### Quarterly Deep Dive
+
+**Strategic analysis:**
+
+**Category performance:**
+- Which categories are growing?
+- Which are declining?
+- Should you expand or contract categories?
+
+**Price point analysis:**
+- What's your sweet spot?
+- Are you missing opportunities at higher or lower price points?
+
+**Supplier evaluation:**
+- Which suppliers deliver bestsellers?
+- Which have quality issues?
+- Who offers the best terms?
+
+**Trend identification:**
+- What's emerging?
+- What's fading?
+- What should you stock up on?
+
+## Reorder Point System
+
+### Calculate Reorder Points
+
+**Formula:**
+Reorder Point = (Average daily sales × Lead time) + Safety stock
+
+**Example:**
+- Average daily sales: 2 units
+- Lead time: 14 days
+- Safety stock: 5 units
+- Reorder Point = (2 × 14) + 5 = 33 units
+
+When inventory drops to 33, place a reorder.
+
+### Determine Reorder Quantities
+
+**Economic Order Quantity (EOQ):**
+Balance ordering costs vs. holding costs.
+
+**Factors:**
+- Minimum order quantity (MOQ)
+- Shipping costs
+- Storage space
+- Cash flow
+- Sales velocity
+
+**Conservative approach:**
+Order enough for 4-6 weeks of sales.
+
+**Aggressive approach:**
+Order enough for 8-12 weeks (if supplier is slow or unreliable).
+
+### ABC Analysis
+
+Classify inventory by value and importance:
+
+**A items (Top 20%):**
+- 80% of revenue
+- Daily monitoring
+- Frequent reordering
+- Low stock tolerance
+
+**B items (Middle 30%):**
+- 15% of revenue
+- Weekly monitoring
+- Standard reordering
+- Moderate stock tolerance
+
+**C items (Bottom 50%):**
+- 5% of revenue
+- Monthly monitoring
+- Infrequent reordering
+- Higher stock tolerance
+
+**Application:**
+Spend most of your time managing A items. C items shouldn't consume much attention.
+
+## Managing Dead Stock
+
+### Identify Dead Stock
+
+**Definition:** Items not sold in 90+ days (fashion) or 180+ days (fine).
+
+**Tracking:**
+Run reports monthly showing:
+- Last sale date
+- Days in inventory
+- Quantity on hand
+- Total value tied up
+
+### Liquidation Strategies
+
+**Markdown ladder:**
+- Month 4: 20% off
+- Month 5: 30% off
+- Month 6: 40% off
+- Month 7: 50% off or cost
+- Month 8: Liquidate (donate, wholesale, destroy)
+
+**Alternative strategies:**
+- Bundle with bestsellers
+- Use as gifts with purchase
+- Donate for tax write-off
+- Sell to liquidation services
+- Staff discounts
+
+**Goal:** Convert to cash, even at break-even or small loss. Free up space and capital for better-performing inventory.
+
+## Theft and Loss Prevention
+
+### Internal Theft Prevention
+
+**Systems:**
+- Individual logins for all staff
+- Require manager approval for discounts/voids
+- Regular inventory counts
+- Security cameras
+- Clear policies and consequences
+
+**Culture:**
+- Lead by example
+- Fair compensation
+- Open communication
+- Anonymous reporting options
+
+### External Theft Prevention
+
+**Physical security:**
+- Locked display cases
+- Security tags on high-value items
+- Mirrors and sight lines
+- Staff training on suspicious behavior
+- Limited fitting room access
+
+**Online security:**
+- Address verification
+- Fraud detection
+- Clear return policies
+- Signature required for high-value orders
+
+### Inventory Counts
+
+**Cycle counting:**
+Count small sections regularly rather than full inventory annually.
+
+**Schedule:**
+- A items: Weekly
+- B items: Monthly
+- C items: Quarterly
+
+**Process:**
+1. Count physical inventory
+2. Compare to system
+3. Investigate discrepancies
+4. Adjust system to match reality
+5. Identify causes of discrepancies
+
+**Annual physical inventory:**
+- Close or count after hours
+- Use scanners or count sheets
+- Two-person teams (one counts, one verifies)
+- Investigate all variances
+- Adjust books accordingly
+
+## Seasonal Inventory Planning
+
+### Pre-Season Preparation
+
+**8 weeks before season:**
+- Review last year's sales
+- Identify gaps in current inventory
+- Place orders for new seasonal items
+
+**4 weeks before season:**
+- Receive seasonal inventory
+- Create seasonal displays
+- Train staff on seasonal items
+- Launch pre-season marketing
+
+**During season:**
+- Monitor sell-through weekly
+- Reorder bestsellers quickly
+- Mark down slow movers early
+- Don't over-reorder (season ends)
+
+**Post-season:**
+- Aggressively clear remaining inventory
+- Analyze what worked
+- Document for next year
+- Order for next season (if terms are favorable)
+
+### Holiday-Specific Planning
+
+See our Holiday Marketing Calendar article for detailed holiday timelines.
+
+Key principle: Order holiday inventory 8-12 weeks before the holiday. By the week of the holiday, you should be selling through, not receiving new stock.
+
+## Technology and Tools
+
+### Barcode Scanning
+
+**Benefits:**
+- Faster receiving
+- Accurate sales tracking
+- Easy inventory counts
+- Professional appearance
+
+**Implementation:**
+- Barcode printer ($100-300)
+- Scanner ($50-200)
+- Barcode labels
+- Integration with POS
+
+### Inventory Management Apps
+
+**Popular options:**
+- **Stocky** (Shopify)
+- **Inventory Planner**
+- **TradeGecko**
+- **Zoho Inventory**
+
+**Features to look for:**
+- Automatic reorder alerts
+- Demand forecasting
+- Supplier management
+- Multi-location support
+- Reporting and analytics
+
+### Analytics and Reporting
+
+**Key reports:**
+- Inventory valuation
+- Sales by SKU
+- Gross margin by product
+- Sell-through rates
+- Aging inventory
+- Reorder recommendations
+
+**Dashboard metrics:**
+- Total inventory value
+- Average days in inventory
+- Stockout rate
+- Dead stock percentage
+- Inventory turnover
+
+## Common Inventory Mistakes
+
+**Mistake 1: Not tracking at all**
+Flying blind leads to stockouts, overstock, and theft.
+
+**Mistake 2: Infrequent counts**
+Annual counts aren't enough. Problems fester for months.
+
+**Mistake 3: Ignoring slow movers**
+Dead stock ties up cash and space. Address it early.
+
+**Mistake 4: Over-ordering bestsellers**
+Today's bestseller might not be tomorrow's. Order conservatively.
+
+**Mistake 5: No reorder point system**
+Waiting until you're out leads to stockouts and rush shipping.
+
+**Mistake 6: Poor storage conditions**
+Tarnished silver, scratched stones, broken pieces = lost money.
+
+**Mistake 7: Not analyzing data**
+Your sales data tells a story. Read it.
+
+## Sheplus Jewelry Inventory Support
+
+We help our partners manage inventory effectively:
+
+**Consistent quality:**
+- Every piece inspected
+- Batch consistency
+- No surprises on delivery
+
+**Predictable lead times:**
+- Samples: 7-10 days
+- Production: 2-3 weeks
+- Rush options available
+
+**Flexible ordering:**
+- Low MOQ (5 pieces per style)
+- Mix styles to hit minimums
+- Sample before committing
+
+**Reorder efficiency:**
+- Fast turnaround on reorders
+- Consistent availability
+- Notification of discontinued items
+
+**Market insights:**
+- What's selling nationally
+- Trend forecasts
+- Seasonal recommendations
+
+**Questions about inventory management?** Email anna@sheplusjewelry.com—we'll share systems and strategies from our 160+ boutique partners.
+
+---
+
+*Sheplus Jewelry supplies wholesale turquoise, pearl, and sterling silver jewelry. 20 years. 160+ US boutiques. We help you buy smarter, not just more.*
+    `.trim(),
+  },
 ]
