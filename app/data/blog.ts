@@ -9826,4 +9826,569 @@ We help your team become jewelry experts:
 *Sheplus Jewelry partners with 160+ jewelry boutiques. We believe great staff create great customer experiences. Let us help you build a team that sells.*
     `.trim(),
   },
+
+  {
+    slug: 'jewelry-photography-guide-boutiques',
+    title: 'Jewelry Photography Guide: Capturing Pieces That Sell',
+    description: 'How to photograph jewelry for your boutique—from equipment and lighting to editing and styling—creating images that convert browsers into buyers.',
+    date: '2026-04-29',
+    readTime: '8 min read',
+    category: 'Business Guide',
+    content: `
+## Why Jewelry Photography Matters
+
+In jewelry retail, your photos are your salespeople. Online customers can't touch, feel, or try on your pieces—they can only see them. Poor photography kills sales. Great photography creates desire.
+
+**The impact of photography:**
+- 93% of consumers consider visual appearance the key deciding factor in purchases
+- Professional product photos increase perceived value by 20-30%
+- Consistent, high-quality photography builds brand trust
+- Good photos reduce returns (customers know what to expect)
+
+The good news? You don't need a professional studio or expensive equipment to take great jewelry photos. With the right techniques and some practice, you can create stunning images that sell.
+
+This guide covers everything from basic smartphone photography to advanced techniques for serious boutiques.
+
+## Equipment: From Basic to Professional
+
+### Smartphone Setup (Budget: $0-100)
+
+**What you need:**
+- Modern smartphone (iPhone 8+ or equivalent Android)
+- Natural light source (window)
+- White poster board or foam core
+- Tripod or phone stand ($15-30)
+- White reflector (white foam core works)
+
+**Pros:**
+- Always with you
+- Good enough for social media
+- Quick to shoot and edit
+- No learning curve
+
+**Cons:**
+- Limited control over settings
+- Smaller files (less zoom capability)
+- Harder to achieve professional consistency
+
+### Entry-Level Camera Setup (Budget: $500-1,000)
+
+**What you need:**
+- DSLR or mirrorless camera (Canon Rebel, Sony A6000 series)
+- 50mm or 60mm macro lens
+- Tripod ($50-100)
+- Two softbox lights or LED panels ($100-200)
+- White backdrop and reflectors
+- Light tent (optional, $30-50)
+
+**Pros:**
+- Much better image quality
+- Full manual control
+- Professional results
+- Room to grow
+
+**Cons:**
+- Learning curve
+- More equipment to manage
+- Higher upfront cost
+
+### Professional Studio Setup (Budget: $2,000+)
+
+**What you need:**
+- Full-frame camera (Canon 5D, Sony A7 series)
+- 90mm or 100mm macro lens
+- Professional lighting kit (strobes or continuous)
+- Light modifiers (softboxes, umbrellas, reflectors)
+- Multiple backdrop options
+- Tethering software
+- Professional editing software (Lightroom/Photoshop)
+
+**Pros:**
+- Highest image quality
+- Complete creative control
+- Efficient workflow
+- Scalable for high volume
+
+**Cons:**
+- Significant investment
+- Requires dedicated space
+- Steep learning curve
+
+**Recommendation:** Start with smartphone photography. Upgrade to a camera setup once you're consistently selling and need better quality for your website.
+
+## Lighting: The Secret to Great Jewelry Photos
+
+### Natural Light (Best for Beginners)
+
+**Setup:**
+- Position near a large window
+- Shoot during golden hours (early morning or late afternoon)
+- Avoid direct sunlight (too harsh)
+- Use a white reflector to fill shadows
+
+**Pros:**
+- Free
+- Beautiful, soft quality
+- Shows true colors
+- Easy to set up
+
+**Cons:**
+- Weather dependent
+- Limited hours
+- Inconsistent from day to day
+- Hard to shoot at night
+
+**Technique:**
+1. Place jewelry on white surface near window
+2. Use diffuser (white curtain) if light is too harsh
+3. Place white reflector opposite window to fill shadows
+4. Shoot at 90-degree angle to window for even lighting
+
+### Artificial Light (Best for Consistency)
+
+**Continuous LED lights:**
+- Always on (what you see is what you get)
+- Cool running (safe for jewelry)
+- Adjustable brightness
+- Good for beginners
+
+**Strobe/flash lights:**
+- More powerful
+- Freeze motion (sharper images)
+- More professional results
+- Requires more skill
+
+**Two-light setup (recommended):**
+- Main light at 45-degree angle to subject
+- Fill light opposite main light (lower power)
+- Both lights diffused through softboxes
+
+### Common Lighting Mistakes
+
+**Harsh shadows:**
+- Cause: Direct light without diffusion
+- Fix: Use softboxes, umbrellas, or diffusers
+
+**Color casts:**
+- Cause: Mixed lighting (daylight + tungsten)
+- Fix: Use one light type, adjust white balance
+
+**Reflections:**
+- Cause: Lights reflecting in metal/gemstones
+- Fix: Position lights carefully, use polarizing filter
+
+**Flat images:**
+- Cause: On-camera flash or flat lighting
+- Fix: Use side lighting to create dimension
+
+## Backgrounds and Styling
+
+### Classic White Background
+
+**Best for:**
+- Product pages
+- Clean, professional look
+- Easy editing
+
+**Materials:**
+- White seamless paper
+- White foam core
+- White acrylic (for reflections)
+- Light tent
+
+**Tips:**
+- Curve background to eliminate horizon line
+- Keep jewelry clean (lint shows on white)
+- Slightly overexpose for pure white
+
+### Lifestyle Backgrounds
+
+**Best for:**
+- Social media
+- Email marketing
+- Showing scale and context
+
+**Options:**
+- Natural elements (wood, stone, plants)
+- Fabrics (linen, velvet, silk)
+- Props (coffee cups, books, flowers)
+- Model shots
+
+**Tips:**
+- Don't compete with the jewelry
+- Use complementary colors
+- Keep it simple and uncluttered
+- Match background to brand aesthetic
+
+### Styled Flat Lays
+
+**Best for:**
+- Instagram
+- Pinterest
+- Collections and sets
+
+**Technique:**
+1. Choose a base surface (marble, wood, fabric)
+2. Arrange jewelry artfully
+3. Add complementary props sparingly
+4. Shoot from directly above
+
+**Popular themes:**
+- "Morning routine" (jewelry + coffee + journal)
+- "Getting ready" (jewelry + makeup + perfume)
+- "Travel essentials" (jewelry + passport + sunglasses)
+- Seasonal (flowers for spring, leaves for fall)
+
+## Camera Settings and Technique
+
+### Smartphone Settings
+
+**iPhone:**
+- Use Portrait mode for depth
+- Tap to focus on jewelry
+- Swipe up to adjust exposure
+- Use grid lines for composition
+- Shoot in HDR for detail
+
+**Android:**
+- Use Pro mode if available
+- Adjust ISO (keep low: 100-400)
+- Set white balance manually
+- Use timer or remote to avoid shake
+
+### DSLR/Mirrorless Settings
+
+**Mode:** Manual (M) for full control
+
+**Aperture (f-stop):**
+- f/8 to f/11 for sharpness throughout
+- f/2.8 to f/4 for artistic blur (bokeh)
+- f/16+ for maximum depth (risk of diffraction)
+
+**Shutter speed:**
+- 1/125s or faster for hand-held
+- 1/60s or slower with tripod
+- Use timer or remote release
+
+**ISO:**
+- Keep as low as possible (100-400)
+- Higher ISO = more noise/grain
+- Use lighting to avoid high ISO
+
+**White balance:**
+- Daylight (5500K) for natural light
+- Tungsten (3200K) for warm bulbs
+- Custom white balance for accuracy
+- Shoot RAW for maximum flexibility
+
+**Focus:**
+- Use single-point autofocus
+- Focus on the most important detail (clasp, stone, center)
+- Use focus peaking or magnification
+- Shoot multiple focal points for focus stacking (advanced)
+
+### Composition Tips
+
+**Rule of thirds:**
+- Place jewelry at intersection points
+- Creates visual interest
+- Don't always center everything
+
+**Leading lines:**
+- Use necklace chains to lead eye
+- Bracelets can create circular composition
+- Earrings work well in pairs
+
+**Negative space:**
+- Don't fill entire frame
+- Give jewelry room to breathe
+- Makes images more elegant
+
+**Multiple angles:**
+- Front view (hero shot)
+- 45-degree angle (shows depth)
+- Side view (shows thickness/profile)
+- Detail shot (clasp, stone, engraving)
+- Scale shot (on model or with coin)
+
+## Photographing Different Jewelry Types
+
+### Necklaces
+
+**Challenges:**
+- Tangling
+- Laying flat vs. showing drape
+- Chain detail visibility
+
+**Solutions:**
+- Use necklace stands or bust forms
+- Lay flat on white surface for simple shots
+- Hang against white background for floating effect
+- Show clasp detail separately
+
+**Styling:**
+- Layer multiple necklaces
+- Show on model or mannequin
+- Include lifestyle context
+
+### Earrings
+
+**Challenges:**
+- Small size
+- Need to show as pair
+- Reflections in metal
+
+**Solutions:**
+- Use earring stands or cards
+- Lay flat at slight angle
+- Shoot one earring from multiple angles
+- Show scale (next to coin or ruler)
+
+**Styling:**
+- Pair with complementary pieces
+- Show on ear (model or display)
+- Create earring flat lays
+
+### Rings
+
+**Challenges:**
+- Standing upright
+- Showing detail on small surface
+- Size reference
+
+**Solutions:**
+- Use ring cones or putty to prop up
+- Lay flat and shoot from 45 degrees
+- Show on hand (yours or model)
+- Include ring sizer for scale
+
+**Styling:**
+- Stack multiple rings
+- Show on finger with manicure
+- Pair with matching jewelry
+
+### Bracelets
+
+**Challenges:**
+- Showing full piece
+- Laying naturally
+- Clasp visibility
+
+**Solutions:**
+- Use bracelet stands or rolls
+- Lay in gentle curve
+- Show on wrist (model or mannequin)
+- Detail shot of clasp
+
+**Styling:**
+- Stack multiple bracelets
+- Show with watch
+- Create arm party flat lay
+
+## Post-Processing and Editing
+
+### Basic Edits (All Photos Need These)
+
+**Exposure:**
+- Adjust brightness if needed
+- Ensure whites are white (not gray)
+- Recover blown highlights if possible
+
+**White balance:**
+- Neutralize color casts
+- Ensure metals look natural
+- Gems should show true color
+
+**Contrast:**
+- Increase slightly for pop
+- Don't overdo (loses detail)
+- Use curves for precise control
+
+**Sharpening:**
+- Apply moderate sharpening
+- Focus on edges and details
+- Don't oversharpen (creates artifacts)
+
+**Cropping:**
+- Remove distractions
+- Improve composition
+- Consistent aspect ratio (square for Instagram, 4:5 for Pinterest)
+
+### Advanced Edits
+
+**Background removal/replacement:**
+- Use pen tool or AI selection
+- Clean edges carefully
+- Replace with pure white or lifestyle background
+
+**Dust and imperfection removal:**
+- Use healing brush or clone stamp
+- Clean metal surfaces
+- Remove lint, fingerprints, dust
+
+**Color correction:**
+- Adjust specific color ranges
+- Enhance gemstone colors
+- Correct metal tones
+
+**Focus stacking:**
+- Combine multiple images at different focus points
+- Creates sharpness throughout
+- Essential for macro jewelry photography
+
+### Editing Software
+
+**Free options:**
+- **Snapseed** (mobile, excellent)
+- **GIMP** (desktop, powerful)
+- **Canva** (web-based, easy)
+
+**Paid options:**
+- **Adobe Lightroom** ($10/month, industry standard)
+- **Adobe Photoshop** ($20/month, advanced editing)
+- **Capture One** (professional alternative)
+- **Luminar** (AI-powered, one-time purchase)
+
+**Recommendation:** Start with Snapseed for mobile editing, upgrade to Lightroom as you grow.
+
+## Workflow and Efficiency
+
+### Batch Shooting
+
+**Setup once, shoot many:**
+1. Set up lighting and background
+2. Shoot all similar pieces (all gold necklaces, then all silver)
+3. Minimize changes between shots
+4. Consistent settings = consistent results
+
+**Benefits:**
+- Faster shooting
+- Consistent look
+- Easier editing
+- Higher volume
+
+### Organizing Files
+
+**Naming convention:**
+[SKU]_[angle]_[date].jpg
+Example: NK-SLV-001_front_20260429.jpg
+
+**Folder structure:**
+/Jewelry Photos
+  /2026-04
+    /Raw
+    /Edited
+    /Web
+    /Social
+
+**Backup strategy:**
+- Cloud storage (Google Drive, Dropbox)
+- External hard drive
+- Keep RAW files indefinitely
+- Web-optimized copies for daily use
+
+### Creating a Shot List
+
+**For each product, plan:**
+- Hero shot (main product page image)
+- Detail shots (clasp, stone, texture)
+- Lifestyle/context shots
+- Scale shots
+- Social media crops
+
+**Example shot list for necklace:**
+1. Front view on white
+2. 45-degree angle on white
+3. Clasp detail
+4. Pendant close-up
+5. On model/bust
+6. Lifestyle flat lay
+7. Instagram square crop
+8. Pinterest vertical crop
+
+## Common Photography Mistakes
+
+**Mistake 1: Poor focus**
+Blurry jewelry looks unprofessional. Use tripod, proper lighting, and careful focus.
+
+**Mistake 2: Harsh shadows**
+Soft, diffused light is essential for jewelry. Hard shadows look amateur.
+
+**Mistake 3: Color casts**
+Yellow or blue tints make jewelry look wrong. White balance is critical.
+
+**Mistake 4: Busy backgrounds**
+Backgrounds should complement, not compete. Keep it simple.
+
+**Mistake 5: Inconsistent style**
+Mixed lighting, backgrounds, and editing looks unprofessional. Develop a style guide.
+
+**Mistake 6: Not showing scale**
+Customers can't tell size from photos alone. Include reference objects.
+
+**Mistake 7: Over-editing**
+Heavy filters and effects look fake. Aim for natural, accurate representation.
+
+**Mistake 8: Ignoring mobile optimization**
+70% of shopping is mobile. Ensure photos look great on small screens.
+
+## DIY Lightbox Tutorial
+
+Build a simple lightbox for under $20:
+
+**Materials:**
+- Cardboard box (medium size)
+- White tissue paper or fabric
+- White poster board
+- Tape
+- Desk lamps (2-3)
+
+**Steps:**
+1. Cut windows on three sides of box
+2. Cover windows with tissue paper (diffuses light)
+3. Curve poster board inside for seamless background
+4. Position lamps outside windows
+5. Shoot through front opening
+
+**Benefits:**
+- Soft, even lighting
+- Portable
+- Inexpensive
+- Works with any camera
+
+## Sheplus Jewelry Photography Support
+
+We help our partners create stunning product photos:
+
+**High-res product images:**
+- Professional shots of every piece
+- Multiple angles
+- Web and print resolution
+- White background and lifestyle options
+
+**Lifestyle photography:**
+- Styled shots for social media
+- Model photography
+- Seasonal collections
+- Flat lay compositions
+
+**Technical specs:**
+- Consistent lighting and color
+- Accurate color representation
+- Detail shots showing craftsmanship
+- Scale references
+
+**Usage rights:**
+- All wholesale partners can use our photos
+- No attribution required
+- Edit and crop as needed
+- Perfect for websites and social media
+
+**Questions about jewelry photography?** Email anna@sheplusjewelry.com—we'll share tips, recommend equipment, and provide high-res images of our collection for your use.
+
+---
+
+*Sheplus Jewelry provides professional product photography to all wholesale partners. Beautiful jewelry deserves beautiful photos. Let us help you showcase your collection.*
+    `.trim(),
+  },
 ]
