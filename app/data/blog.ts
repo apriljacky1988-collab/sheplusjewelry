@@ -10391,4 +10391,405 @@ We help our partners create stunning product photos:
 *Sheplus Jewelry provides professional product photography to all wholesale partners. Beautiful jewelry deserves beautiful photos. Let us help you showcase your collection.*
     `.trim(),
   },
+
+  {
+    slug: 'jewelry-trends-spring-summer-2026',
+    title: 'Jewelry Trends Spring/Summer 2026: What\'s Hot and What\'s Next',
+    description: 'The definitive guide to spring and summer 2026 jewelry trends—from runway to retail, what customers are buying and what to stock for the season ahead.',
+    date: '2026-04-30',
+    readTime: '7 min read',
+    category: 'Trends',
+    content: `
+## The State of Jewelry in 2026
+
+The jewelry landscape in 2026 is defined by contradiction: maximalism meets minimalism, vintage revivals alongside futuristic designs, and sustainable materials competing with luxury statements. For boutique owners, understanding these trends isn't about following every fad—it's about curating a collection that feels current while staying true to your brand.
+
+This guide breaks down the biggest jewelry trends for Spring/Summer 2026, translating runway and celebrity styles into actionable inventory decisions for your boutique.
+
+## Top 10 Jewelry Trends for Spring/Summer 2026
+
+### 1. The Return of the Statement Earring
+
+**What it is:** Oversized, dramatic earrings that frame the face and demand attention.
+
+**Key styles:**
+- Shoulder-grazing drops
+- Sculptural metal shapes
+- Bold geometric designs
+- Mixed materials (metal + resin, metal + fabric)
+
+**Why it's trending:**
+After years of mask-wearing and minimalism, people want their faces to be seen and celebrated. Statement earrings draw the eye upward and complete any outfit.
+
+**How to stock:**
+- Carry 3-5 statement styles in different aesthetics
+- Price range: $45-$125
+- Materials: Lightweight is key—customers won't wear heavy pieces
+- Colors: Gold dominates, but silver is rising for summer
+
+**Customer appeal:**
+"I want something that makes me feel put-together even in a simple dress."
+
+---
+
+### 2. Layered Necklaces 2.0
+
+**What it is:** The evolution of necklace layering—more intentional, more mixed materials, more personal.
+
+**Key styles:**
+- Pre-layered sets (attached at the clasp)
+- Mixed metal layers (gold + silver + rose gold)
+- Varying textures (beads + chains + pendants)
+- Personalized charms mixed with fashion pieces
+
+**Why it's trending:**
+Layering has matured from a trend to a styling essential. The new iteration is curated and collected over time rather than bought as a set.
+
+**How to stock:**
+- Offer individual chains at multiple lengths (16", 18", 20", 24")
+- Include pieces that work together (cohesive aesthetic)
+- Price range: $35-$85 per piece, $95-$175 for sets
+- Materials: Delicate chains, small pendants, varied textures
+
+**Customer appeal:**
+"I want to build a collection that tells my story."
+
+---
+
+### 3. Sculptural and Organic Shapes
+
+**What it is:** Jewelry inspired by nature, art, and architecture—flowing lines, irregular forms, and tactile surfaces.
+
+**Key styles:**
+- Molten metal looks
+- Shell and coral-inspired shapes
+- Hand-hammered textures
+- Asymmetrical designs
+
+**Why it's trending:**
+A reaction against the perfection of digital life. People crave the imperfect, the handmade, the organic.
+
+**How to stock:**
+- Look for pieces with visible hand-finishing
+- Avoid mass-produced, perfectly uniform items
+- Price range: $55-$150
+- Materials: Textured metals, natural stones with irregular shapes
+
+**Customer appeal:**
+"I want something that feels like art, not factory-made."
+
+---
+
+### 4. The Modern Pearl
+
+**What it is:** Freshwater pearls reimagined—baroque shapes, unexpected colors, contemporary settings.
+
+**Key styles:**
+- Baroque pearl pendants
+- Pearl and chain combinations
+- Colored pearls (pink, lavender, black)
+- Pearl accents on non-pearl pieces
+
+**Why it's trending:**
+Pearls have shaken off their "grandma" reputation. Modern styling makes them accessible to all ages.
+
+**How to stock:**
+- Mix classic round pearls with baroque shapes
+- Offer both white and colored varieties
+- Price range: $45-$125
+- Materials: Genuine freshwater pearls, sterling silver or gold settings
+
+**Customer appeal:**
+"These aren't my grandmother's pearls—they're cool now."
+
+---
+
+### 5. Sustainable and Ethical Jewelry
+
+**What it is:** Jewelry with a story—recycled metals, fair-trade gemstones, transparent sourcing.
+
+**Key styles:**
+- Recycled gold and silver pieces
+- Lab-grown diamonds
+- Fair-trade gemstone jewelry
+- Upcycled vintage pieces
+
+**Why it's trending:**
+Consumers, especially younger ones, want their purchases to align with their values. Sustainability is no longer niche—it's expected.
+
+**How to stock:**
+- Ask suppliers about their sourcing
+- Look for certifications (Fairmined, Fair Trade)
+- Tell the story in your marketing
+- Price range: Premium pricing accepted (20-30% markup sustainable)
+
+**Customer appeal:**
+"I want to feel good about what I'm wearing."
+
+---
+
+### 6. Bold Color and Enamel
+
+**What it is:** Jewelry as color statement—vivid enamels, bright gemstones, unexpected color combinations.
+
+**Key styles:**
+- Enamel huggie earrings
+- Colorful gemstone stacks
+- Rainbow jewelry
+- Two-tone metal combinations
+
+**Why it's trending:**
+After years of neutral minimalism, people want joy and optimism. Color delivers that.
+
+**How to stock:**
+- Focus on 2-3 key colors per season
+- Summer 2026: Turquoise, coral, sunny yellow
+- Price range: $35-$95
+- Materials: Enamel, colored gemstones, mixed metals
+
+**Customer appeal:**
+"I want something that makes me smile when I put it on."
+
+---
+
+### 7. The Cuff Revival
+
+**What it is:** Cuff bracelets and ear cuffs—sculptural, adjustable, and effortlessly cool.
+
+**Key styles:**
+- Wide metal cuffs
+- Stacked slim cuffs
+- Ear cuffs (no piercing required)
+- Mixed metal cuff sets
+
+**Why it's trending:**
+Cuffs are easy to wear (no sizing issues), make a statement, and work with everything from t-shirts to evening wear.
+
+**How to stock:**
+- Offer adjustable sizes when possible
+- Carry both bold and delicate styles
+- Price range: $45-$125
+- Materials: Sterling silver, gold vermeil, mixed metals
+
+**Customer appeal:**
+"I love that I don't have to worry about sizing."
+
+---
+
+### 8. Personalized and Meaningful
+
+**What it is:** Jewelry that tells a story—initials, birthstones, coordinates, custom engravings.
+
+**Key styles:**
+- Initial necklaces and bracelets
+- Birthstone jewelry
+- Coordinate jewelry (special places)
+- Custom engraving services
+
+**Why it's trending:**
+In an era of mass production, personalization creates connection and meaning.
+
+**How to stock:**
+- Offer in-house personalization if possible
+- Partner with suppliers who do custom work
+- Price range: $45-$150 (premium for custom)
+- Materials: Stamping-friendly metals (gold, silver)
+
+**Customer appeal:**
+"I want something that's uniquely mine."
+
+---
+
+### 9. Mixed Metals
+
+**What it is:** Intentionally mixing gold, silver, and rose gold in single pieces or styled together.
+
+**Key styles:**
+- Two-tone and three-tone pieces
+- Mixed metal stacks
+- Gold and silver layered together
+- Rose gold accents
+
+**Why it's trending:**
+The old rules about matching metals are gone. Mixing is modern, versatile, and forgiving.
+
+**How to stock:**
+- Carry pieces in all three metal colors
+- Offer pre-mixed designs
+- Educate customers on mixing
+- Price range: $35-$95
+- Materials: Gold vermeil, sterling silver, rose gold plating
+
+**Customer appeal:**
+"I don't want to choose—I want it all to work together."
+
+---
+
+### 10. Vintage and Estate Revival
+
+**What it is:** Jewelry inspired by or actually from past decades—art deco, 70s bohemian, 90s minimalism.
+
+**Key styles:**
+- Art deco geometry
+- 70s-inspired bohemian pieces
+- 90s minimalist chains
+- Genuine vintage and estate finds
+
+**Why it's trending:**
+Nostalgia cycles are shortening. Gen Z embraces 90s and Y2K styles while Millennials gravitate toward 70s bohemian looks.
+
+**How to stock:**
+- Source genuine vintage pieces at estate sales
+- Carry new pieces with vintage aesthetics
+- Price range: $45-$200+ (vintage varies widely)
+- Materials: Varies by era
+
+**Customer appeal:**
+"I want something with history and character."
+
+## Trend Forecasting: What's Coming Next
+
+### Fall/Winter 2026 Preview
+
+**Emerging trends to watch:**
+- Dark, moody gemstones (garnet, onyx, smoky quartz)
+- Chunky chains and links
+- Victorian-inspired romantic pieces
+- Oversized brooches and pins
+- Blackened and oxidized metals
+
+**Start ordering:** July-August for September delivery
+
+### 2027 Early Signals
+
+**On the horizon:**
+- Tech-integrated jewelry (subtle, not gimmicky)
+- Biomorphic and fluid shapes
+- Extreme minimalism (single, perfect pieces)
+- Hyper-local artisan movements
+- Rental and subscription jewelry models
+
+## How to Incorporate Trends Without Losing Your Identity
+
+### The 70-20-10 Rule
+
+**70% Core Collection:**
+- Your signature pieces
+- Bestsellers that define your brand
+- Timeless styles that sell year-round
+
+**20% Trend-Forward:**
+- Current season's strongest trends
+- Styles that align with your aesthetic
+- Test new ideas here
+
+**10% Experimental:**
+- Emerging trends
+- Riskier styles
+- Limited quantities
+
+### Curating Trends for Your Customer
+
+**Know your customer:**
+- Age range
+- Style preferences
+- Price sensitivity
+- Values (sustainability, local, etc.)
+
+**Filter trends through your lens:**
+- Does this fit my brand aesthetic?
+- Will my customers actually wear this?
+- Can I price this appropriately?
+- Do I believe in this trend?
+
+**Example:**
+If you serve professional women 35-55, the extreme Y2K revival might not resonate. But modern pearls and sculptural pieces would.
+
+## Trend-Based Buying Calendar
+
+### Spring/Summer Buying (January-March)
+- Light, bright pieces
+- Colorful enamels and gemstones
+- Layering essentials
+- Vacation-worthy statement pieces
+
+### Fall/Winter Buying (July-September)
+- Darker, richer pieces
+- Holiday giftables
+- Statement earrings for party season
+- Cozy textures (velvet, mixed materials)
+
+### Year-Round Essentials (Always Stock)
+- Classic studs and hoops
+- Simple chain necklaces
+- Stackable rings
+- Birthstone pieces
+
+## Marketing Trends Effectively
+
+### Content Ideas
+
+**"Trend Report" blog posts:**
+- Monthly or seasonal trend roundups
+- How to wear the trends
+- Your curated take on what's hot
+
+**Styling videos:**
+- "3 ways to wear [trend]"
+- Before/after transformations
+- Trend try-ons
+
+**Behind-the-scenes:**
+- Buying trips and trade shows
+- Trend research process
+- Designer spotlights
+
+### Social Media Strategy
+
+**Instagram:**
+- Carousel posts showing trend evolution
+- Reels of styling ideas
+- User-generated content of customers wearing trends
+
+**TikTok:**
+- "POV: You're wearing [trend]"
+- Trend forecasting content
+- "Get ready with me" featuring trends
+
+**Pinterest:**
+- Trend boards
+- Styling inspiration
+- Seasonal lookbooks
+
+## Sheplus Jewelry Trend Support
+
+We stay ahead of trends so you don't have to:
+
+**Trend forecasting:**
+- Quarterly trend reports
+- Runway and celebrity analysis
+- Early access to trending styles
+
+**Curated collections:**
+- Seasonal trend-based collections
+- Mix of classic and on-trend pieces
+- Low minimums to test trends
+
+**Marketing support:**
+- Trend-based product descriptions
+- Styling suggestions
+- Social media content ideas
+
+**Fast turnaround:**
+- Quick restocking of trending pieces
+- Sample program to test before committing
+- Responsive to emerging trends
+
+**Questions about trends?** Email anna@sheplusjewelry.com—we'll share our trend forecast and help you curate a collection that's both current and authentic to your brand.
+
+---
+
+*Sheplus Jewelry combines 20 years of trend expertise with genuine materials and boutique-friendly terms. We help you stay current without losing your identity.*
+    `.trim(),
+  },
 ]
