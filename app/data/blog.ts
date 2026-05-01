@@ -13001,4 +13001,466 @@ We support your customer service excellence:
 *Sheplus Jewelry believes that exceptional customer service is the foundation of a successful boutique. We're here to support you in creating experiences that turn customers into lifelong advocates.*
     `.trim(),
   },
+
+  {
+    slug: 'wedding-season-jewelry-guide-2026',
+    title: 'Wedding Season Jewelry Guide 2026: From Bridal to Guest',
+    description: 'A comprehensive guide to wedding jewelry for 2026—bridal trends, bridesmaid gifts, mother-of-the-bride pieces, and guest accessories.',
+    date: '2026-05-06',
+    readTime: '8 min read',
+    category: 'Seasonal Guide',
+    content: `
+## Wedding Season: A Jewelry Retailer's Golden Opportunity
+
+Wedding season represents one of the most significant revenue opportunities for jewelry boutiques. From engagement celebrations to bridal party gifts, rehearsal dinners to honeymoons, each wedding creates multiple jewelry purchase occasions. In 2026, weddings are bigger, bolder, and more personalized than ever.
+
+This guide covers everything you need to know about capturing wedding season sales.
+
+## The 2026 Wedding Jewelry Landscape
+
+### Current Trends
+
+**Personalization reigns supreme:**
+- Custom engraving
+- Birthstone accents
+- Meaningful symbols and coordinates
+- Mixed metals representing blended families
+
+**Sustainability matters:**
+- Lab-grown diamonds
+- Vintage and heirloom pieces
+- Ethically sourced materials
+- Local artisans and makers
+
+**Bold statements:**
+- Oversized bridal earrings
+- Chunky gold necklaces
+- Stacked wedding bands
+- Colored gemstones in bridal sets
+
+**Mix and match:**
+- Mismatched bridesmaid jewelry
+- Stacked bands of different styles
+- Combining vintage with modern
+- Layered necklaces for rehearsal dinners
+
+### The Wedding Customer Journey
+
+**Engagement (12+ months before):**
+- Engagement ring shopping
+- Wedding band selection
+- Gift registry consultation
+
+**Planning phase (6-12 months):**
+- Bridesmaid gift shopping
+- Mother-of-bride/groom pieces
+- Bridal shower gifts
+- Rehearsal dinner accessories
+
+**Final month:**
+- Last-minute bridal accessories
+- Guest outfit jewelry
+- Honeymoon pieces
+- Emergency replacements
+
+**Post-wedding:**
+- Anniversary bands
+- Push presents
+- Vow renewal pieces
+- Thank you gifts
+
+## Bridal Jewelry Trends 2026
+
+### The Modern Bride
+
+**Statement earrings:**
+- Shoulder-grazing drops
+- Bold geometric shapes
+- Vintage-inspired chandeliers
+- Mixed materials (pearl + crystal)
+
+**Necklace choices:**
+- Delicate pendants for V-necks
+- Statement pieces for strapless
+- Back necklaces for low-back dresses
+- Layered chains for boho brides
+
+**Bracelet options:**
+- Cuffs for modern brides
+- Tennis bracelets for classic elegance
+- Stackable bangles for bohemian style
+- Vintage watches for something old
+
+**Hair jewelry:**
+- Decorative combs and pins
+- Tiaras making a comeback
+- Floral crowns for outdoor weddings
+- Pearl-studded headbands
+
+### Wedding Band Trends
+
+**Stacking is standard:**
+- Multiple thin bands
+- Mixing textures and finishes
+- Adding anniversary bands over time
+- Different metals for each finger
+
+**Unique materials:**
+- Rose gold continues strong
+- Two-tone combinations
+- Black diamonds and alternative stones
+- Wooden inlays for rustic themes
+
+**Engraving ideas:**
+- Wedding dates
+- Coordinates of special places
+- Song lyrics
+- Inside jokes
+- Fingerprint engravings
+
+## Bridesmaid Jewelry
+
+### The Mismatched Trend
+
+**Why it works:**
+- Each bridesmaid gets something that suits her style
+- More likely to wear again
+- Easier to accommodate different budgets
+- Photographs beautifully
+
+**How to coordinate:**
+- Same metal, different styles
+- Same style, different stones
+- Same color family, different pieces
+- Common element (all have pearls, all have gold)
+
+### Popular Bridesmaid Pieces
+
+**Earrings (most popular):**
+- Studs for versatility
+- Small drops for elegance
+- Hoop variations
+- Personalized initials
+
+**Necklaces:**
+- Simple pendants
+- Bar necklaces with coordinates
+- Birthstone accents
+- Delicate chains with small charms
+
+**Bracelets:**
+- Cuffs (one size fits all)
+- Chain bracelets with charms
+- Beaded stretch bracelets
+- Delicate bangles
+
+**Gift presentation:**
+- Beautiful boxes with ribbon
+- Personalized notes from bride
+- Care instructions included
+- Consider display stands for getting-ready photos
+
+### Pricing for Bridesmaid Gifts
+
+**Budget-friendly ($25-$50):**
+- Simple stud earrings
+- Delicate chain necklaces
+- Basic bracelets
+- Hair accessories
+
+**Mid-range ($50-$100):**
+- Quality semi-precious pieces
+- Personalized items
+- Matching sets
+- Designer-inspired pieces
+
+**Luxury ($100-$250+):**
+- Fine jewelry
+- Gemstone pieces
+- Designer items
+- Custom designs
+
+## Mother of the Bride/Groom
+
+### Understanding This Customer
+
+**What they're looking for:**
+- Elegance without competing with bride
+- Comfort for long day
+- Pieces that photograph well
+- Something they can wear again
+
+**Common concerns:**
+- "Will this look appropriate?"
+- "I don't want to outshine the bride"
+- "Something comfortable for all-day wear"
+- "Classic, not trendy"
+
+### Recommended Pieces
+
+**Necklaces:**
+- Pearl strands (timeless)
+- Statement pendants
+- Layered delicate chains
+- Vintage-inspired pieces
+
+**Earrings:**
+- Classic drops
+- Chandeliers (not too large)
+- Pearl studs with jackets
+- Gold hoops (medium size)
+
+**Bracelets:**
+- Tennis bracelets
+- Pearl strands
+- Cuff bracelets
+- Watches with dressy bands
+
+**Brooches:**
+- Making a comeback
+- Perfect for jackets or sashes
+- Vintage pieces especially popular
+- Can be worn again on coats
+
+## Wedding Guest Jewelry
+
+### Dress Code Guidelines
+
+**White tie:**
+- Formal, elegant pieces
+- Diamonds or high-quality simulants
+- Classic pearl strands
+- Statement but sophisticated
+
+**Black tie:**
+- Cocktail attire jewelry
+- Bold earrings
+- Stackable bracelets
+- Elegant pendants
+
+**Cocktail:**
+- More playful options
+- Trend-forward pieces
+- Mix of metals acceptable
+- Statement pieces welcome
+
+**Casual/Beach:**
+- Natural materials
+- Shell and pearl
+- Delicate, breezy pieces
+- Avoid overly formal jewelry
+
+### Guest Jewelry Trends 2026
+
+**Colorful statements:**
+- Bold colored gemstones
+- Enamel pieces
+- Mixed stone designs
+- Rainbow arrangements
+
+**Vintage revival:**
+- Art deco influences
+- Victorian romantic styles
+- Estate pieces
+- Heirloom-inspired designs
+
+**Minimalist elegance:**
+- Single statement piece
+- Clean lines
+- Quality over quantity
+- Architectural designs
+
+## Marketing for Wedding Season
+
+### Content Ideas
+
+**Blog posts:**
+- "Jewelry for Every Wedding Dress Neckline"
+- "Bridesmaid Gift Ideas by Budget"
+- "How to Choose Mother of the Bride Jewelry"
+- "Wedding Guest Jewelry Etiquette"
+
+**Social media:**
+- Real wedding features
+- Before/after styling transformations
+- "Get ready with me" bridal content
+- Customer wedding photos (with permission)
+
+**Email campaigns:**
+- Wedding season lookbooks
+- Bridesmaid gift guides
+- Last-minute wedding guest accessories
+- Anniversary gift reminders
+
+### In-Store Experience
+
+**Bridal appointments:**
+- Private consultation space
+- Champagne or sparkling water
+- Full-length mirrors
+- Good lighting
+- Comfortable seating
+
+**Bridesmaid parties:**
+- Group appointment options
+- Try-on stations
+- Photo opportunities
+- Gift wrapping services
+
+**Wedding registry:**
+- Offer jewelry registry
+- Gift cards for honeymoon
+- Wish list services
+- Thank you note assistance
+
+## Inventory Planning for Wedding Season
+
+### Must-Have Categories
+
+**Bridal essentials:**
+- Classic pearl strands
+- Delicate pendant necklaces
+- Statement earrings (various sizes)
+- Tennis bracelets
+- Hair accessories
+
+**Bridesmaid staples:**
+- Simple stud earrings in multiple colors
+- Delicate chain necklaces
+- Cuff bracelets (adjustable)
+- Personalized options
+
+**Guest favorites:**
+- Cocktail rings
+- Statement earrings
+- Layering necklaces
+- Stackable bracelets
+
+### Timing Your Orders
+
+**January-February:**
+- Order for spring weddings
+- Stock up on bridesmaid gifts
+- Prepare for Valentine's engagements
+
+**March-April:**
+- Peak ordering for summer weddings
+- Mother's Day crossover inventory
+- Memorial Day wedding accessories
+
+**September-October:**
+- Order for fall weddings
+- Holiday engagement season prep
+- Homecoming and formal season
+
+## Pricing Strategies
+
+### Bridal Markup
+
+**Engagement rings:**
+- Lower margin (2x markup typical)
+- High price point
+- Consultative sale
+- Lifetime customer value
+
+**Wedding bands:**
+- Standard retail markup (2-2.5x)
+- Often sold as pair
+- Opportunity for engraving upsell
+
+**Bridal accessories:**
+- Higher margins possible (2.5-3x)
+- Emotional purchase
+- Less price-sensitive
+- One-time occasion
+
+### Package Deals
+
+**Bridal packages:**
+- "Something Old, New, Borrowed, Blue" set
+- Complete bridal jewelry package
+- Bride + bridesmaid bundles
+
+**Guest packages:**
+- "Wedding Season Wardrobe" sets
+- Mix-and-match options
+- Subscription-style styling
+
+## Building Wedding Business Relationships
+
+### Vendor Partnerships
+
+**Wedding planners:**
+- Offer commission or referral fees
+- Provide lookbooks and line sheets
+- Invite to preview events
+- Co-host bridal events
+
+**Photographers:**
+- Loan jewelry for styled shoots
+- Tag in social media
+- Offer discounts to their clients
+- Feature their work
+
+**Venues:**
+- Preferred vendor lists
+- On-site trunk shows
+- Bridal open houses
+- Styled shoot collaborations
+
+### Real Wedding Features
+
+**How to collect:**
+- Ask customers to share photos
+- Offer incentive (discount on next purchase)
+- Create hashtag for your boutique
+- Feature on website and social media
+
+**What to include:**
+- Customer testimonial
+- Jewelry details
+- Wedding style/theme
+- Photographer credit
+
+## Sheplus Jewelry Wedding Collection
+
+Our wedding offerings include:
+
+**Bridal Collection:**
+- Classic pearl strands
+- Delicate diamond pieces
+- Statement earrings
+- Hair accessories
+
+**Bridesmaid Collection:**
+- Coordinated mismatched sets
+- Personalized options
+- Price points for every budget
+- Beautiful gift packaging
+
+**Mother's Collection:**
+- Timeless elegance
+- Comfortable all-day wear
+- Pieces that photograph beautifully
+- Heirloom quality
+
+**Guest Collection:**
+- Wedding-appropriate statement pieces
+- Versatile styles for multiple events
+- Trend-forward designs
+- Affordable luxury
+
+**Services:**
+- Private bridal appointments
+- Custom engraving
+- Gift registry
+- Rush orders for last-minute needs
+
+**Questions about wedding jewelry?** Email anna@sheplusjewelry.com—we'll help you curate the perfect wedding collection, plan your inventory, and create packages that make every bride feel special.
+
+---
+
+*Sheplus Jewelry celebrates love in all its forms. From the first "yes" to the golden anniversary, we're here to help you mark life's most precious moments with beautiful, meaningful jewelry.*
+    `.trim(),
+  },
 ]
