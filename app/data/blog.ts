@@ -14464,4 +14464,568 @@ We make gifting easy:
 *Sheplus Jewelry believes the best gifts come from the heart. Whether it's a simple token or a grand gesture, we're here to help you celebrate life's moments with beautiful, meaningful jewelry.*
     `.trim(),
   },
+
+  {
+    slug: 'jewelry-care-maintenance-guide',
+    title: 'Jewelry Care & Maintenance: Keep Your Pieces Beautiful for Years',
+    description: 'A complete guide to caring for your jewelry—cleaning, storage, repairs, and professional maintenance to ensure your pieces last a lifetime.',
+    date: '2026-05-09',
+    readTime: '9 min read',
+    category: 'Jewelry Education',
+    content: `
+## Caring for Your Treasures
+
+Jewelry is more than just an accessory—it's an investment, a memory, often an heirloom. Whether it's a $50 fashion piece or a $5,000 diamond ring, proper care ensures your jewelry stays beautiful and wearable for years to come.
+
+This comprehensive guide covers everything you need to know about jewelry care, from daily maintenance to professional servicing.
+
+## Daily Wear Guidelines
+
+### Putting Jewelry On
+
+**The golden rule:**
+"Last on, first off." Jewelry should be the last thing you put on when getting dressed and the first thing you take off when you get home.
+
+**Why it matters:**
+- Makeup, hairspray, and perfume can damage jewelry
+- Clothing can catch and break chains
+- Lotion creates buildup on stones
+- Reduces exposure to chemicals and abrasives
+
+**The right order:**
+1. Apply makeup, hairspray, perfume
+2. Get dressed
+3. Put on jewelry last
+
+### Activities to Avoid
+
+**Remove jewelry before:**
+- Swimming (chlorine and salt water damage)
+- Showering (soap scum buildup)
+- Exercising (sweat and impact damage)
+- Cleaning (harsh chemicals)
+- Cooking (oils and food particles)
+- Gardening (dirt and potential damage)
+- Sleeping (chains tangle, stones loosen)
+
+**Work considerations:**
+- Remove rings when typing extensively
+- Take off bracelets during manual labor
+- Secure necklaces during active work
+- Consider work-appropriate pieces
+
+## Cleaning Your Jewelry
+
+### At-Home Cleaning Methods
+
+**Method 1: Warm Soapy Water (Safe for Most Jewelry)**
+
+Best for: Gold, platinum, diamonds, sapphires, rubies
+
+Steps:
+1. Mix warm water with mild dish soap
+2. Soak jewelry for 15-20 minutes
+3. Gently scrub with soft toothbrush
+4. Rinse thoroughly in clean water
+5. Pat dry with lint-free cloth
+6. Air dry completely before storing
+
+**Method 2: Baking Soda Paste (For Tarnished Silver)**
+
+Best for: Sterling silver
+
+Steps:
+1. Mix baking soda with water to form paste
+2. Apply with soft cloth or sponge
+3. Gently rub tarnished areas
+4. Rinse thoroughly
+5. Dry completely
+6. Polish with silver cloth
+
+**Method 3: Ammonia Solution (For Diamonds)**
+
+Best for: Diamond jewelry only
+
+Steps:
+1. Mix 1 part ammonia with 6 parts water
+2. Soak for no more than 10 minutes
+3. Gently brush with soft toothbrush
+4. Rinse extremely thoroughly
+5. Dry completely
+
+Warning: Never use on pearls, opals, emeralds, or other soft stones
+
+**Method 4: Commercial Jewelry Cleaner**
+
+Best for: Follow manufacturer's instructions
+
+Tips:
+- Read labels carefully
+- Check compatibility with your stones
+- Don't use ultrasonic cleaners on soft stones
+- Rinse thoroughly after use
+
+### What NOT to Use
+
+**Never use these on jewelry:**
+- Bleach or chlorine
+- Abrasive cleaners
+- Toothpaste (too abrasive)
+- Baking soda on soft stones
+- Vinegar on pearls or porous stones
+- Alcohol on pearls or emeralds
+- Harsh chemicals of any kind
+
+### Stone-Specific Cleaning
+
+**Diamonds:**
+- Warm soapy water is best
+- Can handle ammonia solution
+- Ultrasonic cleaner safe
+- Avoid touching the stone (oils reduce sparkle)
+
+**Pearls:**
+- Wipe with soft, damp cloth after each wear
+- Never submerge in water
+- No chemicals, soaps, or ultrasonic
+- Store separately (easily scratched)
+
+**Opals:**
+- Wipe with damp cloth only
+- Never soak or submerge
+- Avoid sudden temperature changes
+- Store with moisture (not airtight)
+
+**Emeralds:**
+- Warm soapy water only
+- No ultrasonic, no steam
+- Often treated with oil—don't remove it
+- Gentle handling required
+
+**Turquoise:**
+- Wipe with soft, dry cloth
+- Never use water or chemicals
+- Can discolor from oils and lotions
+- Store away from other jewelry
+
+**Gold:**
+- Warm soapy water safe
+- Baking soda paste for tarnish
+- Avoid chlorine (weakens gold)
+- Polish with jewelry cloth
+
+**Silver:**
+- Tarnishes naturally when exposed to air
+- Silver polishing cloth for light tarnish
+- Baking soda for heavy tarnish
+- Store in anti-tarnish bags
+
+## Proper Storage
+
+### Storage Essentials
+
+**The basics:**
+- Cool, dry place
+- Away from direct sunlight
+- Separate from other jewelry
+- In original boxes or pouches when possible
+
+**Ideal storage conditions:**
+- Temperature: 65-75°F (18-24°C)
+- Humidity: Low (40-50%)
+- Light: Minimal UV exposure
+- Air: Limited (reduces tarnish)
+
+### Storage Methods by Jewelry Type
+
+**Necklaces:**
+- Hang to prevent tangling
+- Individual hooks or organizers
+- Lay flat in separate compartments
+- Never toss in a pile
+
+**Bracelets:**
+- Lay flat in jewelry box
+- Roll in soft cloth for travel
+- Separate compartments
+- Hang bangles on bracelet trees
+
+**Rings:**
+- Ring dishes for daily wear pieces
+- Ring boxes for special pieces
+- Ring organizers with slots
+- Never stack without protection
+
+**Earrings:**
+- Keep pairs together
+- Use earring cards or organizers
+- Store studs with backs attached
+- Hang dangles to prevent damage
+
+**Watches:**
+- Watch boxes with pillows
+- Keep away from magnets
+- Store face-up or on side
+- Automatic watches: use winders or wear regularly
+
+### Travel Storage
+
+**Travel jewelry cases:**
+- Hard-sided for protection
+- Individual compartments
+- Zippered pockets
+- Mirror included
+
+**Packing tips:**
+- Carry valuable pieces in carry-on
+- Never pack fine jewelry in checked luggage
+- Use pill organizers for small items
+- Thread necklaces through straws to prevent tangling
+- Keep pieces separate (use small bags)
+
+**Hotel room safety:**
+- Use room safe when available
+- Don't leave visible in room
+- Keep in original boxes (less tempting)
+- Consider travel insurance for expensive pieces
+
+## Professional Maintenance
+
+### When to See a Professional
+
+**Immediate attention needed:**
+- Loose stones
+- Broken clasps
+- Bent prongs
+- Cracked settings
+- Chain breaks
+
+**Regular maintenance:**
+- Professional cleaning every 6-12 months
+- Prong inspection annually
+- Pearl restringing every 2-3 years (if worn often)
+- Watch servicing every 3-5 years
+
+### Professional Services
+
+**Ultrasonic cleaning:**
+- Deep cleaning for appropriate pieces
+- Removes buildup in hard-to-reach places
+- Not safe for all stones (pearls, opals, emeralds)
+- Should be done by professionals
+
+**Steam cleaning:**
+- High-pressure steam removes residue
+- Excellent for diamonds and hard stones
+- Not for soft or porous stones
+- Professional equipment required
+
+**Dip cleaning:**
+- Chemical solutions for specific metals
+- Quick and effective
+- Must know stone compatibility
+- Professional-grade solutions
+
+**Repairs:**
+- Ring sizing
+- Chain soldering
+- Stone replacement
+- Clasp repair/replacement
+- Prong rebuilding
+- Restoration services
+
+### Choosing a Jeweler
+
+**What to look for:**
+- GIA-certified gemologists on staff
+- Good reviews and reputation
+- Clear pricing for services
+- Warranty on repairs
+- Insurance while in their care
+
+**Questions to ask:**
+- Are you certified?
+- Do you have insurance?
+- What's your turnaround time?
+- Do you guarantee your work?
+- Can you show me similar work you've done?
+
+## Recognizing When Jewelry Needs Attention
+
+### Warning Signs
+
+**Loose stones:**
+- Rattling sound when shaken
+- Movement in setting
+- Visible gaps around stone
+- Prongs not touching stone
+
+**Worn metal:**
+- Thinning bands
+- Visible cracks
+- Discoloration
+- Bent or misshapen areas
+
+**Clasp issues:**
+- Difficulty opening/closing
+- Doesn't stay closed
+- Loose or wobbly
+- Visible wear
+
+**Chain problems:**
+- Kinks that won't straighten
+- Weak links
+- Discoloration in spots
+- Stretched areas
+
+### Preventive Inspection
+
+**Monthly self-check:**
+- Look at prongs under bright light
+- Check clasps for security
+- Inspect chains for weak links
+- Ensure stones are secure
+
+**Annual professional inspection:**
+- Thorough prong check
+- Professional cleaning
+- Assessment of wear patterns
+- Recommendations for maintenance
+
+## Insurance and Documentation
+
+### Jewelry Insurance
+
+**When to insure:**
+- Pieces over $1,000
+- Items with sentimental value
+- Anything you can't afford to replace
+- Heirloom pieces
+
+**Types of coverage:**
+- Homeowner's/renter's rider
+- Standalone jewelry insurance
+- Specialized jewelry policies
+
+**What you need:**
+- Professional appraisal
+- Photos of pieces
+- Receipts and certificates
+- Detailed descriptions
+
+**Regular updates:**
+- Re-appraise every 2-3 years
+- Update photos
+- Review coverage limits
+- Adjust for market changes
+
+### Documentation
+
+**Keep records of:**
+- Purchase receipts
+- Appraisals
+- Certificates (diamond, gemstone)
+- Repair records
+- Insurance policies
+- Photos (multiple angles)
+
+**Digital backup:**
+- Scan all documents
+- Store photos in cloud
+- Keep copies in safe deposit box
+- Share location with trusted person
+
+## Special Care for Specific Jewelry Types
+
+### Fine Jewelry
+
+**Diamonds:**
+- Clean regularly to maintain sparkle
+- Check prongs every 6 months
+- Remove during rough activities
+- Store separately (can scratch other jewelry)
+
+**Gold:**
+- Polish regularly to maintain luster
+- Remove before swimming (chlorine damage)
+- Store separately to prevent scratching
+- Consider rhodium plating for white gold
+
+**Platinum:**
+- Develops patina over time (character)
+- Can be polished to restore shine
+- Very durable but can scratch
+- Heavier than gold
+
+**Gemstones:**
+- Know your stone's hardness
+- Research specific care needs
+- Some stones fade in sunlight
+- Porous stones need special care
+
+### Costume Jewelry
+
+**General care:**
+- Keep away from water
+- Wipe after each wear
+- Store in dry place
+- Don't expect longevity
+
+**Plated jewelry:**
+- Plating wears off over time
+- Avoid friction and chemicals
+- Can be re-plated professionally
+- Store separately
+
+**Beaded jewelry:**
+- Check stringing regularly
+- Restring when showing wear
+- Store flat to prevent stretching
+- Keep away from moisture
+
+### Watches
+
+**Daily care:**
+- Wipe with soft cloth
+- Avoid magnets
+- Keep crown pushed in
+- Service regularly
+
+**Water resistance:**
+- Check gaskets annually
+- Don't assume water resistance is permanent
+- Have pressure tested after battery changes
+- "Water resistant" doesn't mean waterproof
+
+**Automatic watches:**
+- Wear regularly or use winder
+- Service every 3-5 years
+- Keep away from strong magnets
+- Store face-up or on side
+
+## Seasonal Care Considerations
+
+### Summer Care
+
+**Challenges:**
+- Sunscreen and lotion buildup
+- Chlorine and salt water exposure
+- Sweat and humidity
+- Sand abrasion
+
+**Solutions:**
+- Clean more frequently
+- Remove before swimming
+- Rinse after beach visits
+- Store with anti-tarnish strips
+
+### Winter Care
+
+**Challenges:**
+- Dry air (static, brittleness)
+- Heavy clothing (snagging)
+- Salt and chemical exposure
+- Temperature changes
+
+**Solutions:**
+- Moisturize hands before putting on rings
+- Be careful with scarves and necklaces
+- Clean salt residue promptly
+- Allow jewelry to adjust to temperature gradually
+
+## Troubleshooting Common Problems
+
+### Tarnished Silver
+
+**Prevention:**
+- Store in anti-tarnish bags
+- Wear regularly (skin oils prevent tarnish)
+- Keep away from sulfur sources
+- Use anti-tarnish strips in storage
+
+**Removal:**
+- Silver polishing cloth
+- Baking soda paste
+- Commercial silver cleaner
+- Professional cleaning
+
+### Dull Diamonds
+
+**Causes:**
+- Lotion and oil buildup
+- Soap scum
+- Dirt and debris
+- Touching the stone
+
+**Solutions:**
+- Regular cleaning with warm soapy water
+- Professional ultrasonic cleaning
+- Avoid touching the stone
+- Clean every 2-4 weeks
+
+### Tangled Chains
+
+**Prevention:**
+- Hang necklaces when storing
+- Store individually
+- Fasten clasps before storing
+- Use travel organizers
+
+**Removal:**
+- Work slowly with two pins
+- Lay flat on white surface
+- Use baby oil for stubborn tangles
+- Take to jeweler if desperate
+
+### Lost Stones
+
+**Prevention:**
+- Regular prong inspection
+- Professional check annually
+- Remove during risky activities
+- Don't sleep in rings
+
+**If it happens:**
+- Retrace steps
+- Check insurance coverage
+- Contact jeweler immediately
+- Save setting for repair
+
+## Sheplus Jewelry Care Services
+
+We help you keep your jewelry beautiful:
+
+**Complimentary services:**
+- Professional cleaning
+- Prong inspection
+- Sizing consultation
+- Care advice
+
+**Professional services:**
+- Ultrasonic cleaning
+- Polishing and refinishing
+- Prong repair and rebuilding
+- Stone tightening
+- Chain repair
+- Pearl restringing
+
+**Care products:**
+- Jewelry cleaning kits
+- Polishing cloths
+- Storage solutions
+- Anti-tarnish strips
+
+**Education:**
+- Care guides with every purchase
+- In-store care demonstrations
+- Online care resources
+- Personalized care recommendations
+
+**Questions about jewelry care?** Email anna@sheplusjewelry.com—we'll help you maintain your pieces, recommend care routines, and provide professional services to keep your jewelry beautiful for years.
+
+---
+
+*Sheplus Jewelry believes that well-cared-for jewelry becomes heirloom jewelry. We're here to help you protect and preserve your precious pieces for generations to come.*
+    `.trim(),
+  },
 ]
